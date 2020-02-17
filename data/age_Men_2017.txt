@@ -767,7 +767,6 @@
 766. 	GBR 	ONE 	CONT 	Peter Williams 	1986 	1 	70 	0
 767. 	RUS 	GAZ 	PROF 	Nikolai Trussov 	1985 	1 	68 	0
 768. 	BEL 	WVA 	PROF 	Kevyn Ista 	1984 	1 	65 	0
-769. 	POL 	XYZ 		Pawel Cieslik 	1986 	1 	60 	0
 770. 	CAN 	DEN 	PROF 	Antoine Duchesne 	1991 	1 	60 	0
 771. 	SLO 	ADR 	CONT 	Jure Golcer 	1977 	1 	60 	0
 772. 	AUS 	LTS 	WT 	Adam Hansen 	1981 	1 	60 	0
@@ -1463,7 +1462,6 @@
 1462. 	NED 	TNN 	PROF 	Martijn Verschoor 	1985 	1 	0 	0
 1463. 	BEL 	XYZ 		Aaron Verwilst 	1997 	1 	0 	0
 1464. 	BEL 	WGG 	PROF 	Frederik Veuchelen 	1978 	1 	0 	0
-1465. 	DEN 	TCQ 	CONT 	Torkil Veyhe 	1990 	1 	0 	0
 1466. 	ESP 	KAT 	WT 	Angel Vicioso 	1977 	1 	0 	0
 1467. 	COL 	MZN 	PROF 	Juan Villegas 	1987 	1 	0 	0
 1468. 	FRA 	FDJ 	WT 	Leo Vincent 	1995 	1 	0 	0

@@ -304,7 +304,7 @@
 298,"GER","RNR",3318,"Pascal Ackermann",1,30,140
 298,"ITA","LAM",2798,"Valerio Conti",1,10,140
 298,"ITA","XYZ",3648,"Simone Consonni",1,0,140
-298,"FRA","WGG",3603,"Guillaume Martin",1,0,140
+298,"FRA","WGG",3603,"Guillaume Martin",1,0,210
 298,"USA","AHB",3582,"Neilson Powless",1,0,140
 308,"NOR","SKY",778,"Lars Nordhaug",2,215,135
 308,"ITA","AND",573,"Marco Frapporti",1,0,135
@@ -376,7 +376,7 @@
 358,"TUN","SKD",3587,"Maher Hasnaoui",1,0,100
 358,"JPN","BGT",3599,"Sho Hatsuyama",1,0,100
 358,"NOR","FDJ",3377,"Daniel Hoelgaard",1,0,100
-358,"CAN","GQC",3601,"Bruno Langlois",1,0,100
+358,"CAN","GQC",1192,"Bruno Langlois",1,0,100
 358,"MEX","CAT",3602,"Luis Lemus",1,0,100
 358,"DEN","ONE",762,"Martin Mortensen",1,0,100
 358,"JPN","BGT",2298,"Ryota Nishizono",1,0,100
@@ -434,7 +434,6 @@
 421,"NED","TGA",367,"Laurens ten Dam",2,0,70
 421,"FRA","COF",3212,"Loic Chetout",1,0,70
 421,"FRA","FVC",528,"Anthony Delaplace",1,0,70
-421,"FRA","WGG",3374,"Guillaume Martin",1,0,70
 421,"ITA","TFS",3640,"Jacopo Mosca",1,0,70
 421,"GBR","ONE",3352,"Chris Opie",1,0,70
 421,"AUS","ONE",2326,"Steele Von Hoff",1,0,70
@@ -458,7 +457,7 @@
 446,"CAN","DEN",2809,"Antoine Duchesne",1,10,60
 446,"GER","BOA",3180,"Christoph Pfingsten",1,10,60
 446,"POL","CCC",731,"Jaroslaw Marycz",1,8,60
-446,"POL","VAT",491,"Pawel Cieslik",1,0,60
+446,"POL","VAT",3878,"Pawel Cieslik",1,0,60
 446,"FRA","FDJ",3630,"David Gaudu",1,0,60
 446,"POR","AHB",3583,"Ruben Guerreiro",1,0,60
 446,"ESP","UKO",819,"Oscar Pujol",1,0,60
@@ -706,7 +705,7 @@
 701,"RUS","GAZ",3231,"Alexander Evtushenko",1,0,4
 701,"RUS","GAZ",3395,"Alexey Kurbatov",1,0,4
 701,"CAN","RLY",3561,"Pierrick Naud",1,0,4
-701,"RUS","GAZ",3360,"Ivan Savitsky",1,0,4
+701,"RUS","GAZ",1357,"Ivan Savitsky",1,0,4
 701,"RUS","GAZ",3396,"Aydar Zakarin",1,0,4
 710,"ITA","CCC",813,"Simone Ponzi",8,575,2
 710,"BEL","EQS",1171,"Guillaume Van Keirsbulck",6,140,2
@@ -949,7 +948,7 @@
 722,"POL","CCC",3121,"Piotr Brozyna",1,0,0
 722,"FRA","FVC",3120,"Frédéric Brun",1,0,0
 722,"SUI","ROT",3406,"Nico Brüngger",1,0,0
-722,"BRA","FSC",3329,"Otavio Bulgarelli",1,0,0
+722,"BRA","FSC",1142,"Otavio Bulgarelli",1,0,0
 722,"SUI","ROT",3447,"Dimitri Bussard",1,0,0
 722,"USA","CAT",1334,"Christopher Butler",1,0,0
 722,"FRA","FVC",3215,"Maxime Cam",1,0,0
@@ -962,7 +961,7 @@
 722,"ITA","AND",2795,"Giorgio Cecchinel",1,0,0
 722,"ESP","W52",202,"Gustavo Cesar",1,0,0
 722,"COL","ANQ",1106,"Robinson Chalapud",1,0,0
-722,"POL","VAT",3333,"Pawel Charucki",1,0,0
+722,"POL","VAT",1091,"Pawel Charucki",1,0,0
 722,"FRA","FDJ",206,"Sébastien Chavanel",1,0,0
 722,"FRA","TNN",3138,"Corentin Cherhal",1,0,0
 722,"FRA","IAM",3039,"Clement Chevrier",1,0,0
@@ -982,7 +981,6 @@
 722,"ITA","AND",517,"Tiziano Dall\'Antonia",1,0,0
 722,"FRA","RLM",1189,"Thomas Damuseau",1,0,0
 722,"FRA","AUB",2973,"Flavien Dassonville",1,0,0
-722,"BEL","VWT",3593,"Dries De Bondt",1,0,0
 722,"BEL","LTS",2699,"Jasper De Buyst",1,0,0
 722,"BEL","TSV",3415,"Aimé De Gendt",1,0,0
 722,"BEL","CIB",1374,"Kevin De Jonghe",1,0,0
@@ -1087,7 +1085,6 @@
 722,"NED","TNN",3444,"Brian Kamstra",1,0,0
 722,"USA","UHC",2701,"Luke Keough",1,0,0
 722,"AUS","DPC",2831,"Jordan Kerby",1,0,0
-722,"NED","ROP",3224,"Tim Kerkhof",1,0,0
 722,"GER","RNR",2660,"Michel Koch",1,0,0
 722,"GER","SSG",3347,"Thomas Koep",1,0,0
 722,"SUI","ROT",673,"Martin Kohler",1,0,0
@@ -1122,7 +1119,6 @@
 722,"COL","TNN",2709,"David Lozano",1,0,0
 722,"SWE","TGA",3184,"Fredrik Ludvigsson",1,0,0
 722,"NOR","TGA",3394,"Sindre Skjøstad Lunke",1,0,0
-722,"DEN","ABB",3654,"Martin Toft Madsen",1,0,0
 722,"USA","UHC",3356,"Tyler Magner",1,0,0
 722,"BRA","FSC",3454,"Nathan Mahler",1,0,0
 722,"FRA","FDJ",3418,"Jérémy Maison",1,0,0
@@ -1137,7 +1133,7 @@
 722,"AUS","XYZ",3136,"Daniel McConnell",1,0,0
 722,"NZL","ONE",3399,"Hayden McCormick",1,0,0
 722,"GBR","NPC",2263,"Jonathan McEvoy",1,0,0
-722,"USA","RLY",3824,"Brandon McNulty",1,0,0
+722,"USA","RLY",3825,"Brandon McNulty",1,0,0
 722,"POR","W52",2613,"Ricardo Mestre",1,0,0
 722,"AUS","DPC",748,"Travis Meyer",1,0,0
 722,"ESP","DCT",1111,"Diego Milan",1,0,0

@@ -357,7 +357,7 @@
 343,"NOR","XYZ",3267,"Fredrik Strand Galta",1,0,100
 343,"NED","BMC",3311,"Floris Gerts",1,0,100
 343,"VEN","AND",2724,"Yonder Godoy",1,0,100
-343,"SLO","RWS",605,"Jure Golcer",1,0,100
+343,"SLO","RWS",605,"Jure Golcer",1,50,100
 343,"BRA","FUN",768,"Magno Nazaret",1,0,100
 343,"BEL","WIL",3312,"Olivier Pardini",1,0,100
 343,"NOR","TJO",3310,"Adrian Aas Stien",1,0,100
@@ -756,7 +756,6 @@
 693,"BEL","BMC",702,"Klaas Lodewyck",1,55,0
 693,"ESP","XYZ",61,"Juan Jose Cobo",1,50,0
 693,"ESP","BUR",2983,"Jesus Del Pino",1,50,0
-693,"SLO","RWS",3007,"Jure Golcer",1,50,0
 693,"GER","STG",2999,"Silvio Herklotz",1,50,0
 693,"FRA","FDJ",647,"Arnold Jeannesson",1,50,0
 693,"FRA","FDJ",974,"Cédric Pineau",1,50,0
@@ -903,7 +902,7 @@
 693,"ITA","XYZ",207,"Riccardo Chiarini",1,0,0
 693,"ITA","BAR",3158,"Luca Chirico",1,0,0
 693,"DEN","RIW",1184,"Mads Christensen",1,0,0
-693,"POL","WHI",491,"Pawel Cieslik",1,0,0
+693,"POL","WHI",3878,"Pawel Cieslik",1,0,0
 693,"BEL","CSH",1373,"Kevin Claeys",1,0,0
 693,"IRL","TNN",2712,"Stephan Clancy",1,0,0
 693,"AUS","UHC",1234,"Hilton Clarke",1,0,0
@@ -947,8 +946,6 @@
 693,"BEL","WGG",3163,"Boris Dron",1,0,0
 693,"FRA","XYZ",2738,"Benoit Drujon",1,0,0
 693,"ESP","EFG",546,"Arkaitz Duran",1,0,0
-693,"FRA","ADT",3249,"Julien Duval",1,0,0
-693,"FRA","ADT",3250,"Julien Duval",1,0,0
 693,"KAZ","AST",232,"Alexandr Dyachenko",1,0,0
 693,"AUS","SKY",2810,"Nathan Earle",1,0,0
 693,"DEN","AND",3173,"John Ebsen",1,0,0
@@ -1031,7 +1028,7 @@
 693,"USA","XYZ",1235,"Jake Keough",1,0,0
 693,"USA","UHC",2701,"Luke Keough",1,0,0
 693,"AUS","DPC",2831,"Jordan Kerby",1,0,0
-693,"NED","ROO",3224,"Tim Kerkhof",1,0,0
+693,"NED","ROO",3606,"Tim Kerkhof",1,0,0
 693,"USA","TCG",664,"Ted King",1,0,0
 693,"DEN","RIW",669,"Kasper Klostergaard",1,0,0
 693,"GER","SKY",137,"Christian Knees",1,0,0

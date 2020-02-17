@@ -520,7 +520,7 @@
 518,"NED","SUN",914,"Albert Timmer",1,0,37
 520,"ITA","QST",455,"Gianluca Brambilla",12,909,36
 521,"BEL","TLJ",1353,"Gijs Van Hoecke",1,80,35
-521,"POL","ELA",3878,"Pawel Cieslik",1,0,35
+521,"POL","ELA",3878,"Pawel Cieslik",1,60,35
 523,"GBR","SKY",894,"Ian Stannard",8,505,34
 524,"ITA","SAN",3645,"Paolo Toto",1,50,32
 525,"BEL","LTS",1167,"Bart De Clercq",4,205,30
@@ -570,7 +570,7 @@
 569,"SUI","KAT",623,"Reto Hollenstein",4,340,25
 569,"ITA","WGG",308,"Danilo Napolitano",2,130,25
 569,"RUS","LOK",3231,"Alexander Evtushenko",1,4,25
-569,"RUS","GAZ",3360,"Ivan Savitsky",1,4,25
+569,"RUS","GAZ",1357,"Ivan Savitsky",1,4,25
 569,"EST","AUB",3009,"Alo Jakin",1,0,25
 569,"USA","HCR",3356,"Tyler Magner",1,0,25
 569,"LTU","DMP",2318,"Evaldas Siskevicius",1,0,25
@@ -739,7 +739,7 @@
 684,"TUN","XYZ",3587,"Maher Hasnaoui",1,100,0
 684,"JPN","BGT",3599,"Sho Hatsuyama",1,100,0
 684,"NOR","FDJ",3377,"Daniel Hoelgaard",1,100,0
-684,"CAN","XYZ",3601,"Bruno Langlois",1,100,0
+684,"CAN","XYZ",1192,"Bruno Langlois",1,100,0
 684,"MEX","ICA",3602,"Luis Lemus",1,100,0
 684,"DEN","TCQ",762,"Martin Mortensen",1,100,0
 684,"BRA","SOU",3330,"Flavio Cardoso",1,100,0
@@ -767,7 +767,6 @@
 684,"GBR","ONE",3334,"Peter Williams",1,70,0
 684,"RUS","GAZ",370,"Nikolai Trussov",1,68,0
 684,"BEL","WVA",134,"Kevyn Ista",1,65,0
-684,"POL","XYZ",491,"Pawel Cieslik",1,60,0
 684,"CAN","DEN",2809,"Antoine Duchesne",1,60,0
 684,"SLO","ADR",605,"Jure Golcer",1,60,0
 684,"AUS","LTS",262,"Adam Hansen",1,60,0
@@ -972,11 +971,11 @@
 684,"FRA","XYZ",3120,"Frédéric Brun",1,0,0
 684,"SUI","XYZ",3406,"Nico Brüngger",1,0,0
 684,"RUS","GAZ",195,"Pavel Brutt",1,0,0
-684,"BRA","XYZ",3329,"Otavio Bulgarelli",1,0,0
+684,"BRA","XYZ",1142,"Otavio Bulgarelli",1,0,0
 684,"SUI","XYZ",3447,"Dimitri Bussard",1,0,0
 684,"USA","CJR",1334,"Christopher Butler",1,0,0
 684,"ESP","XYZ",3950,"Oscar Cabedo",1,0,0
-684,"AUS","TNN",3721,"Fabio Calabria",1,0,0
+684,"AUS","TNN",1218,"Fabio Calabria",1,0,0
 684,"FRA","XYZ",3215,"Maxime Cam",1,0,0
 684,"BEL","XYZ",1155,"Edwig Cammaerts",1,0,0
 684,"FRA","XYZ",3263,"Fabien Canal",1,0,0
@@ -988,7 +987,7 @@
 684,"ESP","W52",202,"Gustavo Cesar",1,0,0
 684,"FRA","XYZ",203,"Steve Chainel",1,0,0
 684,"COL","GWS",1106,"Robinson Chalapud",1,0,0
-684,"POL","XYZ",3333,"Pawel Charucki",1,0,0
+684,"POL","XYZ",1091,"Pawel Charucki",1,0,0
 684,"FRA","TNN",3138,"Corentin Cherhal",1,0,0
 684,"RUS","GAZ",4006,"Nicolay Cherkasov",1,0,0
 684,"FRA","ALM",3039,"Clement Chevrier",1,0,0
@@ -1006,7 +1005,7 @@
 684,"ITA","TFS",3932,"Nicola Conci",1,0,0
 684,"ITA","XYZ",2799,"Samuele Conti",1,0,0
 684,"COL","ECZ",3238,"Rodrigo Contreras",1,0,0
-684,"FRA","FVC",3726,"Erwann Corbel",1,0,0
+684,"FRA","FVC",2711,"Erwann Corbel",1,0,0
 684,"FRA","DEN",3355,"Jérémy Cornu",1,0,0
 684,"POR","XYZ",3217,"Mario Costa",1,0,0
 684,"FRA","FDJ",1256,"Arnaud Courteille",1,0,0
@@ -1136,7 +1135,7 @@
 684,"ESP","SKY",639,"Beñat Intxausti",1,0,0
 684,"ESP","CJR",3751,"Jon Irissari",1,0,0
 684,"ESP","EUS",3969,"Julen Irizar",1,0,0
-684,"IRL","ABS",3752,"Martyn Irvine",1,0,0
+684,"IRL","ABS",2726,"Martyn Irvine",1,0,0
 684,"RUS","XYZ",641,"Vladimir Isaychev",1,0,0
 684,"JPN","BGT",3132,"Manabu Ishibashi",1,0,0
 684,"JPN","NIP",3753,"Masakazu Ito",1,0,0
@@ -1258,7 +1257,7 @@
 684,"AUS","XYZ",3335,"Glenn O\'Shea",1,0,0
 684,"CRC","DCT",2762,"Gregory Juel Brenes Obando",1,0,0
 684,"USA","CJR",3773,"Justin Oien",1,0,0
-684,"NED","TLJ",3774,"Daan Olivier",1,0,0
+684,"NED","TLJ",2313,"Daan Olivier",1,0,0
 684,"SWE","XYZ",3270,"Michael Olsson",1,0,0
 684,"KAZ","XYZ",3546,"Dias Omirzakov",1,0,0
 684,"NZL","ONE",3044,"James Oram",1,0,0
@@ -1463,7 +1462,6 @@
 684,"NED","TNN",1223,"Martijn Verschoor",1,0,0
 684,"BEL","XYZ",3988,"Aaron Verwilst",1,0,0
 684,"BEL","WGG",948,"Frederik Veuchelen",1,0,0
-684,"DEN","TCQ",3909,"Torkil Veyhe",1,0,0
 684,"ESP","KAT",385,"Angel Vicioso",1,0,0
 684,"COL","MZN",1103,"Juan Villegas",1,0,0
 684,"FRA","FDJ",3814,"Leo Vincent",1,0,0

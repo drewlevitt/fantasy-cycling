@@ -1010,8 +1010,6 @@
 1009. 	FRA 	AUB 	CONT 	Romain Feillu 	1984 	1 	0 	0
 1010. 	POR 	BBH 	PROF 	Jose Fernandes 	1995 	1 	0 	0
 1011. 	POR 	W52 	PROF 	José Ferreira 	1994 	1 	0 	0
-1012. 	FRA 	TDE 	PROF 	Valentin Ferron 	1998 	1 	0 	0
-1013. 	FRA 	TDE 	PROF 	Valentin Ferron 	1998 	1 	0 	0
 1014. 	POR 	XYZ 		Frederico Figueiredo 	1991 	1 	0 	0
 1015. 	ITA 	DMP 	PROF 	Iuri Filosi 	1992 	1 	0 	0
 1016. 	RUS 	XYZ 		Sergey Firsanov 	1982 	1 	0 	0
