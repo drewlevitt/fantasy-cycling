@@ -1,0 +1,1381 @@
+	Country 	UCI Team 	UCI Cat 	Rider 	Born 	Price 	Prev 	Score ↓
+1. 	SLO 	TJV 	WT 	Primož Roglič 	1989 	28 	1882 	4070
+2. 	ESP 	MOV 	WT 	Alejandro Valverde 	1980 	34 	3404 	2910
+3. 	COL 	SKY 	WT 	Egan Bernal 	1997 	24 	1161 	2752
+4. 	FRA 	DQT 	WT 	Julian Alaphilippe 	1992 	30 	2396 	2601
+5. 	GER 	BOH 	WT 	Pascal Ackermann 	1994 	20 	1645 	2462
+6. 	DEN 	AST 	WT 	Jakob Fuglsang 	1985 	8 	950 	2421
+7. 	NOR 	UAD 	WT 	Alexander Kristoff 	1987 	22 	1465 	2239
+8. 	BEL 	CPT 	WT 	Greg Van Avermaet 	1985 	28 	2068 	2153
+9. 	SVK 	BOH 	WT 	Peter Sagan 	1990 	40 	2805 	2014
+10. 	ITA 	DQT 	WT 	Elia Viviani 	1989 	28 	2455 	1832
+11. 	NED 	COC 	PROF 	Mathieu van der Poel 	1995 	8 	525 	1778
+12. 	SLO 	UAD 	WT 	Tadej Pogacar 	1998 	1 	80 	1736
+13. 	ITA 	MTS 	WT 	Matteo Trentin 	1989 	10 	848 	1713
+14. 	NED 	TFS 	WT 	Bauke Mollema 	1986 	12 	1150 	1690
+15. 	NED 	TJV 	WT 	Dylan Groenewegen 	1993 	14 	946 	1611
+16. 	BEL 	ALM 	WT 	Oliver Naesen 	1990 	18 	1430 	1605
+17. 	GBR 	MTS 	WT 	Adam Yates 	1992 	18 	739 	1603
+18. 	BEL 	DQT 	WT 	Yves Lampaert 	1991 	10 	951 	1562
+19. 	KAZ 	AST 	WT 	Alexey Lutsenko 	1992 	4 	430 	1525
+20. 	IRL 	BOH 	WT 	Sam Bennett 	1990 	10 	985 	1517
+21. 	NED 	TJV 	WT 	Mike Teunissen 	1992 	2 	310 	1507
+22. 	BEL 	LTS 	WT 	Tim Wellens 	1991 	18 	1558 	1471
+23. 	AUS 	LTS 	WT 	Caleb Ewan 	1994 	8 	635 	1470
+24. 	GER 	BOH 	WT 	Maximilian Schachmann 	1994 	16 	1261 	1464
+25. 	COL 	AST 	WT 	Miguel Angel Lopez 	1994 	26 	1980 	1453
+26. 	GER 	BOH 	WT 	Emanuel Buchmann 	1992 	6 	690 	1401
+27. 	ITA 	UAD 	WT 	Diego Ulissi 	1989 	12 	560 	1400
+28. 	CAN 	EF1 	WT 	Michael Woods 	1986 	12 	1155 	1385
+29. 	BEL 	LTS 	WT 	Tiesj Benoot 	1994 	16 	1112 	1380
+30. 	COL 	MOV 	WT 	Nairo Quintana 	1990 	20 	1190 	1370
+31. 	FRA 	GFC 	WT 	David Gaudu 	1996 	2 	255 	1285
+32. 	BEL 	DQT 	WT 	Remco Evenepoel 	2000 	10 	0 	1276
+33. 	BEL 	TJV 	WT 	Wout Van Aert 	1994 	12 	770 	1175
+34. 	SUI 	GFC 	WT 	Stefan Küng 	1993 	6 	630 	1160
+35. 	ITA 	TBM 	WT 	Vincenzo Nibali 	1984 	20 	830 	1152
+36. 	ITA 	TBM 	WT 	Sonny Colbrelli 	1990 	16 	1548 	1135
+37. 	ESP 	MOV 	WT 	Mikel Landa 	1989 	6 	655 	1135
+38. 	COL 	EF1 	WT 	Sergio Andres Higuita 	1997 	1 	0 	1114
+39. 	ECU 	MOV 	WT 	Richard Carapaz 	1993 	10 	880 	1110
+40. 	AUS 	SUN 	WT 	Michael Matthews 	1990 	22 	1693 	1102
+41. 	BEL 	TFS 	WT 	Jasper Stuyven 	1992 	26 	1905 	1100
+42. 	FRA 	GFC 	WT 	Arnaud Démare 	1991 	20 	1852 	1050
+43. 	DEN 	DQT 	WT 	Kasper Asgreen 	1995 	1 	163 	1047
+44. 	POL 	BOH 	WT 	Rafal Majka 	1989 	10 	835 	1007
+45. 	COL 	UAD 	WT 	Fernando Gaviria 	1994 	16 	629 	981
+46. 	ESP 	DQT 	WT 	Enric Mas Nicolau 	1995 	16 	1100 	943
+47. 	CZE 	DQT 	WT 	Zdeněk Štybar 	1985 	10 	985 	933
+48. 	RUS 	SKY 	WT 	Pavel Sivakov 	1997 	2 	184 	925
+49. 	NOR 	TJV 	WT 	Amund Groendahl Jansen 	1994 	1 	154 	912
+50. 	LUX 	DQT 	WT 	Bob Jungels 	1992 	12 	1046 	910
+51. 	BEL 	DQT 	WT 	Philippe Gilbert 	1982 	18 	1209 	898
+52. 	NED 	DQT 	WT 	Fabio Jakobsen 	1996 	14 	1074 	890
+53. 	AUS 	MTS 	WT 	Jack Haig 	1993 	2 	330 	875
+54. 	GER 	TKA 	WT 	Nils Politt 	1994 	6 	770 	868
+55. 	ITA 	NSK 	PROF 	Giovanni Visconti 	1983 	6 	670 	845
+56. 	BEL 	TBM 	WT 	Dylan Teuns 	1992 	12 	1091 	802
+57. 	ITA 	SKY 	WT 	Filippo Ganna 	1996 	1 	50 	791
+58. 	POL 	SKY 	WT 	Michal Kwiatkowski 	1990 	22 	1518 	781
+59. 	ITA 	BOH 	WT 	Davide Formolo 	1992 	8 	800 	777
+60. 	GBR 	SKY 	WT 	Geraint Thomas 	1986 	24 	1748 	768
+61. 	BEL 	UAD 	WT 	Jasper Philipsen 	1998 	2 	360 	765
+62. 	AUS 	TBM 	WT 	Rohan Dennis 	1990 	14 	1226 	743
+63. 	ITA 	TFS 	WT 	Giulio Ciccone 	1994 	2 	305 	735
+64. 	NED 	TJV 	WT 	Steven Kruijswijk 	1987 	10 	1065 	725
+65. 	FRA 	GFC 	WT 	Marc Sarreau 	1993 	2 	230 	720
+66. 	FRA 	DQT 	WT 	Florian Senechal 	1993 	4 	500 	715
+67. 	BEL 	EF1 	WT 	Sep Vanmarcke 	1988 	8 	834 	710
+68. 	BEL 	LTS 	WT 	Jasper De Buyst 	1993 	2 	175 	710
+69. 	COL 	DQT 	WT 	Alvaro Hodeg 	1996 	10 	662 	709
+70. 	ITA 	EF1 	WT 	Alberto Bettiol 	1993 	2 	10 	705
+71. 	FRA 	WGG 	PROF 	Guillaume Martin 	1993 	6 	600 	695
+72. 	SUI 	SUN 	WT 	Marc Hirschi 	1998 	1 	120 	695
+73. 	ITA 	ANS 	PROF 	Andrea Vendrame 	1994 	1 	140 	685
+74. 	FRA 	ALM 	WT 	Benoit Cosnefroy 	1995 	2 	200 	675
+75. 	BEL 	LTS 	WT 	Jens Keukeleire 	1988 	2 	302 	665
+76. 	AUS 	EF1 	WT 	Simon Clarke 	1986 	1 	100 	665
+77. 	AUT 	BOH 	WT 	Felix Großschartner 	1993 	4 	511 	662
+78. 	FRA 	GFC 	WT 	Thibaut Pinot 	1990 	24 	2185 	655
+79. 	COL 	SKY 	WT 	Ivan Ramiro Sosa 	1997 	6 	420 	655
+80. 	ITA 	MTS 	WT 	Edoardo Affini 	1996 	1 	0 	655
+81. 	FRA 	ALM 	WT 	Romain Bardet 	1990 	24 	2100 	650
+82. 	AUT 	BOH 	WT 	Patrick Konrad 	1991 	8 	945 	650
+83. 	POR 	UAD 	WT 	Rui Costa 	1986 	4 	510 	650
+84. 	GBR 	MTS 	WT 	Simon Yates 	1992 	32 	2751 	645
+85. 	GBR 	SKY 	WT 	Christopher Lawless 	1995 	2 	314 	637
+86. 	FRA 	VCB 	PROF 	Bryan Coquard 	1992 	2 	230 	635
+87. 	NED 	SUN 	WT 	Cees Bol 	1995 	1 	10 	633
+88. 	IRL 	UAD 	WT 	Daniel Martin 	1986 	14 	935 	630
+89. 	FRA 	PCB 	PROF 	Warren Barguil 	1991 	2 	355 	630
+90. 	NOR 	SKY 	WT 	Kristoffer Halvorsen 	1996 	2 	175 	630
+91. 	DEN 	TDD 	WT 	Michael Valgren 	1992 	14 	1375 	620
+92. 	ESP 	AST 	WT 	Ion Izagirre 	1989 	12 	1135 	620
+93. 	GER 	SUN 	WT 	Maximilian Walscheid 	1993 	4 	428 	612
+94. 	GER 	TFS 	WT 	John Degenkolb 	1989 	8 	765 	609
+95. 	NED 	TJV 	WT 	Jos van Emden 	1985 	2 	239 	607
+96. 	ITA 	TDD 	WT 	Giacomo Nizzolo 	1989 	4 	492 	605
+97. 	SLO 	TBM 	WT 	Matej Mohoric 	1994 	14 	1390 	580
+98. 	GBR 	DQT 	WT 	James Knox 	1995 	1 	90 	568
+99. 	DEN 	DQT 	WT 	Michael Mørkøv 	1985 	1 	125 	558
+100. 	GBR 	SKY 	WT 	Tao Geoghegan Hart 	1995 	2 	290 	540
+101. 	DEN 	TFS 	WT 	Mads Pedersen 	1995 	8 	615 	525
+102. 	BEL 	LTS 	WT 	Victor Campenaerts 	1991 	6 	737 	520
+103. 	BEL 	LTS 	WT 	Bjorg Lambrecht 	1997 	2 	244 	518
+104. 	FRA 	COF 	PROF 	Christophe Laporte 	1992 	6 	725 	495
+105. 	ESP 	TBM 	WT 	Ivan Garcia Cortina 	1995 	1 	170 	495
+106. 	NED 	SUN 	WT 	Wilco Kelderman 	1991 	8 	880 	493
+107. 	LAT 	TFS 	WT 	Toms Skujins 	1991 	6 	705 	485
+108. 	FRA 	COF 	PROF 	Hugo Hofstetter 	1994 	6 	600 	485
+109. 	NOR 	LTS 	WT 	Carl Fredrik Hagen 	1991 	1 	140 	483
+110. 	GBR 	TKA 	WT 	Alex Dowsett 	1988 	1 	170 	479
+111. 	FRA 	ALM 	WT 	Pierre Latour 	1993 	10 	1010 	475
+112. 	FRA 	ALM 	WT 	Nans Peters 	1994 	1 	100 	460
+113. 	FRA 	TDE 	PROF 	Anthony Turgis 	1994 	1 	30 	460
+114. 	BEL 	ICA 	PROF 	Tom Van Asbroeck 	1990 	1 	56 	458
+115. 	BEL 	WVA 	PROF 	Baptiste Planckaert 	1988 	2 	210 	455
+116. 	ITA 	ANS 	PROF 	Fausto Masnada 	1993 	1 	50 	455
+117. 	FRA 	GFC 	WT 	Valentin Madouas 	1996 	4 	490 	450
+118. 	BEL 	TJV 	WT 	Laurens De Plus 	1995 	2 	200 	450
+119. 	BEL 	ICA 	PROF 	Ben Hermans 	1986 	2 	375 	448
+120. 	ESP 	MTS 	WT 	Mikel Nieve 	1984 	2 	294 	445
+121. 	RUS 	TKA 	WT 	Ilnur Zakarin 	1989 	10 	335 	439
+122. 	NED 	SKY 	WT 	Wout Poels 	1987 	4 	443 	438
+123. 	NED 	TDE 	PROF 	Niki Terpstra 	1984 	12 	1426 	435
+124. 	BEL 	COC 	PROF 	Dries De Bondt 	1991 	1 	140 	435
+125. 	BEL 	PSV 	CONT 	Tim Merlier 	1992 	1 	70 	435
+126. 	COL 	EF1 	WT 	Rigoberto Uran 	1987 	14 	1285 	434
+127. 	GBR 	EF1 	WT 	Hugh Carthy 	1994 	2 	322 	434
+128. 	COL 	EF1 	WT 	Daniel Martinez 	1996 	4 	510 	429
+129. 	SLO 	MTS 	WT 	Luka Mezgec 	1988 	2 	176 	428
+130. 	NED 	SUN 	WT 	Tom Dumoulin 	1990 	32 	2230 	422
+131. 	NOR 	TDD 	WT 	Edvald Boasson Hagen 	1987 	10 	785 	408
+132. 	FRA 	TDE 	PROF 	Lilian Calmejane 	1992 	4 	420 	400
+133. 	ESP 	AST 	WT 	Gorka Izagirre 	1987 	4 	405 	400
+134. 	ITA 	SKY 	WT 	Gianni Moscon 	1994 	20 	1423 	398
+135. 	BEL 	LTS 	WT 	Thomas De Gendt 	1986 	4 	408 	393
+136. 	ITA 	AST 	WT 	David Villella 	1991 	1 	100 	385
+137. 	ITA 	ICA 	PROF 	Kristian Sbaragli 	1990 	2 	230 	375
+138. 	BEL 	WGG 	PROF 	Timothy Dupont 	1987 	4 	590 	370
+139. 	BEL 	TFS 	WT 	Edward Theuns 	1991 	2 	193 	365
+140. 	AUS 	TFS 	WT 	Richie Porte 	1985 	12 	518 	360
+141. 	LAT 	ICA 	PROF 	Krists Neilands 	1994 	2 	290 	360
+142. 	USA 	EF1 	WT 	Tejay van Garderen 	1988 	4 	427 	358
+143. 	NED 	TJV 	WT 	Timo Roosen 	1993 	4 	498 	355
+144. 	ITA 	SKY 	WT 	Diego Rosa 	1989 	2 	264 	353
+145. 	RSA 	MTS 	WT 	Daryl Impey 	1984 	4 	422 	350
+146. 	FRA 	GFC 	WT 	Rudy Molard 	1989 	2 	365 	350
+147. 	NED 	EF1 	WT 	Sebastian Langeveld 	1985 	1 	0 	346
+148. 	ITA 	ICA 	PROF 	Davide Cimolai 	1989 	1 	140 	340
+149. 	IRL 	SKY 	WT 	Eddie Dunbar 	1996 	1 	160 	339
+150. 	BLR 	UAD 	WT 	Aliaksandr Riabushenko 	1995 	1 	41 	337
+151. 	NED 	TJV 	WT 	Danny van Poppel 	1993 	6 	627 	325
+152. 	ITA 	WGG 	PROF 	Andrea Pasqualon 	1988 	4 	490 	320
+153. 	SLO 	TKA 	WT 	Simon Spilak 	1986 	1 	140 	320
+154. 	RUS 	GAZ 	PROF 	Alexander Vlasov 	1996 	1 	0 	320
+155. 	ITA 	UAD 	WT 	Simone Consonni 	1994 	2 	308 	315
+156. 	AUS 	MTS 	WT 	Lucas Hamilton 	1996 	1 	177 	313
+157. 	NZL 	TJV 	WT 	George Bennett 	1990 	10 	885 	310
+158. 	NED 	TJV 	WT 	Antwan Tolhoek 	1994 	4 	416 	310
+159. 	DEN 	TJV 	WT 	Jonas Vingegaard Rasmussen 	1996 	1 	0 	308
+160. 	ESP 	AST 	WT 	Luis Leon Sanchez 	1983 	2 	279 	305
+161. 	ITA 	UAD 	WT 	Valerio Conti 	1993 	1 	79 	305
+162. 	UKR 	TBM 	WT 	Mark Padun 	1996 	1 	153 	300
+163. 	FRA 	DQT 	WT 	Remi Cavagna 	1995 	4 	345 	298
+164. 	NZL 	CPT 	WT 	Patrick Bevin 	1991 	4 	593 	290
+165. 	SUI 	ALM 	WT 	Mathias Frank 	1986 	2 	320 	290
+166. 	FRA 	TDE 	PROF 	Adrien Petit 	1990 	1 	80 	290
+167. 	CZE 	AST 	WT 	Jan Hirt 	1991 	1 	50 	290
+168. 	ESP 	COF 	PROF 	Jesus Herrada 	1990 	2 	230 	285
+169. 	NOR 	WGG 	PROF 	Odd Christian Eiking 	1994 	1 	50 	285
+170. 	GER 	TJV 	WT 	Tony Martin 	1985 	2 	355 	284
+171. 	EST 	EF1 	WT 	Tanel Kangert 	1987 	1 	255 	280
+172. 	ESP 	BBH 	PROF 	Angel Madrazo 	1988 	1 	40 	280
+173. 	ECU 	EF1 	WT 	Jonathan Klever Caicedo 	1993 	1 	0 	280
+174. 	BEL 	LTS 	WT 	Lawrence Naesen 	1992 	1 	44 	278
+175. 	BEL 	COC 	PROF 	Roy Jans 	1990 	1 	180 	275
+176. 	COL 	MOV 	WT 	Carlos Betancur 	1989 	1 	150 	275
+177. 	ESP 	MOV 	WT 	Marc Soler 	1993 	6 	660 	270
+178. 	SLO 	UAD 	WT 	Jan Polanc 	1992 	1 	131 	270
+179. 	ITA 	ANS 	PROF 	Mattia Cattaneo 	1990 	2 	310 	265
+180. 	NED 	TDD 	WT 	Tom Jelte Slagter 	1989 	1 	60 	262
+181. 	ITA 	AST 	WT 	Davide Ballerini 	1994 	6 	670 	260
+182. 	AUS 	SUN 	WT 	Jai Hindley 	1996 	1 	16 	257
+183. 	USA 	EF1 	WT 	Lawson Craddock 	1992 	1 	100 	254
+184. 	AUT 	TKA 	WT 	Marko Haller 	1991 	1 	70 	254
+185. 	COL 	MTS 	WT 	Esteban Chaves 	1990 	10 	160 	250
+186. 	USA 	EF1 	WT 	Joe Dombrowski 	1991 	1 	130 	250
+187. 	NED 	ROC 	PROF 	Boy van Poppel 	1988 	1 	90 	250
+188. 	FRA 	TDE 	PROF 	Jonathan Hivert 	1985 	2 	315 	245
+189. 	NED 	SKY 	WT 	Dylan van Baarle 	1992 	4 	460 	242
+190. 	ESP 	AST 	WT 	Pello Bilbao 	1990 	4 	525 	240
+191. 	LAT 	WVA 	PROF 	Emils Liepins 	1992 	1 	10 	240
+192. 	BEL 	SVB 	PROF 	Piet Allegaert 	1995 	1 	0 	240
+193. 	BEL 	SVB 	PROF 	Amaury Capiot 	1993 	1 	175 	235
+194. 	RUS 	GAZ 	PROF 	Nicolay Cherkasov 	1996 	1 	0 	235
+195. 	POR 	MOV 	WT 	Nelson Oliveira 	1989 	2 	285 	230
+196. 	GER 	TBM 	WT 	Phil Bauhaus 	1994 	2 	215 	227
+197. 	FRA 	ALM 	WT 	Alexis Gougeard 	1993 	1 	100 	225
+198. 	BEL 	LTS 	WT 	Tosh Van der Sande 	1990 	1 	38 	225
+199. 	BEL 	VCB 	PROF 	Jonas Van Genechten 	1986 	2 	385 	220
+200. 	ESP 	MOV 	WT 	Carlos Verona Quintanilla 	1992 	2 	325 	220
+201. 	BEL 	WGG 	PROF 	Loic Vliegen 	1993 	1 	28 	220
+202. 	ITA 	NIP 	PROF 	Damiano Cima 	1993 	1 	0 	220
+203. 	TPE 	TBM 	WT 	Chun Kai Feng 	1988 	1 	0 	220
+204. 	USA 	PDC 		Chris Fontecchio 	1965 	1 	0 	220
+205. 	CRC 	MOV 	WT 	Andrey Amador 	1986 	1 	40 	215
+206. 	GBR 	SKY 	WT 	Owain Doull 	1993 	1 	184 	214
+207. 	FRA 	ALM 	WT 	Tony Gallopin 	1988 	2 	250 	210
+208. 	FRA 	TDE 	PROF 	Thomas Boudat 	1994 	2 	200 	210
+209. 	ITA 	NSK 	PROF 	Simone Velasco 	1995 	1 	130 	210
+210. 	ITA 	TBM 	WT 	Domenico Pozzovivo 	1982 	14 	1280 	205
+211. 	DEN 	AST 	WT 	Magnus Cort Nielsen 	1993 	4 	415 	200
+212. 	EST 	TDE 	PROF 	Rein Taaramäe 	1987 	2 	335 	200
+213. 	KAZ 	AST 	WT 	Yevgeniy Gidich 	1996 	1 	110 	200
+214. 	CRO 	ANS 	PROF 	Josip Rumac 	1994 	1 	100 	200
+215. 	BEL 	WGG 	PROF 	Aimé De Gendt 	1994 	1 	80 	200
+216. 	ITA 	NSK 	PROF 	Davide Gabburo 	1993 	1 	0 	200
+217. 	CYP 	GUE 	CONT 	Andreas Miltiadis 	1996 	1 	0 	200
+218. 	GER 	DQT 	WT 	Jannik Steimle 	1996 	1 	0 	200
+219. 	ARG 	DQT 	WT 	Maximiliano Richeze 	1983 	1 	88 	199
+220. 	NZL 	MTS 	WT 	Dion Smith 	1993 	2 	255 	196
+221. 	ITA 	CPT 	WT 	Alessandro De Marchi 	1986 	2 	390 	190
+222. 	SUI 	GFC 	WT 	Sebastien Reichenbach 	1989 	2 	350 	190
+223. 	BEL 	LTS 	WT 	Jelle Wallays 	1989 	1 	192 	190
+224. 	AUT 	BOH 	WT 	Lukas Pöstlberger 	1992 	2 	130 	190
+225. 	GER 	BOH 	WT 	Rüdiger Selig 	1989 	1 	73 	190
+226. 	ITA 	CPT 	WT 	Jakub Mareczko 	1994 	1 	60 	188
+227. 	ESP 	SKY 	WT 	David De La Cruz 	1989 	4 	440 	184
+228. 	DEN 	HBA 	PROF 	Mikkel Bjerg 	1998 	1 	125 	182
+229. 	BEL 	LTS 	WT 	Jelle Vanendert 	1985 	4 	587 	180
+230. 	FRA 	WVA 	PROF 	Justin Jules 	1986 	2 	320 	180
+231. 	USA 	TJV 	WT 	Sepp Kuss 	1994 	2 	294 	180
+232. 	IRL 	SUN 	WT 	Nicholas Roche 	1984 	2 	150 	180
+233. 	GBR 	SKY 	WT 	Ben Swift 	1987 	2 	20 	177
+234. 	FRA 	COF 	PROF 	Nacer Bouhanni 	1990 	8 	270 	175
+235. 	ESP 	EUS 	PROF 	Oscar Rodriquez 	1995 	1 	100 	175
+236. 	ESP 	CJR 	PROF 	Jon Aberasturi Izaga 	1989 	1 	55 	175
+237. 	AUS 	MTS 	WT 	Damien Howson 	1992 	1 	146 	173
+238. 	ITA 	TBM 	WT 	Damiano Caruso 	1987 	6 	678 	172
+239. 	GER 	SUN 	WT 	Nikias Arndt 	1991 	1 	97 	172
+240. 	USA 	HBA 	PROF 	Ian Garrison 	1998 	1 	0 	172
+241. 	POL 	BOH 	WT 	Maciej Bodnar 	1985 	1 	180 	171
+242. 	DEN 	RIW 	PROF 	Alexander Kamp 	1993 	1 	165 	170
+243. 	EST 	AUB 	CONT 	Alo Jakin 	1986 	1 	0 	170
+244. 	BEL 	WVA 	PROF 	Lionel Taminiaux 	1996 	1 	0 	170
+245. 	POL 	CPT 	WT 	Szymon Sajnok 	1997 	1 	145 	168
+246. 	ESP 	CJR 	PROF 	Alex Aranburu 	1995 	1 	90 	166
+247. 	CZE 	ELA 	CONT 	Jan Barta 	1984 	1 	116 	165
+248. 	SWE 	GFC 	WT 	Tobias Ludvigsson 	1991 	1 	100 	160
+249. 	ERI 	TDD 	WT 	Amanuel Gebrezgabihier 	1994 	1 	30 	160
+250. 	SLO 	TBM 	WT 	Domen Novak 	1995 	1 	10 	160
+251. 	RSA 	TDD 	WT 	Stefan de Bod 	1996 	1 	0 	160
+252. 	GER 	CPT 	WT 	Simon Geschke 	1986 	1 	89 	158
+253. 	IRL 	TFS 	WT 	Ryan Mullen 	1994 	2 	273 	156
+254. 	ITA 	TFS 	WT 	Matteo Moschetti 	1996 	1 	80 	155
+255. 	GER 	PCB 	PROF 	André Greipel 	1982 	6 	651 	150
+256. 	ITA 	AST 	WT 	Dario Cataldo 	1985 	2 	230 	150
+257. 	RSA 	TDD 	WT 	Reinardt Janse van Rensburg 	1989 	1 	160 	150
+258. 	ALG 	TSG 	CONT 	Youcef Reguigui 	1990 	1 	100 	150
+259. 	CAN 	RLY 	PROF 	Rob Britton 	1984 	1 	20 	150
+260. 	HKG 	HKS 	CONT 	King Lok Cheung 	1991 	1 	0 	150
+261. 	AUT 	ICA 	PROF 	Matthias Brändle 	1989 	1 	45 	148
+262. 	DEN 	ABB 	CONT 	Martin Toft Madsen 	1985 	4 	410 	145
+263. 	ESP 	MOV 	WT 	Carlos Barbero Questa 	1991 	2 	250 	145
+264. 	LTU 	DMP 	PROF 	Evaldas Siskevicius 	1988 	1 	10 	145
+265. 	ITA 	SEG 	CONT 	Alberto Dainese 	1998 	1 	0 	145
+266. 	NED 	SUN 	WT 	Joris Nieuwenhuis 	1996 	1 	0 	145
+267. 	NOR 	UXT 	CONT 	Anders Skaarseth 	1995 	1 	0 	145
+268. 	DEN 	RIW 	PROF 	Rasmus Quaade 	1990 	2 	250 	144
+269. 	AUS 	MTS 	WT 	Nicholas Schultz 	1994 	1 	103 	144
+270. 	ITA 	NIP 	PROF 	Imerio Cima 	1997 	1 	0 	143
+271. 	NED 	SUN 	WT 	Sam Oomen 	1995 	8 	701 	142
+272. 	NED 	TJV 	WT 	Taco van der Hoorn 	1993 	4 	360 	142
+273. 	AUS 	TBM 	WT 	Heinrich Haussler 	1984 	1 	5 	142
+274. 	SVK 	BOH 	WT 	Juraj Sagan 	1988 	1 	30 	141
+275. 	FRA 	COF 	PROF 	Nicolas Edet 	1987 	2 	340 	140
+276. 	ROU 	DMP 	PROF 	Eduard Michael Grosu 	1992 	2 	300 	140
+277. 	AUT 	TBM 	WT 	Hermann Pernsteiner 	1990 	2 	275 	140
+278. 	ERI 	AST 	WT 	Merhawi Kudus Ghebremedhin 	1994 	1 	140 	140
+279. 	USA 	RLY 	PROF 	Robin Carpenter 	1992 	1 	60 	140
+280. 	ESP 	CPT 	WT 	Victor De La Parte 	1986 	1 	10 	140
+281. 	SRB 	ADR 	CONT 	Dušan Rajović 	1997 	1 	0 	140
+282. 	SLO 	TBM 	WT 	Jan Tratnik 	1990 	4 	429 	138
+283. 	BLR 	SKY 	WT 	Vasil Kiryienka 	1981 	2 	287 	137
+284. 	BEL 	NRL 	CONT 	Emiel Vermeulen 	1993 	1 	110 	135
+285. 	FRA 	ICA 	PROF 	Rudy Barbier 	1992 	2 	80 	133
+286. 	ITA 	TDD 	WT 	Enrico Gasparotto 	1982 	4 	590 	130
+287. 	BEL 	COF 	PROF 	Dimitri Claeys 	1987 	1 	310 	130
+288. 	NED 	PCB 	PROF 	Bram Welten 	1997 	2 	245 	130
+289. 	FRA 	VCB 	PROF 	Quentin Pacher 	1992 	2 	210 	130
+290. 	CAN 	RLY 	PROF 	Adam De Vos 	1993 	1 	25 	130
+291. 	FRA 	PCB 	PROF 	Franck Bonnamour 	1995 	1 	0 	130
+292. 	ERI 	BAI 	CONT 	Mekseb Debesay 	1991 	1 	0 	130
+293. 	ITA 	TDD 	WT 	Alexander Konychev 	1998 	1 	0 	130
+294. 	GBR 	SKY 	WT 	Luke Rowe 	1990 	1 	41 	128
+295. 	BEL 	SVB 	PROF 	Benjamin Declercq 	1994 	1 	110 	125
+296. 	ITA 	TFS 	WT 	Fabio Felline 	1990 	1 	97 	124
+297. 	SWE 	RIW 	PROF 	Lucas Eriksson 	1996 	1 	0 	124
+298. 	ESP 	SKY 	WT 	Jonathan Castroviejo 	1987 	6 	725 	123
+299. 	LUX 	BOH 	WT 	Jempy Drucker 	1986 	4 	505 	122
+300. 	UAE 	UAD 	WT 	Yousef Mohamed Mirza 	1988 	1 	16 	122
+301. 	DEN 	SUN 	WT 	Søren Kragh Andersen 	1994 	6 	644 	121
+302. 	ITA 	ANS 	PROF 	Manuel Belletti 	1985 	4 	500 	120
+303. 	ITA 	TFS 	WT 	Gianluca Brambilla 	1987 	2 	360 	120
+304. 	POR 	TKA 	WT 	Ruben Guerreiro 	1994 	2 	308 	120
+305. 	NED 	ROC 	PROF 	Jan-Willem van Schip 	1994 	1 	160 	120
+306. 	SLO 	TBM 	WT 	Grega Bole 	1985 	1 	120 	120
+307. 	FRA 	ALM 	WT 	Quentin Jauregui 	1994 	1 	80 	120
+308. 	BEL 	VCB 	PROF 	Kris Boeckmans 	1987 	1 	60 	120
+309. 	ITA 	BRD 	PROF 	Lorenzo Rota 	1995 	1 	10 	120
+310. 	BEL 	TKA 	WT 	Jens Debusschere 	1989 	6 	605 	119
+311. 	USA 	SUN 	WT 	Chad Haga 	1988 	1 	104 	119
+312. 	ESP 	MOV 	WT 	Eduard Prades 	1987 	4 	585 	115
+313. 	LTU 	ALM 	WT 	Gediminas Bagdonas 	1985 	2 	335 	115
+314. 	ITA 	UAD 	WT 	Fabio Aru 	1990 	6 	315 	115
+315. 	BEL 	DQT 	WT 	Pieter Serry 	1988 	2 	300 	115
+316. 	BEL 	SVB 	PROF 	Christophe Noppe 	1994 	1 	10 	115
+317. 	DEN 	TKA 	WT 	Mads Würtz Schmidt 	1994 	1 	70 	114
+318. 	BEL 	LTS 	WT 	Sander Armee 	1985 	1 	28 	113
+319. 	ITA 	DQT 	WT 	Davide Martinelli 	1993 	1 	148 	112
+320. 	FRA 	COF 	PROF 	Julien Simon 	1985 	4 	480 	110
+321. 	ITA 	TDE 	PROF 	Niccolo Bonifazio 	1993 	2 	250 	110
+322. 	ITA 	BRD 	PROF 	Giovanni Carboni 	1995 	1 	80 	110
+323. 	COL 	ICA 	PROF 	Edwin Avila 	1989 	1 	60 	110
+324. 	FRA 	ALM 	WT 	Geoffrey Bouchard 	1992 	1 	0 	110
+325. 	ARG 	MOV 	WT 	Eduardo Sepulveda 	1991 	1 	0 	110
+326. 	NED 	EF1 	WT 	Moreno Hofland 	1991 	1 	109 	106
+327. 	BEL 	WGG 	PROF 	Xandro Meurisse 	1992 	4 	430 	105
+328. 	USA 	TJV 	WT 	Neilson Powless 	1996 	2 	203 	105
+329. 	POR 	TKA 	WT 	José Gonçalves 	1989 	1 	155 	104
+330. 	AUT 	BOH 	WT 	Gregor Mühlberger 	1994 	2 	260 	102
+331. 	AUS 	MTS 	WT 	Alexander Edmondson 	1993 	1 	0 	102
+332. 	FRA 	ALM 	WT 	Alexis Vuillermoz 	1988 	2 	370 	100
+333. 	NED 	TDE 	PROF 	Pim Ligthart 	1988 	2 	280 	100
+334. 	RUS 	TSG 	CONT 	Artem Ovechkin 	1986 	1 	225 	100
+335. 	ROU 	FPC 	CONT 	Serghei Tvetcov 	1988 	1 	145 	100
+336. 	RWA 	DMP 	PROF 	Joseph Areruya 	1996 	1 	100 	100
+337. 	AZE 	XYZ 		Elchin Asadov 	1987 	1 	100 	100
+338. 	KAZ 	AST 	WT 	Daniil Fominykh 	1991 	1 	100 	100
+339. 	ETH 	MTS 	WT 	Tsgabu Gebremariam Grmay 	1991 	1 	100 	100
+340. 	CZE 	ELA 	CONT 	Frantisek Sisr 	1993 	1 	100 	100
+341. 	DEN 	COF 	PROF 	Jesper Hansen 	1990 	1 	95 	100
+342. 	ERI 	COF 	PROF 	Natnael Berhane 	1991 	1 	60 	100
+343. 	FRA 	ALM 	WT 	Clement Venturini 	1993 	1 	55 	100
+344. 	ITA 	BOH 	WT 	Cesare Benedetti 	1987 	1 	50 	100
+345. 	RSA 	TDD 	WT 	Ryan Gibbons 	1994 	1 	20 	100
+346. 	ISR 	ICA 	PROF 	Guy Sagiv 	1994 	1 	6 	100
+347. 	POL 	DCC 	CONT 	Michal Paluta 	1995 	1 	4 	100
+348. 	POL 	LTS 	WT 	Tomasz Marczynski 	1984 	1 	2 	100
+349. 	FRA 	NRL 	CONT 	Thibault Ferasse 	1994 	1 	0 	100
+350. 	USA 	EF1 	WT 	Alex Howes 	1988 	1 	0 	100
+351. 	ESP 	EUS 	PROF 	Mikel Iturria 	1992 	1 	0 	100
+352. 	DEN 	TCQ 	CONT 	Niklas Larsen 	1997 	1 	0 	100
+353. 	NOR 	UXT 	CONT 	Andreas Leknessund 	1999 	1 	0 	100
+354. 	JPN 	BLZ 	CONT 	Nariyuki Masuda 	1983 	1 	0 	100
+355. 	POR 	STA 	CONT 	Jose Joao Mendes 	1985 	1 	0 	100
+356. 	LTU 	DMP 	PROF 	Ramunas Navardauskas 	1988 	1 	0 	100
+357. 	ISR 	ICA 	PROF 	Guy Niv 	1994 	1 	0 	100
+358. 	TUR 	SBB 	CONT 	Ahmet Orken 	1993 	1 	0 	100
+359. 	ITA 	BRD 	PROF 	Daniel Savini 	1997 	1 	0 	100
+360. 	FRA 	GFC 	WT 	Benjamin Thomas 	1995 	1 	0 	100
+361. 	GBR 	DHB 	CONT 	Rory Townsend 	1995 	1 	0 	100
+362. 	RWA 	XYZ 		Bonaventure Uwizeyimana 	1993 	1 	0 	100
+363. 	HUN 	CDT 	CONT 	Attila Valter 	1998 	1 	0 	100
+364. 	CZE 	ICA 	PROF 	Daniel Turek 	1993 	1 	8 	98
+365. 	BEL 	CPT 	WT 	Nathan Van Hooydonck 	1995 	1 	47 	96
+366. 	NED 	TJV 	WT 	Robert Gesink 	1986 	1 	170 	95
+367. 	CAN 	ELV 	CONT 	James Piccoli 	1991 	1 	40 	95
+368. 	FRA 	DMP 	PROF 	Julien El Fares 	1985 	1 	8 	95
+369. 	SUI 	SRA 	CONT 	Stefan Bissegger 	1998 	1 	0 	95
+370. 	DEN 	RIW 	PROF 	Andreas Kron 	1998 	1 	0 	95
+371. 	URU 	CJR 	PROF 	Mauricio Moreira 	1995 	1 	0 	95
+372. 	GER 	MOV 	WT 	Jasha Sütterlin 	1992 	1 	160 	94
+373. 	BEL 	SUN 	WT 	Jan Bakelants 	1986 	2 	100 	94
+374. 	GER 	BOH 	WT 	Christoph Pfingsten 	1992 	1 	120 	92
+375. 	ECU 	SKY 	WT 	Jhonatan Narvaez 	1997 	4 	346 	90
+376. 	SUI 	VBG 	CONT 	Patrick Schelling 	1990 	1 	92 	90
+377. 	AUS 	SUN 	WT 	Chris Hamilton 	1995 	1 	80 	90
+378. 	ITA 	TKA 	WT 	Matteo Fabbro 	1995 	1 	30 	90
+379. 	ESP 	MOV 	WT 	Antonio Pedrero 	1991 	1 	15 	90
+380. 	BEL 	CPT 	WT 	Gijs Van Hoecke 	1991 	1 	24 	88
+381. 	GBR 	EF1 	WT 	Daniel McLay 	1992 	1 	91 	86
+382. 	ITA 	ANS 	PROF 	Francesco Gavazzi 	1984 	2 	360 	85
+383. 	FRA 	VCB 	PROF 	Pierre Rolland 	1986 	1 	120 	85
+384. 	AUS 	MTS 	WT 	Luke Durbridge 	1991 	2 	104 	85
+385. 	FRA 	DMP 	PROF 	Alexis Guerin 	1992 	1 	23 	83
+386. 	AUS 	SUN 	WT 	Michael Storer 	1997 	1 	186 	82
+387. 	NOR 	UXT 	CONT 	Markus Hoelgaard 	1994 	1 	165 	80
+388. 	GER 	CPT 	WT 	Jonas Koch 	1993 	1 	144 	80
+389. 	ITA 	DMP 	PROF 	Mauro Finetto 	1985 	1 	110 	80
+390. 	ITA 	AMO 	CONT 	Pierpaolo Ficara 	1991 	1 	60 	80
+391. 	FRA 	ALM 	WT 	Julien Duval 	1990 	1 	50 	80
+392. 	FRA 	COF 	PROF 	Damien Touze 	1996 	1 	45 	80
+393. 	POL 	CPT 	WT 	Kamil Gradek 	1990 	1 	39 	80
+394. 	GER 	BOH 	WT 	Michael Schwarzmann 	1991 	1 	38 	80
+395. 	ITA 	SAN 	CONT 	Paolo Toto 	1991 	1 	22 	80
+396. 	USA 	ALM 	WT 	Larry Warbasse 	1990 	1 	10 	80
+397. 	BEL 	TFL 	CONT 	Toon Aerts 	1993 	1 	0 	80
+398. 	FRA 	NRL 	CONT 	Pierre Barbier 	1997 	1 	0 	80
+399. 	FRA 	ALM 	WT 	Clément Champoussin 	1998 	1 	0 	80
+400. 	FRA 	WGG 	PROF 	Fabien Doubey 	1993 	1 	0 	80
+401. 	SUI 	IAM 	CONT 	Fabian Lienhard 	1993 	1 	0 	80
+402. 	ESP 	MTR 	CONT 	Francisco Mancebo 	1976 	1 	0 	80
+403. 	CRC 	ANS 	PROF 	Kevin Rivera 	1998 	1 	0 	80
+404. 	RUS 	GAZ 	PROF 	Evgeny Shalunov 	1992 	1 	0 	80
+405. 	DEN 	RIW 	PROF 	Emil Vinjebo 	1994 	1 	0 	80
+406. 	KAZ 	AST 	WT 	Andrey Zeits 	1986 	1 	0 	80
+407. 	GER 	BOH 	WT 	Andreas Schillinger 	1983 	1 	38 	78
+408. 	NED 	TJV 	WT 	Pascal Eenkhoorn 	1997 	2 	246 	77
+409. 	NED 	SUN 	WT 	Martijn Tusveld 	1993 	1 	87 	76
+410. 	BEL 	CPT 	WT 	Guillaume Van Keirsbulck 	1991 	1 	0 	76
+411. 	CZE 	TDD 	WT 	Roman Kreuziger 	1986 	6 	740 	75
+412. 	NED 	TJV 	WT 	Koen Bouwman 	1993 	2 	210 	75
+413. 	CAN 	AST 	WT 	Hugo Houle 	1990 	1 	170 	75
+414. 	SUI 	IAM 	CONT 	Simon Pellaud 	1992 	1 	0 	75
+415. 	SUI 	MTS 	WT 	Michael Albasini 	1980 	2 	374 	74
+416. 	GER 	TKA 	WT 	Rick Zabel 	1993 	1 	82 	74
+417. 	AUS 	MTS 	WT 	Robert Stannard 	1998 	1 	30 	72
+418. 	COL 	UAD 	WT 	Sergio Henao 	1987 	2 	355 	70
+419. 	FRA 	COF 	PROF 	Pierre-Luc Perichon 	1987 	1 	190 	70
+420. 	SUI 	UAD 	WT 	Tom Bohli 	1994 	1 	81 	70
+421. 	ITA 	BOH 	WT 	Daniel Oss 	1987 	1 	80 	70
+422. 	NED 	ROC 	PROF 	Maurits Lammertink 	1990 	1 	70 	70
+423. 	ESP 	EUS 	PROF 	Fernando Barcelo 	1996 	1 	30 	70
+424. 	ESP 	CJR 	PROF 	Jonathan Lastra 	1993 	1 	23 	70
+425. 	BEL 	SVB 	PROF 	Dries Van Gestel 	1994 	1 	15 	70
+426. 	NED 	VLA 	CONT 	Yoeri Havik 	1991 	1 	10 	70
+427. 	GBR 	RPC 	CONT 	John Archibald 	1990 	1 	0 	70
+428. 	NED 	ALE 	CONT 	Robbert De Greef 	1991 	1 	0 	70
+429. 	FRA 	TDE 	PROF 	Valentin Ferron 	1998 	1 	0 	70
+430. 	GBR 	XYZ 		Ethan Hayter 	1998 	1 	0 	70
+431. 	CHN 	HEN 	CONT 	Xianjing Lyu 	1998 	1 	0 	70
+432. 	COL 	NSK 	PROF 	Dayer Quintana 	1992 	1 	0 	70
+433. 	GBR 	MGT 	CONT 	Matthew Holmes 	1993 	1 	40 	65
+434. 	FRA 	ALM 	WT 	Dorian Godon 	1996 	1 	25 	65
+435. 	NED 	MET 	CONT 	Arvid De Kleijn 	1994 	1 	0 	65
+436. 	GBR 	EF1 	WT 	Matthew Walls 	1998 	1 	0 	65
+437. 	ITA 	BOH 	WT 	Oscar Gatto 	1985 	1 	0 	63
+438. 	BEL 	TJV 	WT 	Maarten Wynants 	1982 	1 	46 	62
+439. 	SVK 	BOH 	WT 	Erik Baška 	1994 	1 	38 	61
+440. 	BEL 	WGG 	PROF 	Jerome Baugnies 	1987 	2 	205 	60
+441. 	AUS 	BOH 	WT 	Jay McCarthy 	1992 	1 	100 	60
+442. 	ITA 	BRD 	PROF 	Mirco Maestri 	1991 	1 	70 	60
+443. 	RSA 	TDD 	WT 	Louis Meintjes 	1992 	2 	20 	60
+444. 	GBR 	XYZ 		James Shaw 	1996 	1 	16 	60
+445. 	ITA 	TFS 	WT 	Nicola Conci 	1997 	1 	12 	60
+446. 	FRA 	PCB 	PROF 	Romain Hardy 	1988 	1 	0 	60
+447. 	POR 	W52 	PROF 	Edgar Pinto 	1985 	1 	0 	60
+448. 	NED 	ROC 	PROF 	Elmar Reinders 	1992 	1 	0 	60
+449. 	GBR 	XYZ 		Jacob Scott 	1995 	1 	0 	60
+450. 	BEL 	DQT 	WT 	Dries Devenyns 	1983 	1 	120 	58
+451. 	NZL 	EVO 	CONT 	Shane Archbold 	1989 	1 	6 	57
+452. 	GER 	TJV 	WT 	Paul Martens 	1983 	1 	0 	57
+453. 	GER 	SUN 	WT 	Lennard Kämna 	1996 	1 	0 	56
+454. 	ITA 	NIP 	PROF 	Marco Canola 	1988 	4 	545 	55
+455. 	COL 	MZN 	PROF 	Jhonatan Restrepo 	1994 	2 	200 	55
+456. 	DEN 	COC 	PROF 	Lasse Hansen 	1992 	1 	83 	55
+457. 	ESP 	EUS 	PROF 	Mikel Aristi 	1993 	1 	0 	55
+458. 	FRA 	PCB 	PROF 	Elie Gesbert 	1995 	1 	0 	55
+459. 	FRA 	ALM 	WT 	Aurélien Paret-Peintre 	1996 	1 	0 	55
+460. 	BEL 	WGG 	PROF 	Boris Vallee 	1993 	1 	0 	55
+461. 	DEN 	RIW 	PROF 	Nicolai Brøchner 	1993 	1 	0 	54
+462. 	USA 	MTS 	WT 	Brent Bookwalter 	1984 	1 	105 	53
+463. 	DEN 	SUN 	WT 	Casper Phillip Pedersen 	1996 	1 	80 	53
+464. 	NED 	TJV 	WT 	Tom Leezer 	1985 	1 	78 	52
+465. 	POR 	HBA 	PROF 	João Almeida 	1998 	1 	0 	52
+466. 	DEN 	TDD 	WT 	Lars Ytting Bak 	1980 	1 	0 	52
+467. 	BEL 	TFL 	CONT 	Quinten Hermans 	1995 	2 	215 	50
+468. 	NED 	ROC 	PROF 	Oscar Riesebeek 	1992 	1 	150 	50
+469. 	USA 	RLY 	PROF 	Brandon McNulty 	1998 	1 	100 	50
+470. 	ITA 	NIP 	PROF 	Nicola Bagioli 	1995 	1 	90 	50
+471. 	ESP 	MOV 	WT 	Jose Joaquin Rojas 	1985 	1 	65 	50
+472. 	BEL 	ROC 	PROF 	Michael Van Staeyen 	1988 	1 	20 	50
+473. 	JPN 	NIP 	PROF 	Hideto Nakane 	1990 	1 	10 	50
+474. 	SLO 	ADR 	CONT 	Marko Kump 	1988 	1 	0 	50
+475. 	NOR 	RIW 	PROF 	Sindre Skjøstad Lunke 	1993 	1 	0 	50
+476. 	NED 	COC 	PROF 	Maarten Van Trijp 	1993 	1 	0 	50
+477. 	BEL 	SVB 	PROF 	Sasha Weemaes 	1998 	1 	0 	50
+478. 	AUS 	MTS 	WT 	Michael Hepburn 	1991 	1 	104 	47
+479. 	COL 	CJR 	PROF 	Nelson Soto 	1994 	1 	30 	46
+480. 	ITA 	NSK 	PROF 	Umberto Marengo 	1992 	1 	0 	45
+481. 	DEN 	RIW 	PROF 	Mathias Norsgaard 	1997 	1 	0 	44
+482. 	ITA 	DMP 	PROF 	Alessandro Fedeli 	1996 	1 	0 	43
+483. 	BEL 	TJV 	WT 	Floris De Tier 	1992 	1 	74 	42
+484. 	POL 	SKY 	WT 	Michal Golas 	1984 	1 	30 	41
+485. 	CZE 	CPT 	WT 	Josef Cerny 	1993 	2 	281 	40
+486. 	FRA 	PCB 	PROF 	Anthony Delaplace 	1989 	1 	90 	40
+487. 	AUT 	CPT 	WT 	Riccardo Zoidl 	1988 	1 	68 	40
+488. 	POR 	UAD 	WT 	Rui Oliveira 	1996 	1 	60 	40
+489. 	BEL 	WGG 	PROF 	Frederik Backaert 	1990 	1 	55 	40
+490. 	BEL 	TKA 	WT 	Steff Cras 	1996 	1 	40 	40
+491. 	ITA 	ANS 	PROF 	Matteo Montaguti 	1984 	1 	30 	40
+492. 	BEL 	SVB 	PROF 	Milan Menten 	1996 	1 	15 	40
+493. 	BEL 	SVB 	PROF 	Edward Planckaert 	1995 	1 	10 	40
+494. 	NED 	ROC 	PROF 	Jesper Asselman 	1990 	1 	0 	40
+495. 	NED 	BBH 	PROF 	Jetse Bol 	1989 	1 	0 	40
+496. 	USA 	AEV 	CONT 	Alex Hoehn 	1997 	1 	0 	40
+497. 	BEL 	ROC 	PROF 	Arjen Livyns 	1994 	1 	0 	40
+498. 	BEL 	WVA 	PROF 	Ludovic Robeet 	1994 	1 	0 	40
+499. 	ITA 	ICA 	PROF 	Riccardo Minali 	1995 	2 	380 	38
+500. 	POL 	CPT 	WT 	Lukasz Wisniowski 	1991 	2 	290 	38
+501. 	BEL 	CPT 	WT 	Serge Pauwels 	1983 	1 	110 	38
+502. 	BEL 	LTS 	WT 	Remy Mertz 	1995 	1 	97 	38
+503. 	AUS 	MTS 	WT 	Callum Scotson 	1996 	1 	30 	38
+504. 	LUX 	TFS 	WT 	Alex Kirsch 	1992 	1 	70 	36
+505. 	ITA 	CJR 	PROF 	Matteo Malucelli 	1993 	1 	40 	36
+506. 	NZL 	EF1 	WT 	Thomas Scully 	1990 	1 	0 	36
+507. 	GBR 	MGT 	CONT 	Connor Swift 	1995 	1 	135 	35
+508. 	BEL 	VCB 	PROF 	Bert De Backer 	1984 	1 	0 	35
+509. 	BEL 	LTS 	WT 	Brent Van Moer 	1998 	1 	0 	35
+510. 	AUS 	MTS 	WT 	Cameron Meyer 	1988 	4 	400 	34
+511. 	CZE 	DQT 	WT 	Petr Vakoc 	1992 	1 	0 	34
+512. 	BEL 	SUN 	WT 	Louis Vervaeke 	1993 	1 	16 	32
+513. 	SUI 	ALM 	WT 	Silvan Dillier 	1990 	4 	490 	30
+514. 	ITA 	EF1 	WT 	Sacha Modolo 	1987 	4 	405 	30
+515. 	FRA 	AUB 	CONT 	Kevin Le Cunff 	1988 	1 	115 	30
+516. 	AUS 	GFC 	WT 	Miles Scotson 	1994 	1 	98 	30
+517. 	NZL 	TFS 	WT 	Alex Frame 	1993 	1 	68 	30
+518. 	FRA 	TDE 	PROF 	Romain Cardis 	1992 	1 	50 	30
+519. 	COL 	MOV 	WT 	Winner Anacona 	1988 	1 	40 	30
+520. 	ESP 	ICA 	PROF 	Ruben Plaza 	1980 	1 	40 	30
+521. 	GBR 	XYZ 		Scott Thwaites 	1990 	1 	40 	30
+522. 	NED 	EVO 	CONT 	Wouter Wippert 	1990 	1 	40 	30
+523. 	ESP 	COF 	PROF 	Jose Herrada 	1985 	1 	30 	30
+524. 	JPN 	TFS 	WT 	Fumiyuki Beppu 	1983 	1 	28 	30
+525. 	NED 	ROC 	PROF 	Lars Boom 	1985 	2 	26 	30
+526. 	POR 	CPT 	WT 	Manuel Antunes Amaro 	1990 	1 	4 	30
+527. 	KAZ 	AST 	WT 	Zhandos Bizhigitov 	1991 	1 	0 	30
+528. 	FRA 	DMP 	PROF 	Alexandre Delettre 	1997 	1 	0 	30
+529. 	FIN 	ALM 	WT 	Jaakko Hänninen 	1997 	1 	0 	30
+530. 	SUI 	VCB 	PROF 	Patrick Müller 	1996 	1 	0 	30
+531. 	SUI 	VBG 	CONT 	Roland Thalmann 	1993 	1 	0 	30
+532. 	BEL 	SVB 	PROF 	Kenneth Van Rooy 	1993 	1 	0 	30
+533. 	GER 	COC 	PROF 	Philipp Walsleben 	1987 	1 	0 	30
+534. 	FRA 	ALM 	WT 	Alexandre Geniez 	1988 	2 	280 	25
+535. 	NED 	ROC 	PROF 	Pieter Weening 	1981 	1 	235 	25
+536. 	USA 	TDD 	WT 	Benjamin King 	1989 	2 	200 	25
+537. 	ITA 	ANS 	PROF 	Matteo Pelucchi 	1989 	1 	180 	25
+538. 	USA 	FPC 	CONT 	Travis McCabe 	1989 	1 	160 	25
+539. 	BEL 	WGG 	PROF 	Tom Devriendt 	1991 	1 	40 	25
+540. 	COL 	UAD 	WT 	Juan Sebastian Molano 	1994 	1 	0 	25
+541. 	AUS 	EF1 	WT 	Lachlan Morton 	1992 	1 	0 	25
+542. 	AUS 	EF1 	WT 	Mitchell Docker 	1986 	1 	0 	24
+543. 	GER 	BOH 	WT 	Marcus Burghardt 	1983 	1 	105 	22
+544. 	ITA 	UAD 	WT 	Roberto Ferrari 	1983 	1 	16 	22
+545. 	NOR 	TDD 	WT 	Rasmus Fossum Tiller 	1996 	1 	15 	22
+546. 	ITA 	UAD 	WT 	Manuele Mori 	1980 	1 	4 	22
+547. 	ESP 	NIP 	PROF 	Juan Jose Lobato 	1988 	4 	520 	20
+548. 	ESP 	AST 	WT 	Omar Fraile 	1990 	2 	275 	20
+549. 	ITA 	AMO 	CONT 	Marco Tizza 	1992 	1 	200 	20
+550. 	BEL 	LTS 	WT 	Frederik Frison 	1992 	1 	150 	20
+551. 	ITA 	BRD 	PROF 	Paolo Simion 	1992 	1 	140 	20
+552. 	FRA 	NRL 	CONT 	Julien Antomarchi 	1984 	1 	90 	20
+553. 	FRA 	ALM 	WT 	François Bidard 	1992 	1 	70 	20
+554. 	BEL 	WVA 	PROF 	Kevyn Ista 	1984 	1 	60 	20
+555. 	ITA 	AST 	WT 	Manuele Boaro 	1987 	1 	40 	20
+556. 	ITA 	COF 	PROF 	Filippo Fortin 	1989 	1 	8 	20
+557. 	ESP 	CJR 	PROF 	Gonzalo Serrano 	1994 	1 	3 	20
+558. 	GBR 	TDD 	WT 	Stephen Cummings 	1981 	1 	0 	20
+559. 	FRA 	VCB 	PROF 	Cyril Gautier 	1987 	1 	0 	20
+560. 	RUS 	GAZ 	PROF 	Stepan Kurianov 	1996 	1 	0 	20
+561. 	BEL 	WVA 	PROF 	Kenny Molly 	1996 	1 	0 	20
+562. 	COL 	ANS 	PROF 	Daniel Muñoz 	1996 	1 	0 	20
+563. 	USA 	EF1 	WT 	Logan Owen 	1995 	1 	0 	20
+564. 	COL 	MZN 	PROF 	Carlos Quintero 	1986 	1 	0 	20
+565. 	FRA 	PCB 	PROF 	Clement Russo 	1995 	1 	0 	20
+566. 	ITA 	DQT 	WT 	Fabio Sabatini 	1985 	1 	0 	20
+567. 	ESP 	EUS 	PROF 	Sergio Samitier 	1995 	1 	0 	20
+568. 	ITA 	GVP 	CONT 	Riccardo Stacchiotti 	1991 	1 	0 	20
+569. 	BEL 	ALM 	WT 	Stijn Vandenbergh 	1984 	1 	0 	20
+570. 	RUS 	XYZ 		Alexander Vdovin 	1993 	1 	0 	20
+571. 	GBR 	LTS 	WT 	Adam Blythe 	1989 	2 	188 	18
+572. 	FRA 	SKY 	WT 	Kenny Elissonde 	1991 	1 	120 	18
+573. 	BEL 	LTS 	WT 	Enzo Wouters 	1996 	1 	62 	18
+574. 	ITA 	DQT 	WT 	Eros Capecchi 	1986 	1 	0 	18
+575. 	BEL 	LTS 	WT 	Nikolas Maes 	1986 	1 	0 	18
+576. 	NED 	ICA 	PROF 	Dennis van Winden 	1987 	1 	56 	16
+577. 	NED 	EF1 	WT 	Julius Van Den Berg 	1996 	1 	37 	16
+578. 	USA 	RLY 	PROF 	Gavin Mannion 	1991 	2 	260 	15
+579. 	DEN 	MTS 	WT 	Christopher Juul Jensen 	1989 	1 	82 	15
+580. 	DEN 	TFS 	WT 	Niklas Eg 	1995 	1 	60 	15
+581. 	USA 	TFS 	WT 	Peter Stetina 	1987 	1 	52 	15
+582. 	FRA 	PCB 	PROF 	Kevin Ledanois 	1993 	1 	10 	15
+583. 	UKR 	XYZ 		Vitaliy Buts 	1986 	1 	0 	15
+584. 	KAZ 	AST 	WT 	Dmitriy Gruzdev 	1986 	1 	0 	15
+585. 	RUS 	GAZ 	PROF 	Aleksey Rybalkin 	1993 	1 	0 	15
+586. 	BEL 	BRT 	CONT 	Guillaume Seye 	1996 	1 	0 	15
+587. 	SUI 	VBG 	CONT 	Colin Stüssi 	1993 	1 	0 	15
+588. 	BEL 	SVB 	PROF 	Aaron Verwilst 	1997 	1 	0 	15
+589. 	ITA 	SKY 	WT 	Leonardo Basso 	1993 	2 	242 	14
+590. 	NOR 	RIW 	PROF 	Krister Hagen 	1989 	1 	0 	14
+591. 	DEN 	RIW 	PROF 	Torkil Veyhe 	1990 	1 	0 	14
+592. 	AUS 	SUN 	WT 	Robert Power 	1995 	2 	370 	13
+593. 	FRA 	GFC 	WT 	Bruno Armirail 	1994 	1 	0 	13
+594. 	NOR 	UAD 	WT 	Sven Erik Bystrom 	1992 	1 	54 	12
+595. 	AUS 	TDD 	WT 	Mark Renshaw 	1982 	1 	0 	12
+596. 	RSA 	TDD 	WT 	Jay Robert Thomson 	1986 	1 	0 	12
+597. 	GER 	TKA 	WT 	Marcel Kittel 	1988 	6 	270 	10
+598. 	ITA 	TKA 	WT 	Enrico Battaglin 	1989 	1 	180 	10
+599. 	RUS 	GAZ 	PROF 	Ivan Rovny 	1987 	1 	130 	10
+600. 	BEL 	TDD 	WT 	Julien Vermote 	1989 	1 	125 	10
+601. 	EST 	WVA 	PROF 	Aksel Nommela 	1994 	1 	110 	10
+602. 	GBR 	TKA 	WT 	Harry Tanfield 	1994 	1 	110 	10
+603. 	ITA 	TFS 	WT 	Jacopo Mosca 	1993 	1 	100 	10
+604. 	CRO 	ADR 	CONT 	Radoslav Rogina 	1979 	1 	80 	10
+605. 	NED 	ROC 	PROF 	Nick van der Lijke 	1991 	1 	80 	10
+606. 	GBR 	TDD 	WT 	Mark Cavendish 	1985 	6 	70 	10
+607. 	ITA 	NSK 	PROF 	Luca Pacioni 	1993 	1 	55 	10
+608. 	BEL 	TKA 	WT 	Jenthe Biermans 	1995 	1 	20 	10
+609. 	NED 	BRT 	CONT 	Martijn Budding 	1995 	1 	10 	10
+610. 	USA 	RLY 	PROF 	Kyle Murphy 	1991 	1 	10 	10
+611. 	VEN 	MTR 	CONT 	Orluis Aular 	1996 	1 	0 	10
+612. 	ITA 	TBM 	WT 	Andrea Garosio 	1993 	1 	0 	10
+613. 	AUS 	MTS 	WT 	Kaden Groves 	1998 	1 	0 	10
+614. 	DEN 	DQT 	WT 	Mikkel Frolich Honore 	1997 	1 	0 	10
+615. 	FRA 	COF 	PROF 	Cyril Lemoine 	1983 	1 	0 	10
+616. 	SUI 	TDD 	WT 	Gino Mäder 	1997 	1 	0 	10
+617. 	BEL 	ROC 	PROF 	Stijn Steels 	1989 	1 	0 	10
+618. 	RSA 	TDD 	WT 	Jaco Venter 	1987 	1 	0 	10
+619. 	ISR 	ICA 	PROF 	Omer Goldstein 	1996 	1 	100 	8
+620. 	NOR 	ICA 	PROF 	Sondre Holst Enger 	1993 	1 	96 	8
+621. 	NOR 	ICA 	PROF 	August Jensen 	1991 	1 	81 	8
+622. 	NZL 	MTS 	WT 	Sam Bewley 	1987 	1 	65 	8
+623. 	BEL 	DQT 	WT 	Tim Declercq 	1989 	1 	40 	8
+624. 	FRA 	ICA 	PROF 	Clément Carisey 	1992 	1 	0 	8
+625. 	ISR 	ICA 	PROF 	Itmar Einhorn 	1997 	1 	0 	8
+626. 	NED 	TFS 	WT 	Koen de Kort 	1982 	1 	40 	6
+627. 	POL 	CJR 	PROF 	Alan Banaszek 	1997 	1 	20 	6
+628. 	ESP 	CJR 	PROF 	Xavier Cañellas 	1997 	1 	0 	6
+629. 	ESP 	CJR 	PROF 	Sebastian Mora 	1998 	1 	0 	6
+630. 	ESP 	CJR 	PROF 	Joel Nicolau 	1997 	1 	0 	6
+631. 	AUS 	DMP 	PROF 	Brenton Jones 	1991 	1 	110 	3
+632. 	FRA 	GFC 	WT 	Romain Seigle 	1994 	1 	70 	3
+633. 	FRA 	TDE 	PROF 	Jérôme Cousin 	1989 	1 	50 	3
+634. 	ITA 	NIP 	PROF 	Joan Bou 	1997 	1 	20 	3
+635. 	FRA 	DMP 	PROF 	Jeremy Leveau 	1992 	1 	8 	3
+636. 	COL 	NIP 	PROF 	Ruben Acosta 	1996 	1 	0 	3
+637. 	JPN 	NIP 	PROF 	Sho Hatsuyama 	1988 	1 	0 	3
+638. 	POL 	DMP 	PROF 	Przemyslaw Kasperkiewicz 	1994 	1 	0 	3
+639. 	ITA 	NIP 	PROF 	Giovanni Lonardi 	1996 	1 	0 	3
+640. 	USA 	HBA 	PROF 	Jonny Brown 	1997 	1 	100 	2
+641. 	POR 	HBA 	PROF 	Andre Carvahalo 	1997 	1 	0 	2
+642. 	POL 	BOH 	WT 	Pawel Poljanski 	1990 	1 	0 	2
+643. 	GER 	TBM 	WT 	Marcel Sieberg 	1982 	1 	0 	2
+644. 	CZE 	HBA 	PROF 	Karel Vacek 	2000 	1 	0 	2
+645. 	USA 	HBA 	PROF 	Kevin Vermaerke 	2000 	1 	0 	2
+646. 	GBR 	SKY 	WT 	Chris Froome 	1985 	32 	1485 	0
+647. 	FRA 	VCB 	PROF 	Arthur Vichot 	1988 	4 	540 	0
+648. 	BEL 	ROC 	PROF 	Sean De Bie 	1991 	4 	495 	0
+649. 	FRA 	GFC 	WT 	Anthony Roux 	1987 	4 	465 	0
+650. 	RUS 	CJR 	PROF 	Sergey Chernetskiy 	1990 	4 	415 	0
+651. 	GBR 	BOH 	WT 	Peter Kennaugh 	1989 	6 	406 	0
+652. 	BEL 	MOV 	WT 	Jürgen Roelandts 	1985 	4 	392 	0
+653. 	EST 	ICA 	PROF 	Mihkel Raim 	1993 	2 	391 	0
+654. 	AUS 	TKA 	WT 	Nathan Haas 	1989 	2 	373 	0
+655. 	FRA 	ALM 	WT 	Samuel Dumoulin 	1980 	2 	290 	0
+656. 	AUT 	GFC 	WT 	Georg Preidler 	1990 	2 	280 	0
+657. 	ESP 	TKA 	WT 	Daniel Navarro 	1983 	2 	270 	0
+658. 	GER 	ALM 	WT 	Nico Denz 	1994 	2 	260 	0
+659. 	FRA 	VCB 	PROF 	Lorenzo Manzin 	1994 	2 	245 	0
+660. 	UKR 	XYZ 		Andriy Grivko 	1983 	2 	230 	0
+661. 	BEL 	WVA 	PROF 	Kenny Dehaes 	1984 	2 	220 	0
+662. 	CAN 	ICA 	PROF 	Guillaume Boivin 	1989 	1 	218 	0
+663. 	USA 	CPT 	WT 	Joey Rosskopf 	1989 	2 	215 	0
+664. 	NED 	ROC 	PROF 	Huub Duyn 	1984 	1 	215 	0
+665. 	DEN 	EF1 	WT 	Matti Breschel 	1984 	1 	206 	0
+666. 	POR 	CJR 	PROF 	Domingos Gonçalves 	1989 	1 	200 	0
+667. 	BEL 	SVB 	PROF 	Preben Van Hecke 	1982 	1 	200 	0
+668. 	GER 	LTS 	WT 	Roger Kluge 	1986 	1 	195 	0
+669. 	ESP 	COF 	PROF 	Luis Angel Mate 	1984 	1 	190 	0
+670. 	BLR 	XYZ 		Kanstantsin Siutsou 	1982 	1 	190 	0
+671. 	ITA 	BRD 	PROF 	Andrea Guardini 	1989 	1 	185 	0
+672. 	AUT 	TFS 	WT 	Michael Gogl 	1993 	1 	175 	0
+673. 	FRA 	TDE 	PROF 	Damien Gaudin 	1986 	1 	170 	0
+674. 	BEL 	COC 	PROF 	Jonas Rickaert 	1994 	1 	165 	0
+675. 	POL 	CPT 	WT 	Lukasz Owsian 	1990 	1 	155 	0
+676. 	ITA 	BRD 	PROF 	Luca Wackermann 	1992 	1 	155 	0
+677. 	AUS 	TDD 	WT 	Ben O'Connor 	1995 	2 	150 	0
+678. 	FRA 	GFC 	WT 	Olivier Le Gac 	1993 	1 	150 	0
+679. 	USA 	EF1 	WT 	Taylor Phinney 	1990 	1 	150 	0
+680. 	NOR 	UAD 	WT 	Stake Vegard Laengen 	1989 	1 	141 	0
+681. 	USA 	RLY 	PROF 	Colin Joyce 	1994 	1 	140 	0
+682. 	FRA 	VCB 	PROF 	Jérémy Lecroq 	1995 	1 	140 	0
+683. 	ESP 	DMP 	PROF 	Javier Moreno 	1984 	1 	140 	0
+684. 	FRA 	COF 	PROF 	Stéphane Rossetto 	1987 	1 	140 	0
+685. 	ITA 	UAD 	WT 	Edward Ravasi 	1994 	1 	134 	0
+686. 	ISR 	ICA 	PROF 	Roy Goldstein 	1993 	1 	130 	0
+687. 	ESP 	XYZ 		Jaime Roson 	1993 	1 	130 	0
+688. 	BEL 	COF 	PROF 	Bert Van Lerberghe 	1992 	1 	130 	0
+689. 	NED 	ALE 	CONT 	Coen Vermeltfoort 	1988 	1 	130 	0
+690. 	POL 	CPT 	WT 	Pawel Bernas 	1990 	1 	125 	0
+691. 	RUS 	TKA 	WT 	Dmitry Strakhov 	1995 	1 	122 	0
+692. 	RUS 	GAZ 	PROF 	Ildar Arslanov 	1994 	1 	120 	0
+693. 	ESP 	MOV 	WT 	Ruben Fernandez 	1991 	1 	120 	0
+694. 	NZL 	MTS 	WT 	Jack Bauer 	1985 	1 	114 	0
+695. 	CAN 	RLY 	PROF 	Svein Tuft 	1977 	1 	102 	0
+696. 	CAN 	GFC 	WT 	Antoine Duchesne 	1991 	1 	100 	0
+697. 	IRL 	ICA 	PROF 	Conor Dunne 	1992 	1 	100 	0
+698. 	JPN 	XYZ 		Kazushige Kuboki 	1989 	1 	100 	0
+699. 	SUI 	GFC 	WT 	Steve Morabito 	1983 	1 	100 	0
+700. 	UKR 	XYZ 		Oleksandr Polivoda 	1987 	1 	100 	0
+701. 	NED 	GFC 	WT 	Ramon Sinkeldam 	1989 	1 	100 	0
+702. 	GBR 	SKY 	WT 	Ian Stannard 	1987 	1 	100 	0
+703. 	ERI 	XYZ 		Daniel Teklehaimanot 	1988 	1 	100 	0
+704. 	AUS 	XYZ 		Steele Von Hoff 	1987 	1 	100 	0
+705. 	JPN 	KIN 	CONT 	Genki Yamamoto 	1991 	1 	100 	0
+706. 	CRO 	UAD 	WT 	Kristijan Durasek 	1987 	1 	95 	0
+707. 	BEL 	COC 	PROF 	Jimmy Janssens 	1989 	1 	90 	0
+708. 	FRA 	GFC 	WT 	Matthieu Ladagnous 	1984 	1 	90 	0
+709. 	SUI 	TDD 	WT 	Danilo Wyss 	1985 	1 	85 	0
+710. 	FRA 	TFS 	WT 	Julien Bernard 	1992 	1 	83 	0
+711. 	ITA 	BRD 	PROF 	Alessandro Tonelli 	1992 	1 	81 	0
+712. 	ITA 	XYZ 		Leonardo Bonifazio 	1991 	1 	80 	0
+713. 	FRA 	DMP 	PROF 	Romain Combaud 	1991 	1 	80 	0
+714. 	RUS 	TKA 	WT 	Vyacheslav Kuznetsov 	1989 	1 	80 	0
+715. 	GBR 	XYZ 		Mark McNally 	1989 	1 	80 	0
+716. 	HUN 	MTS 	WT 	Barnabas Peak 	1998 	1 	80 	0
+717. 	ITA 	NIP 	PROF 	Ivan Santaromita 	1984 	1 	80 	0
+718. 	LAT 	IPC 	CONT 	Aleksejs Saramotins 	1982 	1 	80 	0
+719. 	ITA 	UAD 	WT 	Oliviero Troia 	1994 	1 	76 	0
+720. 	SUI 	CPT 	WT 	Michael Schär 	1986 	1 	74 	0
+721. 	AUS 	ICA 	PROF 	Zakkari Dempster 	1987 	1 	70 	0
+722. 	FRA 	NRL 	CONT 	Pierre Gouault 	1993 	1 	70 	0
+723. 	COL 	SKY 	WT 	Sebastian Henao 	1993 	1 	70 	0
+724. 	NOR 	GFC 	WT 	Daniel Hoelgaard 	1993 	1 	70 	0
+725. 	LTU 	GFC 	WT 	Ignatas Konovalovas 	1985 	1 	70 	0
+726. 	NED 	TMC 	CONT 	Jeroen Meijers 	1993 	1 	70 	0
+727. 	BEL 	WGG 	PROF 	Pieter Van Speybroeck 	1987 	1 	70 	0
+728. 	FRA 	GFC 	WT 	Benoît Vaugrenard 	1982 	1 	70 	0
+729. 	GBR 	ZZZ 		Andrew Fenn 	1990 	1 	68 	0
+730. 	BEL 	COF 	PROF 	Kenneth Vanbilsen 	1990 	1 	65 	0
+731. 	ESP 	CJR 	PROF 	Sergio Pardilla 	1984 	1 	63 	0
+732. 	SUI 	SRA 	CONT 	Gian Friesecke 	1994 	1 	62 	0
+733. 	ITA 	VBG 	CONT 	Davide Orrico 	1990 	1 	62 	0
+734. 	SUI 	ICA 	PROF 	Matteo Badilatti 	1992 	1 	60 	0
+735. 	ITA 	BRD 	PROF 	Enrico Barbin 	1990 	1 	60 	0
+736. 	GBR 	MGT 	CONT 	Ian Bibby 	1986 	1 	60 	0
+737. 	ESP 	EUS 	PROF 	Mikel Bizkarra 	1989 	1 	60 	0
+738. 	GBR 	XYZ 		Mark Christian 	1990 	1 	60 	0
+739. 	BEL 	SVB 	PROF 	Kevin Deltombe 	1994 	1 	60 	0
+740. 	RSA 	TDD 	WT 	Nicholas Dlamini 	1995 	1 	60 	0
+741. 	ESP 	CJR 	PROF 	Antonio Molina 	1991 	1 	60 	0
+742. 	RUS 	GAZ 	PROF 	Artem Nych 	1995 	1 	60 	0
+743. 	BEL 	LTS 	WT 	Maxime Monfort 	1983 	1 	59 	0
+744. 	GBR 	XYZ 		Daniel Pearson 	1994 	1 	56 	0
+745. 	FRA 	ALM 	WT 	Hubert Dupont 	1980 	1 	55 	0
+746. 	GBR 	XYZ 		Jonathan Dibben 	1994 	1 	54 	0
+747. 	COL 	TFS 	WT 	Jarlinson Pantano 	1988 	1 	52 	0
+748. 	POL 	WIB 	CONT 	Pawel Cieslik 	1986 	1 	50 	0
+749. 	FRA 	XYZ 		Jérémy Cornu 	1991 	1 	50 	0
+750. 	GBR 	TDD 	WT 	Scott Davies 	1995 	1 	50 	0
+751. 	AUS 	XYZ 		Ben Dyball 	1989 	1 	50 	0
+752. 	ITA 	ANS 	PROF 	Marco Frapporti 	1985 	1 	50 	0
+753. 	BEL 	XYZ 		Eli Iserbyt 	1997 	1 	50 	0
+754. 	BEL 	TIS 	CONT 	Jelle Mannaerts 	1991 	1 	50 	0
+755. 	FRA 	VCB 	PROF 	Justin Mottier 	1993 	1 	50 	0
+756. 	FRA 	COF 	PROF 	Anthony Perez 	1991 	1 	50 	0
+757. 	SLO 	TBM 	WT 	Luca Pibernik 	1993 	1 	50 	0
+758. 	FRA 	PCB 	PROF 	Laurent Pichon 	1986 	1 	50 	0
+759. 	FRA 	VCB 	PROF 	Kevin Reza 	1988 	1 	50 	0
+760. 	POR 	BBH 	PROF 	Ricardo Vilela 	1987 	1 	50 	0
+761. 	USA 	XYZ 		Gregory Daniel 	1994 	1 	48 	0
+762. 	BEL 	TIS 	CONT 	Maxime Vantomme 	1986 	1 	45 	0
+763. 	SLO 	TBM 	WT 	Kristjan Koren 	1986 	1 	43 	0
+764. 	CHN 	TBM 	WT 	Meiyin Wang 	1988 	1 	43 	0
+765. 	ESP 	MOV 	WT 	Imanol Erviti 	1983 	1 	40 	0
+766. 	ESP 	DMP 	PROF 	Delio Fernandez 	1986 	1 	40 	0
+767. 	URU 	EFP 	CONT 	Fabricio Ferrari 	1985 	1 	40 	0
+768. 	FRA 	TDE 	PROF 	Fabien Grellier 	1994 	1 	40 	0
+769. 	USA 	AEV 	CONT 	Gage Hecht 	1998 	1 	40 	0
+770. 	USA 	RLY 	PROF 	Evan Huffman 	1990 	1 	40 	0
+771. 	FRA 	PCB 	PROF 	Benoit Jarrier 	1988 	1 	40 	0
+772. 	ITA 	TBM 	WT 	Antonio Nibali 	1992 	1 	40 	0
+773. 	LUX 	XYZ 		Gaëtan Pons 	1992 	1 	40 	0
+774. 	ESP 	XYZ 		Jordi Simon 	1990 	1 	40 	0
+775. 	KAZ 	AST 	WT 	Nikita Stalnov 	1991 	1 	40 	0
+776. 	USA 	FPC 	CONT 	Keegan Swirbul 	1995 	1 	40 	0
+777. 	CZE 	XYZ 		Adam Toupalik 	1996 	1 	40 	0
+778. 	AUS 	TFS 	WT 	William Clarke 	1985 	1 	38 	0
+779. 	SWE 	RIW 	PROF 	Kim Magnusson 	1992 	1 	38 	0
+780. 	ITA 	UAD 	WT 	Simone Petilli 	1993 	1 	38 	0
+781. 	USA 	EF1 	WT 	Sean Bennett 	1996 	1 	35 	0
+782. 	SLO 	ADR 	CONT 	David Per 	1995 	1 	33 	0
+783. 	AUS 	XYZ 		Brendan Canty 	1992 	1 	32 	0
+784. 	SLO 	XYZ 		Janez Brajkovic 	1983 	1 	30 	0
+785. 	IRL 	XYZ 		Mark Downey 	1996 	1 	30 	0
+786. 	GER 	SUN 	WT 	Max Kanter 	1997 	1 	30 	0
+787. 	POL 	DCC 	CONT 	Kamil Malecki 	1996 	1 	30 	0
+788. 	ITA 	UAD 	WT 	Marco Marcato 	1984 	1 	30 	0
+789. 	GER 	COF 	PROF 	Marco Mathis 	1994 	1 	30 	0
+790. 	RUS 	GAZ 	PROF 	Alexander Porsev 	1986 	1 	30 	0
+791. 	FRA 	TDE 	PROF 	Romain Sicard 	1988 	1 	30 	0
+792. 	BEL 	SVB 	PROF 	Thomas Sprengers 	1990 	1 	30 	0
+793. 	BEL 	SVB 	PROF 	Mathias Van Gompel 	1995 	1 	30 	0
+794. 	MEX 	EF1 	WT 	Luis Villalobos 	1998 	1 	30 	0
+795. 	POL 	VOS 	CONT 	Mateusz Taciak 	1984 	1 	29 	0
+796. 	AUS 	LTS 	WT 	Adam Hansen 	1981 	1 	28 	0
+797. 	ESP 	EUS 	PROF 	Beñat Intxausti 	1986 	1 	28 	0
+798. 	BEL 	LTS 	WT 	Harm Vanhoucke 	1997 	1 	28 	0
+799. 	COL 	ANS 	PROF 	Julian Cardona Tabares 	1997 	1 	26 	0
+800. 	POL 	XYZ 		Adrian Kurek 	1988 	1 	25 	0
+801. 	ESP 	BBH 	PROF 	Diego Rubio 	1991 	1 	25 	0
+802. 	GER 	PCB 	PROF 	Robert Wagner 	1983 	1 	24 	0
+803. 	ITA 	BRD 	PROF 	Vincenzo Albanese 	1996 	1 	20 	0
+804. 	ESP 	EUS 	PROF 	Aritz Bagues 	1989 	1 	20 	0
+805. 	FRA 	PCB 	PROF 	Maxime Bouet 	1986 	1 	20 	0
+806. 	MEX 	XYZ 		Ulises Alfredo Castillo 	1992 	1 	20 	0
+807. 	RUS 	XYZ 		Alexander Foliforov 	1992 	1 	20 	0
+808. 	JPN 	GVP 	CONT 	Marino Kobayashi 	1994 	1 	20 	0
+809. 	NED 	NLC 	CONT 	Michel Kreder 	1987 	1 	20 	0
+810. 	FRA 	VCB 	PROF 	Johan Le Bon 	1990 	1 	20 	0
+811. 	BEL 	WVA 	PROF 	Eliot Lietaer 	1990 	1 	20 	0
+812. 	USA 	RLY 	PROF 	Tyler Magner 	1991 	1 	20 	0
+813. 	GBR 	XYZ 		Alistair Slater 	1993 	1 	20 	0
+814. 	ITA 	NIP 	PROF 	Filippo Zaccanti 	1995 	1 	20 	0
+815. 	SUI 	TKA 	WT 	Reto Hollenstein 	1985 	1 	18 	0
+816. 	POL 	XYZ 		Marcin Bialoblocki 	1983 	1 	15 	0
+817. 	FRA 	ALM 	WT 	Mikael Cherel 	1986 	1 	15 	0
+818. 	FRA 	PCB 	PROF 	Maxime Daniel 	1991 	1 	15 	0
+819. 	ITA 	NSK 	PROF 	Giuseppe Fonzi 	1991 	1 	15 	0
+820. 	DEN 	TCQ 	CONT 	Julius Johansen 	1999 	1 	15 	0
+821. 	NED 	WGG 	PROF 	Wesley Kreder 	1990 	1 	15 	0
+822. 	RUS 	GAZ 	PROF 	Alexandr Kulikovskiy 	1997 	1 	15 	0
+823. 	NZL 	BLN 	CONT 	Hayden McCormick 	1994 	1 	15 	0
+824. 	NZL 	XYZ 		James Oram 	1993 	1 	15 	0
+825. 	FRA 	TDE 	PROF 	Paul Ourselin 	1994 	1 	15 	0
+826. 	NZL 	EVO 	CONT 	Aaron Gate 	1990 	1 	14 	0
+827. 	ITA 	BRD 	PROF 	Michael Bresciani 	1994 	1 	10 	0
+828. 	CAN 	ICA 	PROF 	Alexander Cataford 	1993 	1 	10 	0
+829. 	GBR 	MGT 	CONT 	Michael Cuming 	1990 	1 	10 	0
+830. 	LUX 	ALM 	WT 	Ben Gastauer 	1987 	1 	10 	0
+831. 	NED 	TIS 	CONT 	Floris Gerts 	1992 	1 	10 	0
+832. 	NED 	UKO 	CONT 	Robbie Hucker 	1990 	1 	10 	0
+833. 	ESP 	CJR 	PROF 	Jon Irissari 	1995 	1 	10 	0
+834. 	ESP 	MOV 	WT 	Luis Mas 	1989 	1 	10 	0
+835. 	USA 	AHB 	CONT 	Justin Oien 	1995 	1 	10 	0
+836. 	COL 	MZN 	PROF 	Wilmar Paredes 	1996 	1 	10 	0
+837. 	FRA 	TDE 	PROF 	Alexandre Pichot 	1983 	1 	10 	0
+838. 	USA 	TFS 	WT 	Kiel Reijnen 	1986 	1 	10 	0
+839. 	ITA 	GVP 	CONT 	Simone Sterbini 	1993 	1 	10 	0
+840. 	ISR 	XYZ 		German Nicolas Tivani 	1995 	1 	10 	0
+841. 	JPN 	UKO 	CONT 	Kohei Uchima 	1988 	1 	10 	0
+842. 	NED 	LTS 	WT 	Brian van Goethem 	1991 	1 	10 	0
+843. 	BEL 	COF 	PROF 	Zico Waeytens 	1991 	1 	10 	0
+844. 	AUS 	ICA 	PROF 	Nathan Earle 	1988 	1 	8 	0
+845. 	AUT 	RSW 	CONT 	Matthias Krizek 	1988 	1 	8 	0
+846. 	LAT 	XYZ 		Gatis Smukulis 	1987 	1 	8 	0
+847. 	BEL 	DQT 	WT 	Iljo Keisse 	1982 	1 	7 	0
+848. 	AUT 	XYZ 		Stefan Denifl 	1987 	1 	6 	0
+849. 	COL 	COF 	PROF 	Darwin Atapuma 	1988 	1 	4 	0
+850. 	AUT 	HAC 	CONT 	Dominik Hrinkow 	1988 	1 	4 	0
+851. 	POL 	DCC 	CONT 	Patryk Stosz 	1994 	1 	4 	0
+852. 	ESP 	CJR 	PROF 	Alvaro Cuadros 	1995 	1 	3 	0
+853. 	ESP 	XYZ 		Josu Zabala 	1993 	1 	3 	0
+854. 	ITA 	EVO 	CONT 	Eugenio Alafaci 	1990 	1 	2 	0
+855. 	ITA 	XYZ 		Nicola Gaffurini 	1989 	1 	2 	0
+856. 	ITA 	SKY 	WT 	Salvatore Puccio 	1989 	1 	2 	0
+857. 	NED 	CPT 	WT 	Laurens ten Dam 	1980 	1 	2 	0
+858. 	COL 	EPM 	CONT 	Janier Acevedo 	1984 	1 	0 	0
+859. 	ITA 	TBM 	WT 	Valerio Agnoli 	1985 	1 	0 	0
+860. 	COL 	XYZ 		Hernan Aguirre 	1995 	1 	0 	0
+861. 	SWE 	XYZ 		Jonas Ahlstrand 	1990 	1 	0 	0
+862. 	MAR 	XYZ 		Anass Ait El Abdia 	1993 	1 	0 	0
+863. 	ESP 	W52 	PROF 	Raul Alarcon 	1986 	1 	0 	0
+864. 	COL 	GWS 	CONT 	Carlos Alzate 	1983 	1 	0 	0
+865. 	COL 	MZN 	PROF 	Juan Jose Amador 	1998 	1 	0 	0
+866. 	ESP 	CJR 	PROF 	Julen Amezqueta 	1993 	1 	0 	0
+867. 	ERI 	ICA 	PROF 	Awet Andemeskel 	1992 	1 	0 	0
+868. 	DEN 	SUN 	WT 	Asbjorn Kragh Andersen 	1992 	1 	0 	0
+869. 	USA 	HBA 	PROF 	Edward Anderson 	1998 	1 	0 	0
+870. 	CAN 	RLY 	PROF 	Ryan Anderson 	1987 	1 	0 	0
+871. 	BRA 	XYZ 		Rafael Andriato 	1987 	1 	0 	0
+872. 	POL 	DCC 	CONT 	Stanislaw Aniolkowski 	1997 	1 	0 	0
+873. 	ITA 	XYZ 		Simone Antonini 	1991 	1 	0 	0
+874. 	JPN 	TBM 	WT 	Yukiya Arashiro 	1984 	1 	0 	0
+875. 	ESP 	MOV 	WT 	Jorge Arcas 	1992 	1 	0 	0
+876. 	NED 	XYZ 		Johim Ariesen 	1988 	1 	0 	0
+877. 	NED 	XYZ 		Tim Ariesen 	1994 	1 	0 	0
+878. 	ESP 	XYZ 		David Arroyo 	1980 	1 	0 	0
+879. 	KAZ 	XYZ 		Maxat Ayazbayev 	1992 	1 	0 	0
+880. 	FRA 	VCB 	PROF 	Yoan Bagot 	1987 	1 	0 	0
+881. 	GER 	XYZ 		Sébastien Baldauf 	1989 	1 	0 	0
+882. 	FRA 	AUB 	CONT 	Nicolas Baldo 	1984 	1 	0 	0
+883. 	RUS 	XYZ 		Ivan Balykin 	1990 	1 	0 	0
+884. 	POL 	VOS 	CONT 	Adrian Banaszek 	1993 	1 	0 	0
+885. 	POL 	XYZ 		Norbert Banaszek 	1997 	1 	0 	0
+886. 	ESP 	EUS 	PROF 	Ander Barrenetxea 	1992 	1 	0 	0
+887. 	USA 	CPT 	WT 	William Barta 	1996 	1 	0 	0
+888. 	FRA 	EUS 	PROF 	Cyril Barthe 	1996 	1 	0 	0
+889. 	GBR 	XYZ 		Tom Baylis 	1996 	1 	0 	0
+890. 	SUI 	TNN 	PROF 	Oliver Behringer 	1996 	1 	0 	0
+891. 	ESP 	XYZ 		David Belda 	1983 	1 	0 	0
+892. 	RUS 	XYZ 		Maxim Belkov 	1985 	1 	0 	0
+893. 	COL 	MED 	CONT 	Edward Beltran 	1990 	1 	0 	0
+894. 	ITA 	ANS 	PROF 	Marco Benfatto 	1988 	1 	0 	0
+895. 	FRA 	TNN 	PROF 	Mehdi Benhamouda 	1995 	1 	0 	0
+896. 	ITA 	MOV 	WT 	Daniele Bennati 	1980 	1 	0 	0
+897. 	ITA 	XYZ 		Giacome Berlato 	1992 	1 	0 	0
+898. 	ESP 	EUS 	PROF 	Urko Berrade Fernandez 	1997 	1 	0 	0
+899. 	ITA 	NSK 	PROF 	Liam Bertazzo 	1992 	1 	0 	0
+900. 	ITA 	NSK 	PROF 	Simone Bevilacqua 	1997 	1 	0 	0
+901. 	POR 	BBH 	PROF 	Nuno Bico 	1994 	1 	0 	0
+902. 	ITA 	ANS 	PROF 	Alessandro Bisolti 	1985 	1 	0 	0
+903. 	USA 	XYZ 		Christopher Blevins 	1998 	1 	0 	0
+904. 	RUS 	GAZ 	PROF 	Igor Boev 	1989 	1 	0 	0
+905. 	COL 	AST 	WT 	Hernando Bohorquez 	1992 	1 	0 	0
+906. 	ITA 	NSK 	PROF 	Francesco Bongiorno 	1990 	1 	0 	0
+907. 	FRA 	GFC 	WT 	William Bonnet 	1982 	1 	0 	0
+908. 	USA 	TKA 	WT 	Ian Boswell 	1991 	1 	0 	0
+909. 	FRA 	TIS 	CONT 	David Boucher 	1980 	1 	0 	0
+910. 	FRA 	COF 	PROF 	Rayane Bouhanni 	1996 	1 	0 	0
+911. 	NED 	VLA 	CONT 	Jasper Bovenhuis 	1991 	1 	0 	0
+912. 	GBR 	TNN 	PROF 	Samuel Brand 	1991 	1 	0 	0
+913. 	POR 	EFP 	CONT 	Joni Brandao 	1989 	1 	0 	0
+914. 	ESP 	EUS 	PROF 	Garikoitz Bravo 	1989 	1 	0 	0
+915. 	GBR 	XYZ 		Graham Briggs 	1983 	1 	0 	0
+916. 	USA 	EF1 	WT 	Nathan Brown 	1991 	1 	0 	0
+917. 	POL 	DCC 	CONT 	Piotr Brozyna 	1995 	1 	0 	0
+918. 	USA 	AHB 	CONT 	Miguel Bryon 	1995 	1 	0 	0
+919. 	FRA 	TDE 	PROF 	Mathieu Burgaudeau 	1998 	1 	0 	0
+920. 	ITA 	ANS 	PROF 	Matteo Busato 	1987 	1 	0 	0
+921. 	SUI 	XYZ 		Dimitri Bussard 	1996 	1 	0 	0
+922. 	USA 	XYZ 		Christopher Butler 	1988 	1 	0 	0
+923. 	USA 	XYZ 		Evan Bybee 	1989 	1 	0 	0
+924. 	DEN 	LTS 	WT 	Rasmus Byriel Iversen 	1997 	1 	0 	0
+925. 	ESP 	BBH 	PROF 	Oscar Cabedo 	1994 	1 	0 	0
+926. 	AUS 	TNN 	PROF 	Fabio Calabria 	1987 	1 	0 	0
+927. 	POR 	W52 	PROF 	Samuel Caldeira 	1985 	1 	0 	0
+928. 	BEL 	XYZ 		Joeri Calleeuw 	1985 	1 	0 	0
+929. 	FRA 	VCB 	PROF 	Maxime Cam 	1992 	1 	0 	0
+930. 	POR 	W52 	PROF 	Francisco Campos 	1997 	1 	0 	0
+931. 	COL 	CZS 	CONT 	Alex Cano 	1983 	1 	0 	0
+932. 	DEN 	WAO 	CONT 	Michael Carbel 	1995 	1 	0 	0
+933. 	ESP 	MOV 	WT 	Hector Carretero 	1995 	1 	0 	0
+934. 	POR 	W52 	PROF 	Antonio Carvalho 	1989 	1 	0 	0
+935. 	POR 	EFP 	CONT 	Henrique Madeira Casimiro 	1986 	1 	0 	0
+936. 	COL 	ILU 	CONT 	Jorge Camilo Castiblanco 	1988 	1 	0 	0
+937. 	ESP 	MOV 	WT 	Jaime Castrillo 	1996 	1 	0 	0
+938. 	ITA 	AMO 	CONT 	Danilo Celano 	1989 	1 	0 	0
+939. 	ESP 	W52 	PROF 	Gustavo Cesar 	1980 	1 	0 	0
+940. 	COL 	XYZ 		Robinson Chalapud 	1984 	1 	0 	0
+941. 	ARG 	XYZ 		Francisco Chamorro 	1981 	1 	0 	0
+942. 	FRA 	COF 	PROF 	Loic Chetout 	1992 	1 	0 	0
+943. 	FRA 	ALM 	WT 	Clement Chevrier 	1992 	1 	0 	0
+944. 	COL 	MZN 	PROF 	Luis Carlos Chia 	1997 	1 	0 	0
+945. 	ITA 	XYZ 		Luca Chirico 	1992 	1 	0 	0
+946. 	IRL 	TNN 	PROF 	Stephan Clancy 	1992 	1 	0 	0
+947. 	AUS 	FPC 	CONT 	Jonathan Clarke 	1984 	1 	0 	0
+948. 	DEN 	WAO 	CONT 	Patrick Clausen 	1990 	1 	0 	0
+949. 	ITA 	BIC 	CONT 	Kevin Colleoni 	1999 	1 	0 	0
+950. 	CUB 	XYZ 		Ruben Companiani 	1990 	1 	0 	0
+951. 	ITA 	BIC 	CONT 	Filippo Conca 	1998 	1 	0 	0
+952. 	COL 	AST 	WT 	Rodrigo Contreras 	1994 	1 	0 	0
+953. 	CAN 	RLY 	PROF 	Pier-André Coté 	1997 	1 	0 	0
+954. 	FRA 	VCB 	PROF 	Arnaud Courteille 	1989 	1 	0 	0
+955. 	ITA 	BRD 	PROF 	Luca Covili 	1997 	1 	0 	0
+956. 	NAM 	XYZ 		Dan Craven 	1983 	1 	0 	0
+957. 	ESP 	BBH 	PROF 	Jorge Cubero 	1992 	1 	0 	0
+958. 	NED 	SUN 	WT 	Roy Curvers 	1979 	1 	0 	0
+959. 	USA 	AHB 	CONT 	Andrew Dahlheim 	1988 	1 	0 	0
+960. 	CAN 	RLY 	PROF 	Matteo Dal-cin 	1991 	1 	0 	0
+961. 	FRA 	XYZ 		Flavien Dassonville 	1991 	1 	0 	0
+962. 	USA 	HBA 	PROF 	Cole Davis 	1999 	1 	0 	0
+963. 	BEL 	WGG 	PROF 	Bart De Clercq 	1986 	1 	0 	0
+964. 	BEL 	WGG 	PROF 	Alfdan De Decker 	1996 	1 	0 	0
+965. 	BEL 	XYZ 		Kevin De Jonghe 	1991 	1 	0 	0
+966. 	BEL 	SVB 	PROF 	Kenny De Ketele 	1985 	1 	0 	0
+967. 	ESP 	AVL 	CONT 	David De La Fuente 	1981 	1 	0 	0
+968. 	NED 	XYZ 		Jasper De Laat 	1994 	1 	0 	0
+969. 	ITA 	XYZ 		Flavio De Luna Davila 	1990 	1 	0 	0
+970. 	ITA 	XYZ 		Pierpaolo De Negri 	1986 	1 	0 	0
+971. 	BEL 	SVB 	PROF 	Moreno de Pauw 	1991 	1 	0 	0
+972. 	FRA 	DMP 	PROF 	Lucas De Rossi 	1995 	1 	0 	0
+973. 	BRA 	XYZ 		André de Souza Almeida 	1992 	1 	0 	0
+974. 	BEL 	AST 	WT 	Laurens De Vreese 	1988 	1 	0 	0
+975. 	NED 	VLA 	CONT 	Hartthijs De Vries 	1996 	1 	0 	0
+976. 	BEL 	SVB 	PROF 	Lindsay de Vylder 	1995 	1 	0 	0
+977. 	BEL 	WGG 	PROF 	Ludwig De Winter 	1992 	1 	0 	0
+978. 	BEL 	ROC 	PROF 	Matthias De Witte 	1993 	1 	0 	0
+979. 	BEL 	WGG 	PROF 	Thomas Degand 	1986 	1 	0 	0
+980. 	ESP 	VFB 	CONT 	Jesus Del Pino 	1990 	1 	0 	0
+981. 	FRA 	GFC 	WT 	Mickael Delage 	1985 	1 	0 	0
+982. 	BEL 	NRL 	CONT 	Tom Dernies 	1990 	1 	0 	0
+983. 	BEL 	CCD 	CONT 	Thomas Deruette 	1995 	1 	0 	0
+984. 	BEL 	COC 	PROF 	Stijn Devolder 	1979 	1 	0 	0
+985. 	BEL 	LTS 	WT 	Stan Dewulf 	1997 	1 	0 	0
+986. 	ARG 	XYZ 		Daniel Diaz 	1989 	1 	0 	0
+987. 	ESP 	XYZ 		Jose Manuel Diaz Gallego 	1995 	1 	0 	0
+988. 	GER 	XYZ 		Jan Dieteren 	1993 	1 	0 	0
+989. 	POL 	THU 	CONT 	Karol Domagalski 	1989 	1 	0 	0
+990. 	FRA 	ALM 	WT 	Axel Domont 	1990 	1 	0 	0
+991. 	RSA 	XYZ 		Nicolas Dougall 	1992 	1 	0 	0
+992. 	GBR 	XYZ 		Russell Downing 	1978 	1 	0 	0
+993. 	ITA 	XYZ 		Matteo Draperi 	1991 	1 	0 	0
+994. 	BEL 	XYZ 		Gerry Druyts 	1991 	1 	0 	0
+995. 	COL 	MED 	CONT 	Fabio Duarte 	1986 	1 	0 	0
+996. 	DEN 	HBA 	PROF 	Jakob Egholm 	1998 	1 	0 	0
+997. 	AUT 	TDD 	WT 	Bernhard Eisel 	1981 	1 	0 	0
+998. 	USA 	AHB 	CONT 	Taylor Eisenhart 	1994 	1 	0 	0
+999. 	CAN 	RLY 	PROF 	Nigel Ellsay 	1994 	1 	0 	0
+1000. 	FRA 	VCB 	PROF 	Corentin Ermenault 	1996 	1 	0 	0
+1001. 	RUS 	XYZ 		Artur Ershov 	1990 	1 	0 	0
+1002. 	BEL 	XYZ 		Laurent Evrard 	1990 	1 	0 	0
+1003. 	RUS 	GAZ 	PROF 	Alexander Evtushenko 	1993 	1 	0 	0
+1004. 	ESP 	BBH 	PROF 	Jesus Ezquerra 	1990 	1 	0 	0
+1005. 	NOR 	COC 	PROF 	Petter Fagerhaug 	1997 	1 	0 	0
+1006. 	BEL 	XYZ 		Maxime Farazijn 	1994 	1 	0 	0
+1007. 	ITA 	ANS 	PROF 	Leonardo Fedrigo 	1996 	1 	0 	0
+1008. 	FRA 	PCB 	PROF 	Brice Feillu 	1985 	1 	0 	0
+1009. 	FRA 	AUB 	CONT 	Romain Feillu 	1984 	1 	0 	0
+1010. 	POR 	BBH 	PROF 	Jose Fernandes 	1995 	1 	0 	0
+1011. 	POR 	W52 	PROF 	José Ferreira 	1994 	1 	0 	0
+1012. 	FRA 	TDE 	PROF 	Valentin Ferron 	1998 	1 	0 	0
+1013. 	FRA 	TDE 	PROF 	Valentin Ferron 	1998 	1 	0 	0
+1014. 	POR 	XYZ 		Frederico Figueiredo 	1991 	1 	0 	0
+1015. 	ITA 	DMP 	PROF 	Iuri Filosi 	1992 	1 	0 	0
+1016. 	RUS 	XYZ 		Sergey Firsanov 	1982 	1 	0 	0
+1017. 	LAT 	AHB 	CONT 	Andzs Flaksis 	1991 	1 	0 	0
+1018. 	COL 	ANS 	PROF 	Miguel Eduardo Florez 	1996 	1 	0 	0
+1019. 	POR 	W52 	PROF 	Cesar Fonte 	1986 	1 	0 	0
+1020. 	ITA 	NSK 	PROF 	Lorenzo Fortunato 	1996 	1 	0 	0
+1021. 	NOR 	UXT 	CONT 	Tobias Svendsen Foss 	1997 	1 	0 	0
+1022. 	FRA 	VCB 	PROF 	Marc Fournier 	1994 	1 	0 	0
+1023. 	POL 	VOS 	CONT 	Pawel Franczak 	1991 	1 	0 	0
+1024. 	SUI 	GFC 	WT 	Kilian Frankiny 	1994 	1 	0 	0
+1025. 	ITA 	ANS 	PROF 	Mattia Frapporti 	1994 	1 	0 	0
+1026. 	POR 	MIR 	CONT 	Daniel Freitas 	1991 	1 	0 	0
+1027. 	GER 	SUN 	WT 	Johannes Fröhlinger 	1985 	1 	0 	0
+1028. 	ARG 	XYZ 		Lucas Manuel Gaday 	1993 	1 	0 	0
+1029. 	ESP 	KIN 	CONT 	Marcos Garcia 	1986 	1 	0 	0
+1030. 	COL 	MZN 	PROF 	Jhojan Garcia 	1998 	1 	0 	0
+1031. 	FRA 	VCB 	PROF 	Adrien Garel 	1996 	1 	0 	0
+1032. 	FRA 	TDE 	PROF 	Yohann Gène 	1981 	1 	0 	0
+1033. 	LUX 	GFC 	WT 	Kevin Geniets 	1997 	1 	0 	0
+1034. 	GER 	LPC 	CONT 	Konrad Gessner 	1995 	1 	0 	0
+1035. 	BEL 	XYZ 		Alexander Geuens 	1994 	1 	0 	0
+1036. 	BEL 	SVB 	PROF 	Robbe Ghys 	1997 	1 	0 	0
+1037. 	GBR 	BBH 	PROF 	Matthew Gibson 	1996 	1 	0 	0
+1038. 	FRA 	XYZ 		Romain Gioux 	1986 	1 	0 	0
+1039. 	VEN 	XYZ 		Yonder Godoy 	1993 	1 	0 	0
+1040. 	NED 	XYZ 		Stan Godrie 	1993 	1 	0 	0
+1041. 	COL 	MZN 	PROF 	Bryan Gomez 	1994 	1 	0 	0
+1042. 	KOR 	XYZ 		Hyo Suk Gong 	1986 	1 	0 	0
+1043. 	ESP 	XYZ 		Aitor Gonzalez 	1990 	1 	0 	0
+1044. 	ESP 	EUS 	PROF 	Mario Gonzalez 	1982 	1 	0 	0
+1045. 	ESP 	CJR 	PROF 	David Gonzalez 	1996 	1 	0 	0
+1046. 	DEN 	AST 	WT 	Jonas Gregaard 	1996 	1 	0 	0
+1047. 	ESP 	KIN 	CONT 	Salvador Guardiola 	1988 	1 	0 	0
+1048. 	ITA 	GFC 	WT 	Jacopo Guarnieri 	1987 	1 	0 	0
+1049. 	FRA 	PCB 	PROF 	Thibault Guernalec 	1997 	1 	0 	0
+1050. 	DEN 	WAO 	CONT 	Rasmus Guldhammer 	1989 	1 	0 	0
+1051. 	FRA 	XYZ 		Yann Guyot 	1986 	1 	0 	0
+1052. 	MAR 	XYZ 		Soufiane Haddi 	1991 	1 	0 	0
+1053. 	FIN 	XYZ 		Sasu Halme 	1996 	1 	0 	0
+1054. 	GBR 	MGT 	CONT 	Richard Handley 	1990 	1 	0 	0
+1055. 	TUN 	XYZ 		Maher Hasnaoui 	1989 	1 	0 	0
+1056. 	JPN 	UKO 	CONT 	Yusuke Hatanaka 	1985 	1 	0 	0
+1057. 	USA 	XYZ 		Adrian Hegyvary 	1984 	1 	0 	0
+1058. 	FIN 	TNN 	PROF 	Joonas Henttala 	1991 	1 	0 	0
+1059. 	GER 	XYZ 		Silvio Herklotz 	1994 	1 	0 	0
+1060. 	CZE 	ELA 	CONT 	Karel Hnik 	1991 	1 	0 	0
+1061. 	NOR 	XYZ 		Bjørn Tore Hoem 	1991 	1 	0 	0
+1062. 	NED 	TJV 	WT 	Lennard Hofstede 	1994 	1 	0 	0
+1063. 	USA 	HBA 	PROF 	Liam Holowesko 	2000 	1 	0 	0
+1064. 	NED 	XYZ 		Reinier Honig 	1983 	1 	0 	0
+1065. 	POL 	XYZ 		Adrian Honkisz 	1988 	1 	0 	0
+1066. 	GBR 	MGT 	CONT 	Tobyn Horton 	1986 	1 	0 	0
+1067. 	GBR 	XYZ 		Rhys Howells 	1987 	1 	0 	0
+1068. 	GBR 	XYZ 		Joshua Hunt 	1991 	1 	0 	0
+1069. 	FRA 	AUB 	CONT 	Tony Hurel 	1987 	1 	0 	0
+1070. 	ESP 	XYZ 		Jon Ander Insausti 	1992 	1 	0 	0
+1071. 	ESP 	EUS 	PROF 	Julen Irizar 	1995 	1 	0 	0
+1072. 	ESP 	TFS 	WT 	Markel Irizar 	1980 	1 	0 	0
+1073. 	AUS 	TNN 	PROF 	Declan Irvine 	1999 	1 	0 	0
+1074. 	JPN 	XYZ 		Manabu Ishibashi 	1992 	1 	0 	0
+1075. 	JPN 	NIP 	PROF 	Masakazu Ito 	1988 	1 	0 	0
+1076. 	POL 	VOS 	CONT 	Sylwester Janiszewski 	1988 	1 	0 	0
+1077. 	RSA 	TDD 	WT 	Jacques Janse van Rensburg 	1987 	1 	0 	0
+1078. 	COL 	MZN 	PROF 	Daniel Alexander Jaramillo 	1991 	1 	0 	0
+1079. 	RSA 	PRO 	CONT 	Songezo Jim 	1990 	1 	0 	0
+1080. 	DEN 	RIW 	PROF 	Jonas Aaen Jørgensen 	1986 	1 	0 	0
+1081. 	FRA 	TDE 	PROF 	Axel Journiaux 	1995 	1 	0 	0
+1082. 	POL 	XYZ 		Jakub Kaczmarek 	1993 	1 	0 	0
+1083. 	NED 	TNN 	PROF 	Brian Kamstra 	1993 	1 	0 	0
+1084. 	KAZ 	XYZ 		Arman Kamyshev 	1991 	1 	0 	0
+1085. 	NED 	XYZ 		Martijn Keizer 	1988 	1 	0 	0
+1086. 	USA 	XYZ 		Luke Keough 	1991 	1 	0 	0
+1087. 	AUS 	XYZ 		Jordan Kerby 	1992 	1 	0 	0
+1088. 	NED 	XYZ 		Tim Kerkhof 	1993 	1 	0 	0
+1089. 	GER 	SKY 	WT 	Christian Knees 	1981 	1 	0 	0
+1090. 	RUS 	GAZ 	PROF 	Evgeny Kobernyak 	1995 	1 	0 	0
+1091. 	RUS 	TKA 	WT 	Pavel Kochetkov 	1986 	1 	0 	0
+1092. 	GER 	XYZ 		Thomas Koep 	1990 	1 	0 	0
+1093. 	JPN 	UKO 	CONT 	Yuma Koishi 	1993 	1 	0 	0
+1094. 	POL 	VOS 	CONT 	Mateusz Komar 	1985 	1 	0 	0
+1095. 	RUS 	XYZ 		Aleksandr Komin 	1995 	1 	0 	0
+1096. 	CZE 	BOH 	WT 	Leopold König 	1987 	1 	0 	0
+1097. 	NED 	BAI 	CONT 	Peter Koning 	1990 	1 	0 	0
+1098. 	UKR 	XYZ 		Mykhaylo Kononenko 	1987 	1 	0 	0
+1099. 	USA 	XYZ 		Grant Koontz 	1994 	1 	0 	0
+1100. 	NED 	XYZ 		Merijn Korevaar 	1994 	1 	0 	0
+1101. 	KAZ 	XYZ 		Bakhtiyar Kozhatayev 	1992 	1 	0 	0
+1102. 	RUS 	XYZ 		Dmitriy Kozontchuk 	1984 	1 	0 	0
+1103. 	BLR 	XYZ 		Andrei Krasilnikau 	1989 	1 	0 	0
+1104. 	NED 	UKO 	CONT 	Raymond Kreder 	1989 	1 	0 	0
+1105. 	LTU 	XYZ 		Aidis Kruopis 	1986 	1 	0 	0
+1106. 	RUS 	GAZ 	PROF 	Vladislav Kulikov 	1996 	1 	0 	0
+1107. 	RUS 	GAZ 	PROF 	Alexey Kurbatov 	1994 	1 	0 	0
+1108. 	JPN 	XYZ 		Shiki Kuroeda 	1992 	1 	0 	0
+1109. 	RUS 	XYZ 		Roman Kustadinchev 	1995 	1 	0 	0
+1110. 	HUN 	TNN 	PROF 	Peter Kusztor 	1984 	1 	0 	0
+1111. 	EST 	XYZ 		Martin Laas 	1993 	1 	0 	0
+1112. 	FRA 	COF 	PROF 	Victor Lafay 	1996 	1 	0 	0
+1113. 	RUS 	XYZ 		Sergey Lagutin 	1981 	1 	0 	0
+1114. 	NED 	VCB 	PROF 	Steven Lammertink 	1993 	1 	0 	0
+1115. 	DEN 	XYZ 		Sebastian Lander 	1991 	1 	0 	0
+1116. 	MON 	BBH 	PROF 	Victor Langellotti 	1995 	1 	0 	0
+1117. 	CAN 	XYZ 		Bruno Langlois 	1979 	1 	0 	0
+1118. 	GBR 	XYZ 		Christopher Latham 	1994 	1 	0 	0
+1119. 	POL 	XYZ 		Eryk Laton 	1993 	1 	0 	0
+1120. 	FRA 	PCB 	PROF 	Romain Le Roux 	1992 	1 	0 	0
+1121. 	FRA 	COF 	PROF 	Mathias Le Turnier 	1995 	1 	0 	0
+1122. 	FRA 	XYZ 		Guillaume Levarlet 	1985 	1 	0 	0
+1123. 	FRA 	XYZ 		Jordan Levasseur 	1995 	1 	0 	0
+1124. 	BEL 	ROC 	PROF 	Senne Leysen 	1996 	1 	0 	0
+1125. 	NED 	TJV 	WT 	Bert-Jan Lindeman 	1989 	1 	0 	0
+1126. 	MAS 	XYZ 		Sea Keong Loh 	1986 	1 	0 	0
+1127. 	NED 	TMC 	CONT 	André Looij 	1995 	1 	0 	0
+1128. 	ESP 	BBH 	PROF 	Daniel Lopez 	1994 	1 	0 	0
+1129. 	ESP 	EUS 	PROF 	Juan Antonio López-Cózar 	1994 	1 	0 	0
+1130. 	COL 	TNN 	PROF 	David Lozano 	1988 	1 	0 	0
+1131. 	SWE 	XYZ 		Fredrik Ludvigsson 	1994 	1 	0 	0
+1132. 	POR 	STA 	CONT 	Tiago Machado 	1985 	1 	0 	0
+1133. 	POR 	W52 	PROF 	Jorge Magalhaes 	1997 	1 	0 	0
+1134. 	RUS 	XYZ 		Roman Maikin 	1990 	1 	0 	0
+1135. 	FRA 	XYZ 		Jerome Mainard 	1986 	1 	0 	0
+1136. 	FRA 	PCB 	PROF 	Jérémy Maison 	1993 	1 	0 	0
+1137. 	FRA 	AUB 	CONT 	Anthony Maldonado 	1991 	1 	0 	0
+1138. 	RUS 	XYZ 		Matvey Mamykin 	1994 	1 	0 	0
+1139. 	RUS 	XYZ 		Viktor Manakov 	1992 	1 	0 	0
+1140. 	FIN 	XYZ 		Matti Manninen 	1992 	1 	0 	0
+1141. 	ITA 	NSK 	PROF 	Moreno Marchetti 	1998 	1 	0 	0
+1142. 	USA 	XYZ 		Eric Marcotte 	1980 	1 	0 	0
+1143. 	SUI 	XYZ 		Tristan Marguet 	1987 	1 	0 	0
+1144. 	ITA 	XYZ 		Nicolas Marini 	1993 	1 	0 	0
+1145. 	NED 	XYZ 		Barry Markus 	1991 	1 	0 	0
+1146. 	ITA 	BRD 	PROF 	Marco Maronese 	1994 	1 	0 	0
+1147. 	FRA 	XYZ 		Yannick Martinez 	1988 	1 	0 	0
+1148. 	POL 	XYZ 		Jaroslaw Marycz 	1987 	1 	0 	0
+1149. 	FRA 	NRL 	CONT 	Christophe Masson 	1985 	1 	0 	0
+1150. 	CAN 	XYZ 		Reid McClure 	1995 	1 	0 	0
+1151. 	GBR 	MGT 	CONT 	Jonathan McEvoy 	1989 	1 	0 	0
+1152. 	BEL 	COC 	PROF 	Tom Meeusen 	1998 	1 	0 	0
+1153. 	GER 	COC 	PROF 	Marcel Meisen 	1989 	1 	0 	0
+1154. 	COL 	MZN 	PROF 	Omar Mendoza 	1989 	1 	0 	0
+1155. 	FRA 	XYZ 		David Menut 	1993 	1 	0 	0
+1156. 	POR 	W52 	PROF 	Daniel Mestre 	1986 	1 	0 	0
+1157. 	POR 	W52 	PROF 	Ricardo Mestre 	1983 	1 	0 	0
+1158. 	BUL 	EFP 	CONT 	Nikolay Mihaylov 	1988 	1 	0 	0
+1159. 	ESP 	XYZ 		Diego Milan 	1985 	1 	0 	0
+1160. 	ARG 	TNN 	PROF 	Emanuel Mini 	1986 	1 	0 	0
+1161. 	NED 	WGG 	PROF 	Marco Minnaard 	1989 	1 	0 	0
+1162. 	GBR 	BBH 	PROF 	James Mitri 	1999 	1 	0 	0
+1163. 	FRA 	PCB 	PROF 	Amaël Moinard 	1982 	1 	0 	0
+1164. 	FRA 	XYZ 		Damien Monier 	1982 	1 	0 	0
+1165. 	DEN 	RIW 	PROF 	Tobias Mørch Kongstad 	1996 	1 	0 	0
+1166. 	ESP 	XYZ 		Daniel Moreno 	1981 	1 	0 	0
+1167. 	FRA 	VCB 	PROF 	Julien Morice 	1991 	1 	0 	0
+1168. 	FRA 	COF 	PROF 	Emmanuel Morin 	1995 	1 	0 	0
+1169. 	DEN 	WAO 	CONT 	Martin Mortensen 	1984 	1 	0 	0
+1170. 	BEL 	WVA 	PROF 	Julien Mortier 	1997 	1 	0 	0
+1171. 	ITA 	NIP 	PROF 	Moreno Moser 	1990 	1 	0 	0
+1172. 	USA 	HBA 	PROF 	Zeke Mostov 	1996 	1 	0 	0
+1173. 	ARG 	EMP 	CONT 	Enzo Moyano 	1989 	1 	0 	0
+1174. 	SLO 	XYZ 		Matej Mugerli 	1981 	1 	0 	0
+1175. 	AUS 	TNN 	PROF 	Samuel Munday 	1998 	1 	0 	0
+1176. 	COL 	UAD 	WT 	Cristian Camilo Muñoz 	1996 	1 	0 	0
+1177. 	USA 	RLY 	PROF 	John Murphy 	1984 	1 	0 	0
+1178. 	KAZ 	AST 	WT 	Yuriy Natarov 	1996 	1 	0 	0
+1179. 	FRA 	TDE 	PROF 	Bryan Nauleau 	1988 	1 	0 	0
+1180. 	BRA 	XYZ 		Magno Nazaret 	1986 	1 	0 	0
+1181. 	RUS 	GAZ 	PROF 	Denis Nekrasov 	1997 	1 	0 	0
+1182. 	RUS 	XYZ 		Sergey Nikolaev 	1998 	1 	0 	0
+1183. 	JPN 	NIP 	PROF 	Hiroki Nishimura 	1994 	1 	0 	0
+1184. 	RWA 	XYZ 		Adrien Niyonshuti 	1987 	1 	0 	0
+1185. 	ITA 	XYZ 		Rinaldo Nocentini 	1977 	1 	0 	0
+1186. 	AUS 	XYZ 		Lachlan Norris 	1987 	1 	0 	0
+1187. 	BEL 	XYZ 		Carol Eduard Novak 	1976 	1 	0 	0
+1188. 	COL 	MZN 	PROF 	Diego Ochoa 	1993 	1 	0 	0
+1189. 	FRA 	WGG 	PROF 	Yoann Offredo 	1986 	1 	0 	0
+1190. 	POR 	UAD 	WT 	Ivo Oliveira 	1996 	1 	0 	0
+1191. 	NED 	TJV 	WT 	Daan Olivier 	1992 	1 	0 	0
+1192. 	COL 	XYZ 		Fernando Orjuela 	1991 	1 	0 	0
+1193. 	USA 	RLY 	PROF 	Emerson Oronte 	1990 	1 	0 	0
+1194. 	ITA 	BRD 	PROF 	Umberto Orsini 	1994 	1 	0 	0
+1195. 	COL 	MZN 	PROF 	Juan Felipe Osorio 	1995 	1 	0 	0
+1196. 	COL 	NIP 	PROF 	Alejandro Osorio 	1998 	1 	0 	0
+1197. 	NED 	WVA 	PROF 	Mathijs Paasschens 	1996 	1 	0 	0
+1198. 	SUI 	IAM 	CONT 	Dylan Page 	1993 	1 	0 	0
+1199. 	COL 	MZN 	PROF 	Jordan Parra 	1994 	1 	0 	0
+1200. 	COL 	GWS 	CONT 	Heiner Rodrigo Parra 	1991 	1 	0 	0
+1201. 	SUI 	XYZ 		Frank Pasche 	1993 	1 	0 	0
+1202. 	POL 	WIB 	CONT 	Maciej Paterski 	1986 	1 	0 	0
+1203. 	POR 	EFP 	CONT 	Sergio Paulinho 	1980 	1 	0 	0
+1204. 	BEL 	XYZ 		Kevin Pauwels 	1984 	1 	0 	0
+1205. 	COL 	GWS 	CONT 	Fernando Pedrazo Morales 	1981 	1 	0 	0
+1206. 	ESP 	BBH 	PROF 	Manuel Peñalver 	1998 	1 	0 	0
+1207. 	ITA 	TNN 	PROF 	Andrea Peron 	1988 	1 	0 	0
+1208. 	CAN 	ICA 	PROF 	Benjamin Perry 	1994 	1 	0 	0
+1209. 	ITA 	BRD 	PROF 	Alessandro Pessot 	1995 	1 	0 	0
+1210. 	BEL 	WVA 	PROF 	Dimitri Peyskens 	1991 	1 	0 	0
+1211. 	BEL 	SVB 	PROF 	Emiel Planckaert 	1996 	1 	0 	0
+1212. 	FRA 	TNN 	PROF 	Charles Planet 	1993 	1 	0 	0
+1213. 	ITA 	XYZ 		Davide Plebani 	1996 	1 	0 	0
+1214. 	POL 	VOS 	CONT 	Leszek Plucinski 	1990 	1 	0 	0
+1215. 	POL 	WIB 	CONT 	Michal Podlaski 	1988 	1 	0 	0
+1216. 	ITA 	TNN 	PROF 	Umberto Poli 	1996 	1 	0 	0
+1217. 	CZE 	XYZ 		Jiri Polnicky 	1989 	1 	0 	0
+1218. 	ITA 	XYZ 		Simone Ponzi 	1987 	1 	0 	0
+1219. 	AZE 	TIS 	CONT 	Kirill Pozdnyakov 	1989 	1 	0 	0
+1220. 	ESP 	UKO 	CONT 	Benjamin Prades 	1983 	1 	0 	0
+1221. 	USA 	AHB 	CONT 	Tanner Putt 	1992 	1 	0 	0
+1222. 	GBR 	TFS 	WT 	Charlie Quarterman 	1998 	1 	0 	0
+1223. 	FRA 	TDE 	PROF 	Perrig Quemeneur 	1984 	1 	0 	0
+1224. 	USA 	HBA 	PROF 	Sean Quinn 	2000 	1 	0 	0
+1225. 	BRA 	XYZ 		Rodrigo Quirino 	1996 	1 	0 	0
+1226. 	ITA 	XYZ 		Matteo Rabottini 	1987 	1 	0 	0
+1227. 	ITA 	NSK 	PROF 	Luca Raggio 	1995 	1 	0 	0
+1228. 	MDA 	XYZ 		Christian Raileanu 	1993 	1 	0 	0
+1229. 	COL 	EPM 	CONT 	Carlos Mario Ramirez 	1994 	1 	0 	0
+1230. 	COL 	XYZ 		Brayan Stiven Ramirez 	1992 	1 	0 	0
+1231. 	USA 	XYZ 		Jacob Rathe 	1991 	1 	0 	0
+1232. 	ITA 	CCS 	CONT 	Davide Rebellin 	1971 	1 	0 	0
+1233. 	POR 	W52 	PROF 	Rafael Reis 	1992 	1 	0 	0
+1234. 	GER 	XYZ 		Robert Retschke 	1980 	1 	0 	0
+1235. 	USA 	HBA 	PROF 	Thomas Revard 	1997 	1 	0 	0
+1236. 	COL 	MZN 	PROF 	Aldemar Reyes Ortega 	1995 	1 	0 	0
+1237. 	USA 	AHB 	CONT 	Brendan Rhim 	1995 	1 	0 	0
+1238. 	AUS 	HBA 	PROF 	Michael Rice 	1996 	1 	0 	0
+1239. 	RUS 	GAZ 	PROF 	Petr Rikunov 	1997 	1 	0 	0
+1240. 	FRA 	PCB 	PROF 	Alan Riou 	1997 	1 	0 	0
+1241. 	ESP 	BBH 	PROF 	Alvaro Robredo 	1993 	1 	0 	0
+1242. 	FRA 	DMP 	PROF 	Rémy Rochas 	1996 	1 	0 	0
+1243. 	POR 	W52 	PROF 	João Rodrigues 	1994 	1 	0 	0
+1244. 	VEN 	XYZ 		Jackson Rodriguez 	1985 	1 	0 	0
+1245. 	MEX 	ELV 	CONT 	Jose Alfredo Rodriguez 	1997 	1 	0 	0
+1246. 	ESP 	EUS 	PROF 	Sergio Rodriguez 	1992 	1 	0 	0
+1247. 	COL 	XYZ 		Michael Rodriguez 	1989 	1 	0 	0
+1248. 	ESP 	CJR 	PROF 	Cristian Rodríguez 	1995 	1 	0 	0
+1249. 	COL 	EPM 	CONT 	Jhon Rodriguez 	1996 	1 	0 	0
+1250. 	AUS 	XYZ 		Timothy Roe 	1989 	1 	0 	0
+1251. 	ITA 	BRD 	PROF 	Francesco Romano 	1997 	1 	0 	0
+1252. 	ITA 	NSK 	PROF 	Massimo Rosa 	1995 	1 	0 	0
+1253. 	CAN 	XSU 	CONT 	Ryan Roth 	1983 	1 	0 	0
+1254. 	SUI 	COC 	PROF 	Loris Rouiller 	2000 	1 	0 	0
+1255. 	GBR 	MGT 	CONT 	Erick Rowsell 	1990 	1 	0 	0
+1256. 	HUN 	CCD 	CONT 	Balazs Rozsa 	1995 	1 	0 	0
+1257. 	COL 	XYZ 		Miguel Rubiano 	1984 	1 	0 	0
+1258. 	POL 	WIB 	CONT 	Marek Rutkiewicz 	1981 	1 	0 	0
+1259. 	GER 	LKH 	CONT 	Jonas Rutsch 	1998 	1 	0 	0
+1260. 	COL 	MZN 	PROF 	Nicolas Saenz 	1997 	1 	0 	0
+1261. 	ESP 	EUS 	PROF 	Héctor Saez 	1993 	1 	0 	0
+1262. 	UZB 	TNN 	PROF 	Ulugbek Saidov 	1996 	1 	0 	0
+1263. 	ESP 	XYZ 		Ibai Salas 	1991 	1 	0 	0
+1264. 	BLR 	MCC 	CONT 	Branislau Samoilau 	1985 	1 	0 	0
+1265. 	ESP 	XYZ 		Oscar Eduardo Sanchez 	1985 	1 	0 	0
+1266. 	ESP 	W52 	PROF 	Angel Sanchez 	1993 	1 	0 	0
+1267. 	COL 	XYZ 		Brayan Sanchez 	1994 	1 	0 	0
+1268. 	JPN 	XYZ 		Junya Sano 	1982 	1 	0 	0
+1269. 	ESP 	EUS 	PROF 	Enrique Sanz 	1989 	1 	0 	0
+1270. 	COL 	EPM 	CONT 	Cayetano Sarmiento 	1987 	1 	0 	0
+1271. 	CZE 	ELA 	CONT 	Michal Schlegel 	1995 	1 	0 	0
+1272. 	FRA 	DMP 	PROF 	Fabien Schmidt 	1989 	1 	0 	0
+1273. 	USA 	XYZ 		Morgan Schmitt 	1985 	1 	0 	0
+1274. 	AUT 	NSK 	PROF 	Sebastian Schönberger 	1994 	1 	0 	0
+1275. 	NZL 	ICA 	PROF 	Hamish Schreurs 	1994 	1 	0 	0
+1276. 	FRA 	TDE 	PROF 	Simon Sellier 	1995 	1 	0 	0
+1277. 	ITA 	BRD 	PROF 	Manuel Senni 	1992 	1 	0 	0
+1278. 	KOR 	XYZ 		Joon Yong Seo 	1988 	1 	0 	0
+1279. 	COL 	GWS 	CONT 	Jose Serpa 	1979 	1 	0 	0
+1280. 	BRA 	BBH 	PROF 	Nicolas Sessler 	1994 	1 	0 	0
+1281. 	ESP 	MED 	CONT 	Oscar Sevilla 	1976 	1 	0 	0
+1282. 	AUS 	XYZ 		Stuart Shaw 	1977 	1 	0 	0
+1283. 	RUS 	GAZ 	PROF 	Sergey Shilov 	1988 	1 	0 	0
+1284. 	COL 	MZN 	PROF 	Yecid Arturo Sierra 	1994 	1 	0 	0
+1285. 	RUS 	XYZ 		Egor Silin 	1988 	1 	0 	0
+1286. 	POR 	W52 	PROF 	Joaquim Silva 	1992 	1 	0 	0
+1287. 	POR 	XYZ 		Fabio Silvestre 	1990 	1 	0 	0
+1288. 	BEL 	WVA 	PROF 	Franklin Six 	1996 	1 	0 	0
+1289. 	NOR 	UXT 	CONT 	Kristoffer Skjerping 	1993 	1 	0 	0
+1290. 	NED 	MTA 	CONT 	Ivar Slik 	1993 	1 	0 	0
+1291. 	RSA 	TKA 	WT 	Willie Smit 	1992 	1 	0 	0
+1292. 	RUS 	XYZ 		Dmitry Sokolov 	1988 	1 	0 	0
+1293. 	RUS 	XYZ 		Andrey Solomennikov 	1987 	1 	0 	0
+1294. 	FRA 	COF 	PROF 	Geoffrey Soupe 	1988 	1 	0 	0
+1295. 	SUI 	WVA 	PROF 	Lukas Spengler 	1994 	1 	0 	0
+1296. 	ITA 	ANS 	PROF 	Matteo Spreafico 	1993 	1 	0 	0
+1297. 	POL 	VOS 	CONT 	Adam Stachowiak 	1989 	1 	0 	0
+1298. 	BEL 	COC 	PROF 	Joeri Stallaert 	1991 	1 	0 	0
+1299. 	POL 	XYZ 		Daniel Staniszewski 	1997 	1 	0 	0
+1300. 	RUS 	GAZ 	PROF 	Mamyr Stash 	1993 	1 	0 	0
+1301. 	BEL 	XYZ 		Robin Stenuit 	1990 	1 	0 	0
+1302. 	POL 	XYZ 		Grzegorz Stepniak 	1989 	1 	0 	0
+1303. 	GBR 	DHB 	CONT 	Thomas Stewart 	1990 	1 	0 	0
+1304. 	DEN 	RIW 	PROF 	Andreas Stokbro 	1997 	1 	0 	0
+1305. 	GER 	SUN 	WT 	Florian Stork 	1997 	1 	0 	0
+1306. 	NED 	VLA 	CONT 	Wim Stroetinga 	1985 	1 	0 	0
+1307. 	COL 	GWS 	CONT 	Juan Pablo Suarez 	1985 	1 	0 	0
+1308. 	COL 	MZN 	PROF 	Bernardo Suaza 	1992 	1 	0 	0
+1309. 	ESP 	BBH 	PROF 	Jaume Sureda 	1996 	1 	0 	0
+1310. 	AUS 	UAD 	WT 	Rory Sutherland 	1982 	1 	0 	0
+1311. 	RUS 	XYZ 		Kirill Sveshnikov 	1992 	1 	0 	0
+1312. 	AUS 	EVO 	CONT 	Harrison Sweeny 	1998 	1 	0 	0
+1313. 	MDA 	XYZ 		Nicolai Tanovitchi 	1993 	1 	0 	0
+1314. 	GBR 	DHB 	CONT 	Andrew Tennant 	1987 	1 	0 	0
+1315. 	ESP 	XYZ 		Eloy Teruel 	1982 	1 	0 	0
+1316. 	BEL 	LTS 	WT 	Gerben Thijssen 	1998 	1 	0 	0
+1317. 	GER 	VFB 	CONT 	Björn Thurau 	1988 	1 	0 	0
+1318. 	NED 	ROC 	PROF 	Justin Timmermans 	1996 	1 	0 	0
+1319. 	ITA 	XYZ 		Nicola Toffali 	1992 	1 	0 	0
+1320. 	ESP 	XYZ 		Jose Vicente Toribio 	1985 	1 	0 	0
+1321. 	ESP 	XYZ 		Albert Torres 	1990 	1 	0 	0
+1322. 	ESP 	XYZ 		Pablo Torres 	1987 	1 	0 	0
+1323. 	COL 	ILU 	CONT 	Rodolfo Torres 	1987 	1 	0 	0
+1324. 	FRA 	DMP 	PROF 	Julien Trarieux 	1992 	1 	0 	0
+1325. 	RUS 	XYZ 		Yury Trofimov 	1984 	1 	0 	0
+1326. 	ITA 	XYZ 		Mirko Trosino 	1992 	1 	0 	0
+1327. 	RUS 	XYZ 		Nikolai Trussov 	1985 	1 	0 	0
+1328. 	FRA 	TDE 	PROF 	Angelo Tulik 	1990 	1 	0 	0
+1329. 	FRA 	VCB 	PROF 	Jimmy Turgis 	1991 	1 	0 	0
+1330. 	ESP 	EUS 	PROF 	Gotzon Udondo 	1993 	1 	0 	0
+1331. 	FRA 	PCB 	PROF 	Florian Vachon 	1985 	1 	0 	0
+1332. 	ESP 	MOV 	WT 	Rafael Valls 	1987 	1 	0 	0
+1333. 	BEL 	TIS 	CONT 	Elias Van Breussegem 	1992 	1 	0 	0
+1334. 	NED 	TFL 	CONT 	Lars van der Haar 	1991 	1 	0 	0
+1335. 	NED 	COC 	PROF 	David van der Poel 	1992 	1 	0 	0
+1336. 	NED 	NSK 	PROF 	Etienne Van Empel 	1994 	1 	0 	0
+1337. 	NED 	ROC 	PROF 	Sjoerd van Ginneken 	1992 	1 	0 	0
+1338. 	NED 	XYZ 		Rik van IJzendoorn 	1987 	1 	0 	0
+1339. 	NED 	TFL 	CONT 	Corne Van Kessel 	1991 	1 	0 	0
+1340. 	BEL 	WGG 	PROF 	Kevin Van Melsen 	1987 	1 	0 	0
+1341. 	BEL 	SVB 	PROF 	Aaron Van Poucke 	1998 	1 	0 	0
+1342. 	BEL 	XYZ 		Yorben Van Tichelt 	1994 	1 	0 	0
+1343. 	RSA 	3O3 	CONT 	Johan Van Zyl 	1991 	1 	0 	0
+1344. 	NOR 	XYZ 		Andreas Vangstad 	1992 	1 	0 	0
+1345. 	BEL 	XYZ 		Mauri Vansevenant 	1999 	1 	0 	0
+1346. 	ARG 	XYZ 		Hugo Angel Velazquez 	1992 	1 	0 	0
+1347. 	ESP 	CPT 	WT 	Francisco Ventoso 	1982 	1 	0 	0
+1348. 	BEL 	COC 	PROF 	Otto Vergaerde 	1994 	1 	0 	0
+1349. 	BEL 	XYZ 		Louis Verhelst 	1990 	1 	0 	0
+1350. 	BEL 	COC 	PROF 	Gianni Vermeersch 	1992 	1 	0 	0
+1351. 	USA 	XYZ 		Alexey Vermeulen 	1994 	1 	0 	0
+1352. 	ESP 	EUS 	PROF 	Jose Daniel Viejo 	1997 	1 	0 	0
+1353. 	ITA 	ANS 	PROF 	Mattia Viel 	1995 	1 	0 	0
+1354. 	COL 	XYZ 		Juan Villegas 	1987 	1 	0 	0
+1355. 	FRA 	GFC 	WT 	Leo Vincent 	1995 	1 	0 	0
+1356. 	POR 	W52 	PROF 	Rui Pedro Vinhas 	1986 	1 	0 	0
+1357. 	DEN 	RIW 	PROF 	Troels Vinther 	1987 	1 	0 	0
+1358. 	RUS 	MCC 	CONT 	Eduard Vorganov 	1982 	1 	0 	0
+1359. 	RUS 	GAZ 	PROF 	Anton Vorobyev 	1990 	1 	0 	0
+1360. 	DEN 	RIW 	PROF 	Rasmus Bøgh Wallin 	1996 	1 	0 	0
+1361. 	BEL 	SVB 	PROF 	Jordi Warlop 	1996 	1 	0 	0
+1362. 	GER 	XYZ 		Domenic Weinstein 	1994 	1 	0 	0
+1363. 	AUS 	EF1 	WT 	James Whelan 	1996 	1 	0 	0
+1364. 	BEL 	SVB 	PROF 	Thimo Willems 	1996 	1 	0 	0
+1365. 	AUS 	XYZ 		Christopher Williams 	1981 	1 	0 	0
+1366. 	GBR 	XYZ 		Peter Williams 	1986 	1 	0 	0
+1367. 	GBR 	TBM 	WT 	Stephen Williams 	1996 	1 	0 	0
+1368. 	USA 	XYZ 		Tyler Williams 	1994 	1 	0 	0
+1369. 	LUX 	WVA 	PROF 	Tom Wirtgen 	1996 	1 	0 	0
+1370. 	JPN 	NIP 	PROF 	Hayato Yoshida 	1989 	1 	0 	0
+1371. 	USA 	XYZ 		Eric Young 	1989 	1 	0 	0
+1372. 	FRA 	XYZ 		Yannis Yssaad 	1993 	1 	0 	0
+1373. 	KAZ 	AST 	WT 	Artyom Zakharov 	1991 	1 	0 	0
+1374. 	ITA 	XYZ 		Marco Zamparella 	1987 	1 	0 	0
+1375. 	ITA 	XYZ 		Marco Zanotti 	1988 	1 	0 	0
+1376. 	ITA 	NSK 	PROF 	Edoardo Zardini 	1989 	1 	0 	0
+1377. 	ALB 	EVO 	CONT 	Eugert Zhupa 	1990 	1 	0 	0
+1378. 	POL 	XYZ 		Kamil Zielinski 	1988 	1 	0 	0
+1379. 	NED 	HBA 	PROF 	Maikel Zijlaard 	1999 	1 	0 	0
+1380. 	ITA 	GVP 	CONT 	Federico Zurlo 	1994 	1 	0 	0
