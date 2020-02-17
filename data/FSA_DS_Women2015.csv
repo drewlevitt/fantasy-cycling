@@ -1,0 +1,713 @@
+"Rank","Country","UCI Team","Rider ID","Rider Name","Price","Score 2014","Score 2015"
+1,"NED","RBW",1862,"Anna van der Breggen",35,2841,4696
+2,"SWE","GEW",1649,"Emma Johansson",55,4441,3510
+3,"BEL","WHT",1930,"Jolien D\'hoore",20,1470,3027
+4,"GBR","DLT",1700,"Elizabeth Deignan",50,3415,2706
+5,"GER","VEL",1875,"Lisa Brennauer",35,2833,2703
+6,"NED","RBW",1706,"Lucinda Brand",14,968,2612
+7,"USA","DLT",1896,"Megan Guarnier",14,930,2560
+8,"ITA","WHT",1639,"Elisa Longo Borghini",35,2692,2363
+9,"NED","HPU",1705,"Kirsten Wild",35,2549,2132
+10,"BLR","VEL",1478,"Alena Amialyusik",16,1110,2003
+11,"NED","TLP",1843,"Amy Pieters",16,1175,1993
+12,"POL","RBW",2750,"Katarzyna Niewiadoma",10,530,1958
+13,"RSA","BCT",1678,"Ashleigh Moolman",14,850,1925
+14,"ITA","LBL",1715,"Elena Cecchini",16,1030,1865
+15,"FRA","RBW",1810,"Pauline Ferrand-Prevot",40,3032,1745
+16,"FIN","BCT",2006,"Lotta Henttala (Lepistö)",10,585,1630
+17,"LUX","DLT",1635,"Christine Majerus",16,1050,1576
+18,"NED","BCT",1812,"Annemiek van Vleuten",30,1692,1561
+19,"NED","DLT",1876,"Ellen van Dijk",35,1888,1515
+20,"ITA","WHT",1522,"Giorgia Bronzini",25,2346,1395
+21,"USA","ALE",1712,"Shelley Olds",20,1930,1370
+22,"CAN","VEL",1578,"Karol-Ann Canuel",6,370,1315
+23,"USA","DLT",1881,"Evelyn Stevens",35,2162,1215
+24,"USA","TIB",2737,"Lauren Stephens",6,403,1213
+25,"GER","VEL",1877,"Trixi Worrack",14,938,1159
+26,"AUS","VEL",1606,"Tiffany Cromwell",14,903,1113
+27,"SLO","BTC",2768,"Eugenia Bujak",10,562,1100
+28,"AUS","GEW",1601,"Amanda Spratt",2,90,1035
+29,"AUS","WHT",1869,"Chloe Hosking",10,375,1010
+30,"ITA","VEL",1899,"Barbara Guarischi",12,650,984
+31,"FRA","FUT",1445,"Roxane Fournier",6,366,946
+32,"AUS","GEW",2975,"Katrin Garfoot",6,405,925
+33,"NED","DLT",1704,"Chantal van den Broek-Blaak",16,1278,905
+34,"CAN","BCT",1788,"Joelle Numainville",4,150,840
+35,"USA","WHT",2200,"Mara Abbott",20,535,680
+36,"NED","RBW",1818,"Thalita de Jong",14,792,675
+36,"NED","TLP",2915,"Floortje Mackaij",1,75,675
+38,"NED","RBW",1817,"Roxane Knetemann",12,605,652
+39,"GER","TLP",1607,"Claudia Lichtenberg-Häusler",16,1286,650
+40,"FRA","VEL",2370,"Elise Delzenne",2,140,615
+41,"AUT","BTC",2305,"Martina Ritter",2,187,605
+42,"NOR","HPU",1641,"Emilie Moberg",6,410,590
+43,"USA","UHC",1537,"Coryn Rivera",1,50,560
+44,"ITA","GEW",1743,"Valentina Scandolara",6,400,550
+45,"CAN","OPW",1789,"Leah Kirchman",12,645,545
+46,"FRA","FUT",1589,"Pascale Jeuland",1,65,535
+47,"UKR","ISG",1559,"Tetyana Riabchenko",4,260,530
+48,"AUS","HPU",1808,"Lauren Kitchen",2,0,520
+49,"RUS","SEF",1819,"Tatiana Antoshina",12,370,500
+50,"USA","VEL",1545,"Tayler Wiles",6,340,497
+51,"BEL","VLL",1668,"Ann Sophie Duyck",6,427,495
+52,"JPN","WHT",2073,"Mayuko Hagiwara",4,285,470
+53,"AUS","GEW",3021,"Lizzie Williams",6,400,465
+53,"SLO","BTC",1527,"Polona Batagelj",4,232,465
+55,"ITA","ALE",1655,"Annalisa Cucinotta",2,165,435
+55,"DEN","DLT",3069,"Amelie Dideriksen",1,0,435
+57,"USA","ALE",1560,"Flavia Oliveira",2,210,431
+58,"SUI","SEF",2363,"Jolanda Neff",1,0,425
+59,"NZL","UHC",1610,"Linda Melanie Villumsen",12,745,405
+60,"USA","BCT",1792,"Carmen Small",4,153,385
+61,"GBR","TLP",2357,"Lucy van der Haar",12,595,380
+61,"AUS","LBL",1575,"Carlee Taylor",1,60,380
+63,"USA","BPK",1880,"Amber Neben",1,0,375
+64,"FRA","WHT",1581,"Audrey Cordon-Ragot",14,790,360
+65,"NED","RBW",1494,"Anouska Koster",2,125,357
+66,"AUS","RBW",1605,"Shara Marche (Gillow)",6,160,355
+67,"NED","LWZ",1945,"Kim de Baat",2,110,347
+68,"ITA","ALE",1569,"Maria Confalonieri",2,150,346
+69,"GER","VEL",2304,"Mieke Kröger",4,350,340
+69,"NED","PHV",1496,"Janneke Ensing",4,245,340
+71,"AUS","GEW",2267,"Gracie Elvin",4,150,335
+71,"NOR","HPU",2306,"Miriam Bjornsrud",1,50,335
+73,"AUS","XYZ",3022,"Jenelle Crooks",1,70,330
+74,"USA","EXG",1542,"Kristin Armstrong",1,0,325
+75,"ITA","ALE",1721,"Marta Tagliaferro",2,155,321
+76,"SWE","TLP",1650,"Sara Mustonen",4,315,310
+76,"USA","UHC",2953,"Katherine Hall",1,0,310
+78,"ITA","VAI",1720,"Marta Bastianelli",2,0,306
+79,"ITA","ALE",1488,"Simona Frapporti",1,95,300
+80,"ITA","HPU",1724,"Tatiana Guderzo",6,95,295
+80,"USA","TIB",2943,"Kristabel Doebel-Hickok",1,25,295
+82,"AUS","GEW",1772,"Rachel Neylan",2,100,290
+83,"USA","OPW",2419,"Brianna Walle",4,290,285
+83,"USA","EXG",3254,"Lauren Komanski",1,0,285
+85,"ITA","ISG",1598,"Rossella Ratto",16,1106,280
+85,"ESP","LTK",2579,"Sheyla Gutierrez",1,0,280
+87,"NED","PHV",1516,"Nathalie van Gogh",1,33,278
+88,"FRA","LTK",1693,"Fanny Riberot",1,60,275
+89,"GBR","UHC",1508,"Hannah Barnes",1,50,265
+90,"GER","TIB",3023,"Kathrin Hammes",2,160,247
+91,"RUS","SEF",1696,"Anna Potokina",1,10,245
+92,"ESP","WHT",1465,"Anna Sanchis Chafer",1,0,240
+93,"NED","TLP",2365,"Sabrina Stultiëns",4,290,230
+93,"GER","DLT",1830,"Romy Kasper",4,230,230
+95,"AUS","VEL",1870,"Lauren Rowney",1,40,225
+96,"POL","ALE",1726,"Malgorzata Jasinska",1,95,221
+97,"FRA","FUT",3012,"Severine Eraud",1,70,215
+97,"ESP","ISG",1464,"Ane Santesteban",1,0,215
+99,"FRA","FUT",1580,"Amelie Rivat",2,150,210
+99,"ITA","SEF",2366,"Michela Pavin",1,0,210
+101,"FRA","MIC",1582,"Edwige Pitel",2,160,205
+101,"AUS","WHT",1950,"Annette Edmondson",4,60,205
+101,"ITA","BPK",2377,"Ilaria Sanguineti",1,0,205
+104,"UKR","AST",2181,"Hanna Solovey",14,425,200
+105,"NZL","TIB",1919,"Emily Collins",2,30,192
+106,"GER","XYZ",2405,"Stephanie Pohl",4,295,190
+107,"CZE","XYZ",2351,"Martina Sablikova",6,445,180
+107,"SUI","BCT",1908,"Doris Schweizer",4,275,180
+107,"POL","DLT",2308,"Katarzyna Pawlowska",2,145,180
+110,"ITA","ALE",3035,"Arianna Fidanza",1,40,175
+111,"POL","XYZ",3004,"Anna Plichta",4,295,170
+111,"RUS","SEF",2161,"Elena Kuchinskaya",2,110,170
+111,"FRA","XYZ",2373,"Iris Sachet",1,0,170
+114,"GER","HPU",1873,"Charlotte Becker",8,475,165
+114,"USA","EXG",1894,"Lauren Hall",4,325,165
+116,"ITA","LBL",1723,"Susanna Zorzi",6,402,160
+116,"BEL","VLL",1931,"Kelly Druyts",6,394,160
+116,"CAN","OPW",1790,"Lex Albrecht",2,150,160
+116,"USA","UHC",2954,"Alexis Ryan",1,0,160
+120,"NOR","HPU",2331,"Cecilie Gotaas Johnsen",1,100,155
+121,"BEL","LWZ",1676,"Sofie De Vuyst",10,575,152
+122,"BEL","LBL",1699,"Jessie Daams",4,240,150
+122,"LTU","XYZ",1916,"Rasa Leleivyte",1,0,150
+124,"USA","OPW",1534,"Alison Tetrick",1,55,145
+125,"USA","DNA",2594,"Heather Fischer",1,0,140
+125,"ITA","MIC",1596,"Lara Vieceli",1,0,140
+127,"BEL","VLL",1933,"Lotte Kopecky",1,14,130
+127,"RSA","XYZ",1677,"An-Li Pretorius",1,0,130
+129,"ITA","ISG",2362,"Anna Zita Maria Stricker",2,30,125
+130,"NED","RBW",1814,"Marianne Vos",70,4604,120
+130,"CRO","BTC",2902,"Mia Radotic",1,52,120
+130,"NED","TLP",2562,"Willeke Knol",1,0,120
+133,"POL","XYZ",2156,"Paulina Brzezna",4,325,115
+134,"NED","LWZ",1502,"Nina Kessler",2,210,112
+135,"RUS","XYZ",1490,"Oxana Kozonchuk",4,170,110
+135,"RUS","BPK",2266,"Anastasiya Chulkova",2,120,110
+135,"TPE","XYZ",3258,"Ting Ying Huang",1,0,110
+135,"GER","XYZ",3236,"Corinna Lechner",1,0,110
+139,"ITA","ISG",2376,"Alice Arzuffi",1,42,105
+139,"GBR","WHT",1728,"Danielle Rowe (King)",2,0,105
+141,"GER","RBW",2938,"Anna Knauer",1,2,102
+142,"FRA","FUT",2009,"Aude Biannic",6,330,100
+142,"ITA","ISG",1910,"Anna Trevisi",2,150,100
+142,"EST","ISG",2422,"Liisi Rist",2,100,100
+142,"LAT","VAI",3038,"Lija Laizane",1,10,100
+142,"FRA","LTK",2010,"Aurore Verhoeven",1,5,100
+142,"HUN","KRE",2893,"Veronika Kormos",1,0,100
+142,"DEN","XYZ",2947,"Rikke Lønne",1,0,100
+142,"THA","XYZ",2178,"Jutatip Maneephan",1,0,100
+150,"CAN","OPW",2290,"Jasmin Duehring",4,235,95
+150,"ITA","ALE",1902,"Francesca Cauz",4,30,95
+150,"USA","UHC",2945,"Elizabeth Lechuga (Wilborne)",1,0,95
+153,"NOR","XYZ",2760,"Ingrid Lorvik",2,110,90
+153,"RUS","AST",2163,"Larisa Pankova",1,30,90
+155,"NED","XYZ",1849,"Monique van de Ree",1,58,85
+156,"NED","RBW",3106,"Moniek Tenniglo",1,0,82
+157,"NED","PHV",3058,"Chanella Stougje",1,0,80
+157,"BEL","LBL",1924,"Anisha Vekemans",1,0,80
+159,"AUS","GEW",1603,"Melissa Hoskins",8,495,75
+159,"NED","BCT",1813,"Iris Slappendel",4,245,75
+159,"AUS","GEW",2914,"Sarah Roy",1,60,75
+159,"USA","EXG",1535,"Andrea Dvorak",1,0,75
+159,"AUS","XYZ",2758,"Kimberley Wells",1,0,75
+164,"USA","TIB",1893,"Kendall Ryan",1,18,72
+165,"FRA","FUT",1627,"Charlotte Bravard",1,90,70
+165,"CHN","GPC",3259,"Yue Bai",1,0,70
+165,"FRA","XYZ",1590,"Sandrine Bideau",1,0,70
+165,"HKG","GPC",3256,"Zhao Juan Meng",1,0,70
+165,"ESP","LTK",2580,"Eider Merino",1,0,70
+165,"UKR","XYZ",3291,"Olga Shekel",1,0,70
+165,"BEL","LWZ",1852,"Celine Van Severen",1,0,70
+165,"GBR","MAT",2588,"Molly Weaver",1,0,70
+165,"CAN","XYZ",3316,"Tara Whitten",1,0,70
+174,"NED","PHV",2569,"Jermaine Post",1,5,68
+175,"SLO","BTC",2901,"Ursa Pintar",1,32,65
+175,"AZE","BTC",2275,"Olena Pavlukhina",1,0,65
+177,"RUS","XYZ",1836,"Natalia Boyarskaya",4,280,60
+177,"BRA","ALE",1548,"Uenia Fernandes",1,45,60
+177,"NED","FCT",2994,"Lotte van Hoek",1,10,60
+177,"GER","XYZ",1828,"Hanka Kupfernagel",1,0,60
+177,"ESP","LTK",3272,"Cristina Martinez",1,0,60
+177,"ITA","TOG",2382,"Chiara Pierobon",1,0,60
+177,"TPE","XYZ",3257,"Hsiao Chio Tseng",1,0,60
+177,"NED","PHV",3074,"Jip van den Bos",1,0,60
+185,"USA","UHC",1923,"Ruth Winder",1,40,55
+185,"NED","TLP",2112,"Julia Soek",1,0,55
+187,"NED","PHV",2586,"Riejanne Markus",1,0,53
+188,"NED","BCT",1867,"Vera Koedooder",12,632,50
+188,"SWE","WHT",1878,"Emilia Fahlin",2,110,50
+188,"VEN","VAI",2769,"Serika Guluma Ortiz",1,30,50
+188,"ITA","TOG",1904,"Irene Bitto",1,0,50
+188,"NED","XYZ",3288,"Eva Buurman",1,0,50
+188,"KOR","XYZ",3260,"Huyn Ji Kim",1,0,50
+188,"GBR","VPM",3308,"Hayley Simmonds",1,0,50
+195,"GBR","WHT",2383,"Amy Roberts",1,0,45
+196,"NED","LWZ",2911,"Evy Kuijpers",1,0,42
+197,"CAN","UHC",1974,"Laura Brown",1,95,40
+197,"ITA","BPK",1487,"Silvia Valsecchi",1,55,40
+197,"NZL","UHC",2153,"Rushlee Buchanan",1,40,40
+197,"USA","UHC",1536,"Cari Higgins",1,40,40
+197,"USA","UHC",1544,"Lauren Tamayo",1,40,40
+197,"ESP","LTK",3094,"Alicia Gonzalez Blanco",1,0,40
+197,"HKG","XYZ",3264,"Qian Yu Yang",1,0,40
+204,"GER","XYZ",2753,"Beate Zanner",6,440,35
+204,"AUS","GEW",2969,"Chloe McConville",1,25,35
+204,"AUS","GEW",3082,"Macey Stewart",1,0,35
+207,"BEL","LWZ",2409,"Annelies Dom",1,0,32
+208,"NED","DLT",2905,"Demi De Jong",1,40,30
+208,"BEL","LBL",1491,"Lieselot Decroix",1,0,30
+208,"KOR","XYZ",3261,"Hyeong Yeong Kang",1,0,30
+208,"DEN","XYZ",3282,"Camilla Møllebro Pedersen",1,0,30
+208,"BEL","LWZ",1652,"Annelies Van Doorslaer",1,0,30
+208,"RUS","XYZ",3279,"Svetlana Vasilieva",1,0,30
+214,"USA","XYZ",2429,"Amy Charity",1,100,25
+214,"CAN","OPW",1786,"Annie Ewart",1,80,25
+214,"FRA","XYZ",3016,"Annabelle Dreville",1,50,25
+214,"NOR","HPU",1646,"Thea Thorsen",1,0,25
+218,"ESP","XYZ",2895,"Anna Ramirez Bauxel",2,100,20
+218,"JPN","XYZ",3052,"Eri Yonamine",1,60,20
+218,"GER","XYZ",1777,"Daniela Gass",1,15,20
+218,"NZL","BPK",2736,"Georgia Williams",2,0,20
+218,"ITA","BPK",2891,"Ilaria Bonomi",1,0,20
+218,"POL","XYZ",2271,"Monika Brzezna",1,0,20
+218,"ROU","BPK",3097,"Ana Maria Covrig",1,0,20
+218,"NED","RBW",3280,"Jeanne Korevaar",1,0,20
+218,"ITA","XYZ",2061,"Eva Lechner",1,0,20
+218,"SWE","XYZ",3287,"Sara Penton",1,0,20
+218,"LTU","ISG",3109,"Daiva Ragazinskiene (Tuslaite)",1,0,20
+218,"NED","XYZ",3281,"Minke Slingerland",1,0,20
+230,"NZL","TIB",1888,"Joanne Kiesanowski",4,283,18
+230,"NED","PHV",2303,"Rozanne Slik",1,38,18
+230,"NED","PHV",1709,"Marijn de Vries",1,30,18
+230,"CAN","TIB",2583,"Alizee Brien",1,10,18
+230,"NED","PHV",1823,"Ilona Hoeksma",1,0,18
+235,"ITA","ALE",1900,"Elena Berlato",6,340,16
+235,"ITA","ALE",2380,"Beatrice Bartelloni",1,70,16
+235,"USA","PEP",1530,"Amber Pierce",1,0,16
+238,"BEL","VLL",1653,"Evelyn Arys",1,0,15
+238,"GBR","MAT",1702,"Lucy Martin",1,0,15
+240,"AUS","TIB",1475,"Joanne Hogan",4,285,14
+240,"USA","PEP",2325,"Lindsay Bayer",1,0,14
+240,"USA","XYZ",1756,"Robin Farina",1,0,14
+240,"USA","TIB",3114,"Sara Headly",1,0,14
+240,"SUI","BMW",1556,"Jessica Uebelhart",1,0,14
+245,"NED","LWZ",1499,"Marissa Otten",1,0,12
+246,"NED","TRY",1847,"Kelly Markus",1,14,10
+246,"NED","XYZ",3253,"Nike Beckeringh",1,0,10
+246,"SUI","FCT",2387,"Désirée Ehrler",1,0,10
+246,"ITA","BPK",3111,"Jaime Nielsen",1,0,10
+246,"SWE","XYZ",1422,"Hanna Nilsson",1,0,10
+246,"BLR","BPK",3305,"Ksenia Tuhai",1,0,10
+246,"CHN","GPC",3265,"Wantong Wang",1,0,10
+253,"FRA","XYZ",1584,"Fiona Dutriaux",1,15,5
+253,"USA","COL",2201,"Mary Zider",1,0,5
+255,"BEL","LBL",1809,"Liesbet De Vocht",10,535,0
+255,"NZL","XYZ",2251,"Reta Trotman",6,440,0
+255,"BEL","TLP",1934,"Maaike Polspoel",6,390,0
+255,"AUS","XYZ",1959,"Taryn Heather",4,265,0
+255,"RUS","XYZ",1837,"Olga Zabelinskaya",4,265,0
+255,"DEN","HPU",1505,"Julie Leth",4,250,0
+255,"AUT","FCT",1664,"Jacqueline Hahn",2,180,0
+255,"NED","GEW",1609,"Loes Gunnewijk",6,155,0
+255,"ITA","XYZ",1566,"Fabiana Luperini",2,155,0
+255,"CAN","XYZ",1787,"Denise Ramsden",2,150,0
+255,"USA","OPW",1793,"Jade Wilcoxson",2,150,0
+255,"POL","XYZ",2273,"Paulina Guz",2,115,0
+255,"GBR","BCT",1703,"Sharon Laws",2,100,0
+255,"ESP","XYZ",1999,"Leire Olaberria",2,100,0
+255,"GBR","MAT",1510,"Laura Trott",2,100,0
+255,"RUS","XYZ",1697,"Yulia Ilinikh",1,100,0
+255,"MEX","XYZ",1745,"Veronica Leal Balderas",1,100,0
+255,"IRL","XYZ",2053,"Caroline Ryan",1,100,0
+255,"NOR","XYZ",2335,"Camilla Sørgjerd",1,100,0
+255,"LTU","XYZ",2078,"Ausrine Trebaite",1,100,0
+255,"HUN","XYZ",2570,"Veronika Vormos",1,100,0
+255,"RUS","AST",2567,"Aizhan Zhaparova",1,100,0
+255,"RUS","XYZ",2747,"Anna Zavershinskaya",1,95,0
+255,"NOR","HPU",3020,"Vita Heine",1,85,0
+255,"GER","XYZ",2044,"Esther Fennel",1,80,0
+255,"RUS","XYZ",2282,"Aleksandra Chekina",1,75,0
+255,"NED","TRY",1764,"Henriette Woering",1,74,0
+255,"AUS","LBL",2296,"Amy Cure",4,70,0
+255,"RUS","XYZ",3042,"Anastasiia Chursina",1,60,0
+255,"CAN","XYZ",2997,"Annie Foreman Mackey",1,60,0
+255,"CAN","XYZ",3001,"Kirsti Lay",1,60,0
+255,"AUS","XYZ",1602,"Jessie Maclean",1,60,0
+255,"USA","UHC",2978,"Abigail Mickey",1,60,0
+255,"FRA","FUT",1629,"Lucie Pader",1,60,0
+255,"NED","XYZ",1501,"Mascha Pijnenborg",1,60,0
+255,"FIN","SEF",1549,"Sari Saarelainen",1,60,0
+255,"LTU","VAI",1915,"Katarzyna Sosna",1,60,0
+255,"NED","XYZ",2129,"Mirthe Wagenaar",1,60,0
+255,"GER","XYZ",1781,"Martina Zwick",1,60,0
+255,"CAN","TIB",2944,"Anika Todd",1,58,0
+255,"RUS","XYZ",1746,"Alexandra Burchenkova",1,50,0
+255,"CAN","XYZ",3002,"Justine Clift",1,50,0
+255,"SUI","XYZ",3013,"Ramona Forchini",1,50,0
+255,"USA","OPW",1794,"Janel Holcomb",1,50,0
+255,"USA","OPW",2240,"Maura Kinsella",1,50,0
+255,"SWE","MAT",2176,"Sara Olsson",1,50,0
+255,"RUS","XYZ",2991,"Tatiana Shamanova",1,50,0
+255,"RUS","XYZ",1572,"Elena Utrobina",1,50,0
+255,"SUI","BCT",2171,"Nicole Hanselmann",1,45,0
+255,"RUS","SEF",2286,"Marina Likhanov",1,40,0
+255,"ITA","ALE",1483,"Dalia Muccioli",1,40,0
+255,"UKR","XYZ",2185,"Olena Sharga",1,40,0
+255,"NED","XYZ",1504,"Winanda Spoor",1,40,0
+255,"SUI","XYZ",2341,"Jutta Stienen",1,40,0
+255,"GBR","PIS",2038,"Sarah Storey",1,40,0
+255,"NED","XYZ",3017,"Iris van der Stelt",1,40,0
+255,"AUS","XYZ",2751,"Rebecca Wiasak",1,40,0
+255,"USA","PEP",1889,"Amanda Miller",1,38,0
+255,"USA","COL",2972,"Erica Allar",1,30,0
+255,"ITA","XYZ",1521,"Giada Borgato",1,30,0
+255,"USA","XYZ",2425,"Jessica Cutler",1,30,0
+255,"SWE","XYZ",2368,"Alexandra Nessmar",1,30,0
+255,"ESP","BPD",1995,"Irene San Sebastian",1,30,0
+255,"GER","XYZ",1776,"Anna Bianca Schnitzmeier",1,30,0
+255,"GBR","XYZ",1440,"Claire Thomas",1,30,0
+255,"SUI","TIB",1637,"Patricia Schwager",1,25,0
+255,"CZE","XYZ",2989,"Tereza Trefna",1,25,0
+255,"BEL","HPU",2581,"Shana Van Glabeke",1,25,0
+255,"ITA","BTC",1716,"Elena Valentini",1,21,0
+255,"LTU","XYZ",1526,"Inga Cilvinaite",1,20,0
+255,"NED","XYZ",3018,"Roos Hoogeboom",1,20,0
+255,"RUS","XYZ",3051,"Maria Savitskaya",1,20,0
+255,"USA","XYZ",1898,"Samantha Schneider",1,20,0
+255,"AUS","XYZ",2977,"Felicity Wardlaw",1,20,0
+255,"CAN","XYZ",2998,"Ellen Watters",1,20,0
+255,"NED","PHV",1503,"Pauliena Rooijakkers",1,18,0
+255,"SUI","XYZ",2169,"Mirjam Schwager",1,18,0
+255,"RUS","XYZ",2159,"Anna Evseeva",1,15,0
+255,"SUI","XYZ",3014,"Linda Indergand",1,15,0
+255,"NED","XYZ",2117,"Kirsten Peetoom",1,15,0
+255,"FRA","XYZ",1586,"Manon Souyris",1,15,0
+255,"UKR","XYZ",1803,"Eivgenia Vysotska",1,15,0
+255,"BEL","VLL",1927,"Gilke Croket",1,14,0
+255,"BEL","VLL",2378,"Nel De Crits",1,14,0
+255,"BEL","VLL",2957,"Demmy Druyts",1,14,0
+255,"DEN","TRY",3036,"Cecilie Uttrup Ludwig",1,14,0
+255,"DEN","TRY",2952,"Kamilla Sofie Vallin",1,14,0
+255,"BEL","VLL",2958,"Kelly Van Den Steen",1,14,0
+255,"KAZ","AST",3037,"Marzhan Baitleuova",1,12,0
+255,"RUS","AST",2577,"Kseniya Dobrynina",1,12,0
+255,"FRA","FUT",2968,"Eugénie Duval",1,10,0
+255,"GBR","XYZ",1506,"Anne Ewing",1,10,0
+255,"FRA","LTK",1444,"Mélodie Lesueur",1,10,0
+255,"USA","XYZ",3003,"Kristin Lotito",1,10,0
+255,"POL","XYZ",3019,"Katarzyna Wilkos",1,10,0
+255,"AUS","WHT",2959,"Peta Mullens",4,0,0
+255,"ITA","ALE",1481,"Alice Algisi",1,0,0
+255,"ARG","LBL",3105,"Jaquelina Alvarez",1,0,0
+255,"USA","BMW",2428,"Elle Anderson",1,0,0
+255,"NOR","XYZ",2332,"Tine Andreassen",1,0,0
+255,"BEL","XYZ",1651,"Anne Arnouts",1,0,0
+255,"SUI","BCT",1636,"Emilie Aubry",1,0,0
+255,"FRA","XYZ",1587,"Marion Azam",1,0,0
+255,"ITA","XYZ",1722,"Monia Baccaille",1,0,0
+255,"ITA","MIC",3072,"Francesca Balducci",1,0,0
+255,"ITA","MIC",2928,"Michela Balducci",1,0,0
+255,"GBR","MAT",2384,"Elinor Barker",1,0,0
+255,"GBR","XYZ",1509,"Jane Barr",1,0,0
+255,"ITA","ISG",1914,"Valentina Bastianelli",1,0,0
+255,"SUI","BCT",2392,"Caroline Baur",1,0,0
+255,"BEL","LBL",2386,"Isabelle Beckers",1,0,0
+255,"BEL","XYZ",1926,"Else Belmans",1,0,0
+255,"FRA","XYZ",2396,"Laurie Berthon",1,0,0
+255,"CAN","XYZ",1577,"Julie Beveridge",1,0,0
+255,"ITA","VAI",3067,"Martina Biolo",1,0,0
+255,"RUS","XYZ",1573,"Yulia Blindyuk",1,0,0
+255,"RUS","XYZ",2323,"Alina Bondarenko",1,0,0
+255,"NED","XYZ",2220,"Amanda Bongaards",1,0,0
+255,"USA","XYZ",2745,"Jamie Bookwalter",1,0,0
+255,"THA","XYZ",2280,"Sutharat Boonsawat",1,0,0
+255,"ITA","XYZ",2397,"Simona Bortolotti",1,0,0
+255,"NED","XYZ",1766,"Joukje Braam",1,0,0
+255,"AUS","XYZ",2250,"Amy Bradley",1,0,0
+255,"FRA","XYZ",1630,"Melanie Bravard",1,0,0
+255,"GBR","XYZ",2595,"Keyleigh Brogan",1,0,0
+255,"ESP","XYZ",2939,"Elizabet Bru Clotet",1,0,0
+255,"ITA","XYZ",2395,"Carlotta Brui",1,0,0
+255,"BEL","LWZ",1932,"Latoya Brulee",1,0,0
+255,"ITA","SEF",2929,"Vittoria Bussi",1,0,0
+255,"BEL","XYZ",1858,"Kimberly Buyl",1,0,0
+255,"ITA","TOG",1524,"Rossella Callovi",1,0,0
+255,"ITA","AST",3115,"Marika Campagnaro",1,0,0
+255,"CAN","XYZ",2288,"Gillian Carleton",1,0,0
+255,"CAN","DNA",1972,"Joanie Caron",1,0,0
+255,"ESP","BPD",3076,"Coral Casado Ortiz",1,0,0
+255,"BEL","XYZ",2217,"Dunja Ceulemans",1,0,0
+255,"AZE","XYZ",2160,"Elena Chalykh",1,0,0
+255,"FRA","XYZ",1631,"Oriane Chaumet",1,0,0
+255,"NZL","XYZ",1920,"Kate Chilcott",1,0,0
+255,"GBR","WHT",3089,"Anna Christian",1,0,0
+255,"AUT","XYZ",2931,"Pelin Cizgin",1,0,0
+255,"NED","XYZ",2227,"Marjolein Claessen",1,0,0
+255,"USA","XYZ",1546,"Theresa Cliff-Ryan",1,0,0
+255,"FRA","XYZ",2019,"Marie-Laure Cloarec",1,0,0
+255,"NED","XYZ",2910,"Kirsten Coppens",1,0,0
+255,"ITA","XYZ",2067,"Martina Corazza",1,0,0
+255,"ITA","SEF",2398,"Veronica Cornolti",1,0,0
+255,"BEL","XYZ",1759,"Shauni Corthout",1,0,0
+255,"ITA","ISG",3070,"Claudia Cretti",1,0,0
+255,"FRA","XYZ",2283,"Sophie Creux",1,0,0
+255,"ITA","XYZ",2930,"Simona Crotti",1,0,0
+255,"USA","XYZ",1539,"Jaquelyn Crowell",1,0,0
+255,"NZL","XYZ",1429,"Emma Crum",1,0,0
+255,"ITA","XYZ",1518,"Alessandra D\'Ettorre",1,0,0
+255,"ITA","MIC",1798,"Azzura D’Intino",1,0,0
+255,"ITA","TOG",3088,"Nicole Dal Santo",1,0,0
+255,"RSA","XYZ",1682,"Robyn De Groot",1,0,0
+255,"NED","XYZ",2225,"Jorinda de Heer",1,0,0
+255,"NED","XYZ",2229,"Tessa de Moyer",1,0,0
+255,"BEL","XYZ",1854,"Eline De Roover",1,0,0
+255,"BEL","XYZ",2552,"Evelien Debboudt",1,0,0
+255,"BEL","XYZ",1966,"Lensy Debboudt",1,0,0
+255,"BEL","XYZ",2551,"Sylvia Debboudt",1,0,0
+255,"BEL","VLL",3061,"Nicky Degrendele",1,0,0
+255,"BEL","VLL",3073,"Fien Delbaere",1,0,0
+255,"FRA","BRE",2309,"Coralie Demay",1,0,0
+255,"BEL","XYZ",2598,"Valérie Demey",1,0,0
+255,"UKR","AST",3087,"Olena Demidova",1,0,0
+255,"BEL","XYZ",1855,"Eveline Dergent",1,0,0
+255,"CAN","XYZ",2601,"Kael Deverell",1,0,0
+255,"NED","XYZ",1657,"Petra Dijkman",1,0,0
+255,"IRL","XYZ",1749,"Olivia Dillon",1,0,0
+255,"ITA","XYZ",1523,"Giulia Donato",1,0,0
+255,"CHN","GPC",1614,"Huang Dong Yan",1,0,0
+255,"USA","XYZ",2195,"Kathryn Donovan",1,0,0
+255,"MEX","AST",2962,"Ingrid Drexel Clouthier",1,0,0
+255,"UZB","XYZ",2550,"Olga Drobysheva",1,0,0
+255,"BEL","VLL",1929,"Jessy Druyts",1,0,0
+255,"SWE","XYZ",2549,"Mirella Ehrin",1,0,0
+255,"SRB","BTC",3083,"Jelena Eric",1,0,0
+255,"ESP","BPD",3057,"Elisabeth Escursell Valero",1,0,0
+255,"NED","XYZ",1512,"Aafke Eshuis",1,0,0
+255,"ESP","XYZ",1470,"Dorleta Eskamendi Gil",1,0,0
+255,"IRI","XYZ",2563,"Niknaz Fazeli",1,0,0
+255,"BRA","XYZ",2312,"Clemilda Fernandes Silva",1,0,0
+255,"BRA","XYZ",2892,"Marcia Fernandes Silva",1,0,0
+255,"ITA","TOG",1905,"Jennifer Fiori",1,0,0
+255,"FRA","ALE",3100,"Faure Fleur",1,0,0
+255,"ITA","SEF",3093,"Silvia Folloni",1,0,0
+255,"ITA","BPK",3091,"Giorgia Fraiegari",1,0,0
+255,"GBR","TRY",3099,"Chloe Fraser",1,0,0
+255,"SLO","XYZ",2897,"Sara Frece",1,0,0
+255,"DEN","XYZ",2327,"Mette Fugl Rasmussen",1,0,0
+255,"USA","XYZ",2418,"Amber Gaffney",1,0,0
+255,"FRA","XYZ",2307,"Kelly Gambier",1,0,0
+255,"ARG","LTK",1477,"Evelyn Garcia",1,0,0
+255,"POL","XYZ",2272,"Karolina Garczynska",1,0,0
+255,"AUT","NOE",2932,"Astrid Gassner",1,0,0
+255,"IRL","XYZ",2056,"Michelle Geoghegan",1,0,0
+255,"BEL","XYZ",1760,"Tara Gins",1,0,0
+255,"NED","XYZ",2108,"Jessica Glasbergen",1,0,0
+255,"LUX","XYZ",1801,"Beatrice Godart",1,0,0
+255,"LUX","XYZ",1802,"Suzie Godart",1,0,0
+255,"USA","PEP",1753,"Christina Gokey-Smith",1,0,0
+255,"VEN","XYZ",1807,"Sandra Gomez",1,0,0
+255,"GUA","XYZ",2589,"Maribel Gonzales",1,0,0
+255,"VEN","XYZ",2205,"Angie Gonzales Garcia",1,0,0
+255,"ESP","LTK",1689,"Lucia Gonzalez Blanco",1,0,0
+255,"USA","XYZ",1754,"Devon Gorry",1,0,0
+255,"DEN","XYZ",2328,"Cathrine Grage",1,0,0
+255,"GBR","EPI",2028,"Emma Grant",1,0,0
+255,"MEX","XYZ",1571,"Alessandra Grassi Herrera",1,0,0
+255,"AUS","BMW",2252,"Miranda Griffiths",1,0,0
+255,"ITA","TOG",1741,"Sara Grifi",1,0,0
+255,"ITA","XYZ",2946,"Natasha Grillo",1,0,0
+255,"ITA","MIC",3107,"Nina Gulino",1,0,0
+255,"CHN","XYZ",2917,"Linfang Guo",1,0,0
+255,"GBR","EPI",2375,"Corrine Hall",1,0,0
+255,"BEL","VLL",1671,"Kaat Hannes",1,0,0
+255,"CAN","XYZ",1969,"Anna Harkowska",1,0,0
+255,"GER","XYZ",2342,"Manuela Hartl",1,0,0
+255,"NOR","HPU",1647,"Tone Hatteland Lima",1,0,0
+255,"SWE","SWA",2369,"Hanna Helamb",1,0,0
+255,"AUT","XYZ",2574,"Julia Hilber",1,0,0
+255,"GBR","TRY",3092,"Amy Hill",1,0,0
+255,"LUX","LBL",2924,"Chantal Hoffmann",1,0,0
+255,"GER","XYZ",2048,"Sarah-Lena Hofmann",1,0,0
+255,"GBR","EPI",2553,"Ella Hopkins",1,0,0
+255,"GBR","XYZ",2554,"Ciara Horne",1,0,0
+255,"NOR","XYZ",2300,"Hildegunn Hovdenak",1,0,0
+255,"CZE","XYZ",2338,"Katarina Hranaiova",1,0,0
+255,"TPE","XYZ",2278,"Mei Yu Hsiao",1,0,0
+255,"AUS","XYZ",2287,"Jasmin Hurikino",1,0,0
+255,"SWE","TRY",3055,"Ellinor Huusko",1,0,0
+255,"BEL","XYZ",1884,"Sarah Ingelbrecht",1,0,0
+255,"MEX","XYZ",2372,"Roxana Islas Garcia",1,0,0
+255,"LTU","XYZ",1525,"Edita Janeliunaite",1,0,0
+255,"LTU","AST",3086,"Milda Jankauskaite",1,0,0
+255,"UZB","XYZ",2604,"Kamila Jdanova",1,0,0
+255,"HKG","GPC",2052,"Xiu Jie Jiang",1,0,0
+255,"NED","XYZ",2755,"Sigrid Jochems",1,0,0
+255,"GER","XYZ",1780,"Marlen Jöhrend",1,0,0
+255,"USA","XYZ",2424,"Emily Kachorek",1,0,0
+255,"SLO","XYZ",2898,"Urska Kalan",1,0,0
+255,"NOR","XYZ",2147,"Thrude Karlsen",1,0,0
+255,"ETH","MIC",3102,"Eyerusalem Kelil",1,0,0
+255,"NED","XYZ",2226,"Marieke Kempe",1,0,0
+255,"USA","EXG",1541,"Kaitlin Keough (Antonneau)",1,0,0
+255,"SLO","BTC",2899,"Spela Kern",1,0,0
+255,"NED","XYZ",2221,"Anouk Kerstens",1,0,0
+255,"SWE","XYZ",1423,"Jessica Kihlbom",1,0,0
+255,"AUT","XYZ",1667,"Miriam Kircher",1,0,0
+255,"GER","BCT",3068,"Lisa Klein",1,0,0
+255,"NED","XYZ",1765,"Ines Klok",1,0,0
+255,"NED","XYZ",2137,"Silke Kogelman",1,0,0
+255,"AUT","NOE",1659,"Christina Kollmann",1,0,0
+255,"GER","BCT",3090,"Clara Koppenburg",1,0,0
+255,"NED","XYZ",1865,"Claudia Koster",1,0,0
+255,"POL","XYZ",2339,"Marta Kozakiewicz",1,0,0
+255,"NZL","XYZ",2150,"Jeannie Kuhajec",1,0,0
+255,"CAN","XYZ",1979,"Veronique Labonte",1,0,0
+255,"CAN","XYZ",2593,"Audrey Labrie",1,0,0
+255,"FRA","LTK",3060,"Soline Lamboley",1,0,0
+255,"LUX","XYZ",1656,"Nathalie Lamborelle",1,0,0
+255,"DEN","XYZ",2767,"Annika Langvad",1,0,0
+255,"ESP","BPD",3062,"Paula Lanz Blazque",1,0,0
+255,"ITA","MIC",3113,"Alessandra Lari",1,0,0
+255,"ITA","XYZ",2400,"Marina Lari",1,0,0
+255,"DEN","XYZ",2329,"Fie Larsen",1,0,0
+255,"UKR","XYZ",1557,"Silvija Latozaite",1,0,0
+255,"NED","XYZ",1864,"Birgit Lavrijssen",1,0,0
+255,"KOR","XYZ",2281,"Aejung Lee",1,0,0
+255,"ESP","BPD",2894,"Lierni Lekuona Extebeste",1,0,0
+255,"ITA","TOG",3084,"Elena Leonardi",1,0,0
+255,"FRA","BRE",1585,"Jenifer Letue",1,0,0
+255,"CHN","GPC",2592,"Hongyu Liang",1,0,0
+255,"FIN","XYZ",2004,"Anna Lindström",1,0,0
+255,"SWE","XYZ",2907,"Saga Lindström",1,0,0
+255,"USA","VAI",3103,"Allison Linnell",1,0,0
+255,"CHN","XYZ",2918,"Dexiang Liu",1,0,0
+255,"CHN","XYZ",1623,"Xiao Hui Liu",1,0,0
+255,"CHN","XYZ",1625,"Xin Liu",1,0,0
+255,"AUS","BPK",3101,"Ruby Livingstone",1,0,0
+255,"ESP","LTK",1685,"Belen Lopez",1,0,0
+255,"NZL","PEP",1785,"Courteney Lowe",1,0,0
+255,"GBR","MAT",2420,"Melissa Lowther",1,0,0
+255,"COL","MIC",3108,"Laura Camila Lozano Ramirez",1,0,0
+255,"CHN","GPC",1624,"Xiao Ling Luo",1,0,0
+255,"ITA","ISG",3071,"Angela Maffeis",1,0,0
+255,"RUS","XYZ",2746,"Ekaterina Malomoura",1,0,0
+255,"ITA","BPK",3095,"Michela Maltese",1,0,0
+255,"AUS","GEW",3079,"Alexandra Manly",1,0,0
+255,"ITA","XYZ",1799,"Emma Marcelli",1,0,0
+255,"ITA","VAI",1909,"Alessia Martini",1,0,0
+255,"ESP","XYZ",1466,"Ariadna Amaya Martioda",1,0,0
+255,"RUS","XYZ",1489,"Julia Martisova",1,0,0
+255,"SUI","SEF",3110,"Riccarda Mazzotta",1,0,0
+255,"USA","XYZ",1543,"Kristin McGrath",1,0,0
+255,"SVK","BPK",3078,"Tereza Medvedova",1,0,0
+255,"NOR","XYZ",2334,"Anne-Katrine Meland",1,0,0
+255,"BEL","LBL",2925,"Molly Meywisch",1,0,0
+255,"ITA","XYZ",2940,"Giovanna Michieletto",1,0,0
+255,"USA","PEP",1897,"Meredith Miller",1,0,0
+255,"USA","XYZ",2292,"Debbie Milne",1,0,0
+255,"NOR","XYZ",2394,"Siri Minge",1,0,0
+255,"RUS","XYZ",1834,"Irina Molicheva",1,0,0
+255,"NED","XYZ",2912,"Daniella Moonen",1,0,0
+255,"CAN","XYZ",2571,"Anne-Marie Morin",1,0,0
+255,"FRA","XYZ",2284,"Justine Morinaud",1,0,0
+255,"FRA","XYZ",2285,"Eva Mottet",1,0,0
+255,"FRA","XYZ",1430,"Alexia Muffat",1,0,0
+255,"GBR","XYZ",2566,"Laura Murrey",1,0,0
+255,"KOR","XYZ",2279,"Reum Na Ah",1,0,0
+255,"NOR","XYZ",2333,"Thrude Natholmen",1,0,0
+255,"USA","XYZ",1538,"Greta Neimanas",1,0,0
+255,"USA","XYZ",1755,"Elizabeth Newell",1,0,0
+255,"FRA","XYZ",1438,"Oriane Niay",1,0,0
+255,"DEN","XYZ",2330,"Nina Nielsen",1,0,0
+255,"FIN","XYZ",2336,"Jutta Nieminen",1,0,0
+255,"NED","XYZ",2754,"Natasja Nieuwenhuizen",1,0,0
+255,"BEL","XYZ",1675,"Nathalie Nijns",1,0,0
+255,"ESP","XYZ",2572,"Mayalen Noriega",1,0,0
+255,"SLO","BTC",2900,"Alenka Novak",1,0,0
+255,"SWE","XYZ",2948,"Malin Nystrand",1,0,0
+255,"UZB","XYZ",2605,"Alexandra Okhvat",1,0,0
+255,"RSA","XYZ",1681,"Lise Olivier",1,0,0
+255,"SWE","XYZ",1711,"Madelene Olsson",1,0,0
+255,"NED","XYZ",1515,"Esther Olthuis",1,0,0
+255,"UKR","XYZ",2180,"Elizaveta Oshurkova",1,0,0
+255,"UKR","XYZ",2183,"Nina Ovcharenko",1,0,0
+255,"DEN","TRY",3063,"Olivia Overskov Jakobsen",1,0,0
+255,"GBR","MAT",2367,"Harriet Owen",1,0,0
+255,"ESP","BPD",2584,"Lourdes Oyarbide",1,0,0
+255,"ITA","TOG",2381,"Asja Paladin",1,0,0
+255,"ITA","TOG",1906,"Soraya Paladin",1,0,0
+255,"FIN","XYZ",2297,"Anne Palm",1,0,0
+255,"SWE","XYZ",2949,"Anna Pålsson",1,0,0
+255,"COL","VAI",3085,"Jessica Marcela Parra Rojas",1,0,0
+255,"USA","XYZ",2741,"Morgan Patton",1,0,0
+255,"NED","XYZ",2223,"Charlotte Peeters",1,0,0
+255,"CAN","XYZ",2602,"Roxanne Pepin",1,0,0
+255,"AUT","NOE",1660,"Christina Perchtold",1,0,0
+255,"FRA","XYZ",2374,"Melanie Pette",1,0,0
+255,"CAN","DNA",2913,"Gabrielle Pilote-Fortin",1,0,0
+255,"AUT","XYZ",1662,"Daniela Pintarelli",1,0,0
+255,"GUM","XYZ",2291,"Lenore Pipes",1,0,0
+255,"LTU","XYZ",2955,"Rasa Pocyte",1,0,0
+255,"KAZ","AST",3064,"Faina Potapova",1,0,0
+255,"USA","XYZ",1891,"Jennifer Purcell",1,0,0
+255,"DEN","XYZ",1985,"Michelle Quaade",1,0,0
+255,"USA","BMW",2199,"Liza Rachetto",1,0,0
+255,"AUT","XYZ",2573,"Larissa Ratkic",1,0,0
+255,"ITA","MIC",3066,"Vittoria Reati",1,0,0
+255,"FRA","FUT",3059,"Greta Richioud",1,0,0
+255,"AUT","NOE",2933,"Elisabeth Riegler",1,0,0
+255,"AUT","XYZ",1663,"Iris Riepan",1,0,0
+255,"NED","LBL",3075,"Anouk Rijff",1,0,0
+255,"AUT","LBL",2926,"Sarah Rijkes",1,0,0
+255,"MEX","XYZ",2080,"Mayra Rocha",1,0,0
+255,"GBR","WHT",1507,"Eileen Roe",1,0,0
+255,"BEL","XYZ",1856,"Inge Roggeman",1,0,0
+255,"ITA","VAI",2956,"Miriam Romei",1,0,0
+255,"AUS","XYZ",2759,"Emily Roper",1,0,0
+255,"GBR","XYZ",2248,"Claire Rose (Galloway)",1,0,0
+255,"ITA","ALE",3056,"Beatrice Rossato",1,0,0
+255,"FRA","LBL",1588,"Marion Rousse",1,0,0
+255,"GBR","PIS",1733,"Joanna Rowsell",1,0,0
+255,"GBR","MAT",1734,"Penny Rowson",1,0,0
+255,"CHN","XYZ",2919,"Yuemin Ruan",1,0,0
+255,"SLO","BTC",2903,"Anja Rugelj",1,0,0
+255,"SLO","XYZ",2904,"Tjasa Rutar",1,0,0
+255,"CZE","XYZ",1736,"Martina Ruzickova",1,0,0
+255,"AUS","XYZ",1698,"Carla Ryan",1,0,0
+255,"SWE","XYZ",1427,"Malin Rydlund",1,0,0
+255,"GER","XYZ",2047,"Madeleine Sandig",1,0,0
+255,"SWE","XYZ",1421,"Beata Sandström",1,0,0
+255,"ESP","BPD",3096,"Ainara Sanz Vaz-Romero",1,0,0
+255,"GER","XYZ",1632,"Lina-Kristin Schink",1,0,0
+255,"AUT","XYZ",1661,"Claudia Schlager",1,0,0
+255,"SUI","XYZ",1533,"Pascale Schnider",1,0,0
+255,"NED","XYZ",1866,"Geerike Schreurs",1,0,0
+255,"LTU","XYZ",2079,"Vilija Sereikaite",1,0,0
+255,"GBR","XYZ",2246,"Gaby Shaw",1,0,0
+255,"GBR","XYZ",2031,"Julia Shaw",1,0,0
+255,"CAN","BMW",1532,"Rhae-Christie Shaw",1,0,0
+255,"FRA","XYZ",2371,"Marion Sicot",1,0,0
+255,"MEX","XYZ",2908,"Fernanda Sierra Mendez",1,0,0
+255,"DEN","MAT",2909,"Christina Siggaard",1,0,0
+255,"LTU","XYZ",1528,"Agne Silinyte",1,0,0
+255,"BLR","XYZ",2610,"Elenka Sitsko",1,0,0
+255,"SWE","XYZ",1425,"Linnea Sjöblom",1,0,0
+255,"NED","XYZ",2122,"Lisanne Soemanta",1,0,0
+255,"CHN","XYZ",2920,"Niman Song",1,0,0
+255,"ITA","SEF",3112,"Manuela Sonzogni",1,0,0
+255,"UKR","XYZ",1918,"Aleksandra Sosenko",1,0,0
+255,"IRL","XYZ",2950,"Melanie Späth",1,0,0
+255,"USA","OPW",1879,"Ally Stacher",1,0,0
+255,"NED","TLP",2916,"Kyara Stijns",1,0,0
+255,"GER","XYZ",2934,"Brigitte Stocker",1,0,0
+255,"AUT","XYZ",2935,"Stephanie Strobl",1,0,0
+255,"AUS","XYZ",2752,"Grace Sulzberger",1,0,0
+255,"POL","VAI",3104,"Ewelina Szybiak",1,0,0
+255,"ITA","XYZ",1568,"Luisa Tamanini",1,0,0
+255,"ITA","XYZ",2411,"Roberta Tasca",1,0,0
+255,"RSA","XYZ",1679,"Cherise Taylor",1,0,0
+255,"ESP","LTK",3065,"Alba Teruel Ribes",1,0,0
+255,"AUT","XYZ",1961,"Barbara Tesar",1,0,0
+255,"GBR","XYZ",2599,"Elinor Thorogood",1,0,0
+255,"CHN","GPC",2921,"Yuanyuan Tian",1,0,0
+255,"GBR","XYZ",2361,"Jo Tindley",1,0,0
+255,"BEL","XYZ",2310,"Alexandra Tondeur",1,0,0
+255,"EST","XYZ",1737,"Grete Treier",1,0,0
+255,"NED","XYZ",1845,"Esra Tromp",1,0,0
+255,"ITA","XYZ",2941,"Maria Adele Tuia",1,0,0
+255,"ESP","XYZ",1688,"Irene Usabiaga",1,0,0
+255,"JPN","XYZ",2896,"Minami Uwano",1,0,0
+255,"USA","XYZ",2582,"Jennifer Valente",1,0,0
+255,"DEN","XYZ",2951,"Julie Valgren Andersen",1,0,0
+255,"NED","SWA",2265,"Ashlynn Van Baarle",1,0,0
+255,"RSA","XYZ",1680,"Joanna Van de Winkel",1,0,0
+255,"BEL","VLL",3098,"Steffy Van Den Haute",1,0,0
+255,"NED","PHV",2089,"Bianca van den Hoek",1,0,0
+255,"NED","XYZ",1498,"Laura van der Kamp",1,0,0
+255,"NED","XYZ",2404,"Janine van der Meer",1,0,0
+255,"BEL","LWZ",2311,"Kaat Van der Meulen",1,0,0
+255,"USA","XYZ",2196,"Laura Van Gilder",1,0,0
+255,"AUT","NOE",2936,"Alisa van Oijen",1,0,0
+255,"NED","DLT",2364,"Sanne van Paassen",1,0,0
+255,"NED","XYZ",1708,"Marieke van Wanroij",1,0,0
+255,"NED","SWA",2565,"Nathaly van Wesdonk",1,0,0
+255,"BEL","VLL",3080,"Saartje Vandenbroucke",1,0,0
+255,"BEL","LBL",3081,"Jesse Vandenbulcke",1,0,0
+255,"ITA","XYZ",1594,"Chiara Vanni",1,0,0
+255,"BEL","XYZ",1654,"Grace Verbeke",1,0,0
+255,"BEL","XYZ",1964,"Elien Vercamer",1,0,0
+255,"BEL","XYZ",2575,"Ine Vercammen",1,0,0
+255,"BEL","XYZ",2927,"Sara Verhaest",1,0,0
+255,"BEL","XYZ",1939,"Femke Verstichelen",1,0,0
+255,"NED","XYZ",2222,"Chantal Verstraten",1,0,0
+255,"UKR","XYZ",1806,"Viktoriya Vologdnina",1,0,0
+255,"GBR","MAT",1732,"Jessie Walker",1,0,0
+255,"SUI","XYZ",2389,"Sandra Weiss",1,0,0
+255,"BEL","XYZ",1882,"Laure Werner",1,0,0
+255,"NZL","XYZ",2423,"Sophie Williamson",1,0,0
+255,"POL","XYZ",2770,"Maja Wloszczowska",1,0,0
+255,"NED","TRY",1825,"Melanie Woering",1,0,0
+255,"POL","XYZ",2407,"Malgorzata Wojtyra",1,0,0
+255,"CHN","GPC",1622,"Wan Yiu Jamie Wong",1,0,0
+255,"AUT","NOE",2937,"Eva Wutti",1,0,0
+255,"GBR","XYZ",1731,"Helen Wyman",1,0,0
+255,"CHN","XYZ",2922,"Weina Yan",1,0,0
+255,"CHN","XYZ",1621,"Sheng Yongyan",1,0,0
+255,"ITA","SEF",2942,"Luisa Zenna",1,0,0
+255,"CHN","GPC",2591,"Nan Zhang",1,0,0
+255,"CHN","GPC",2557,"Yuzhuo Zhang",1,0,0
+255,"CHN","GPC",2923,"Xisha Zhao",1,0,0
+255,"NED","SWA",2906,"Nicky Zijlaard",1,0,0
+255,"SLO","BTC",3077,"Anita Znidarsic",1,0,0
